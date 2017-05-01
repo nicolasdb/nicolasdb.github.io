@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NdB 1"
+title: "first post"
 date: 2017/04/30
 ---
 
