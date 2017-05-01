@@ -1,7 +1,7 @@
 [*PicoCMS*]: http://picocms.org/
 [schema1]: https://cloud.githubusercontent.com/assets/12049360/25575506/57ecfa42-2e58-11e7-9bf6-8adccb3ac353.jpg
 
-# nicolasdb.github.io
+# [nicolasdb.github.io](https://nicolasdb.github.io/)
 
 Le but de ce repo est de tester et mettre en place mon mini site de présentation et ensuite d'y réunir les tutoriels, projets réalisés.   
 Par la suite, cette technique de mini site pourra être complétée par l'installation de [*PicoCMS*] sur l'hébergement serveur Openfab pour gérer plus simplement la mise en page qu'avec *Jeckyll* (géré par défaut par github)  
