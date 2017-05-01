@@ -4,6 +4,11 @@ title: "CV"
 date: 2017/05/01
 ---
 
-### Setting up a Blog
+## What I do
+### Makerspace/fablab manager and pluripotentialist
 
-A Jekyll-based blog uses the same conventions that we've familiarized ourselves with in the previous steps, but takes things further by adding a few more for us to follow. Jekyll is very flexible allowing you to extend your site as you wish, but in this guide we're only going to cover the basics: creating a post, making a page to list our posts, creating a custom permalink for posts, and creating an RSS feed for the blog.
+Je suis particulièrement attentif à **l'écologie** et à mon impact sur **l'environnement**. 
+**Autodidacte**, j’apprends **l'informatique, l'électronique, la mécanique** et tout ce dont j'ai besoin pour **réparer, créer ou inventer** les objets qui me sont nécessaires pour explorer la réduction de mon impact écologique.
+Ma passion est d'expérimenter le "faire soi-même" (Do-it-yourself) et surtout de développer l'aspect "faire ensemble" (Do-it-together) pour de multiples raisons mais principalement parce que je ne suis pas le seul à penser que c'est plus fun de faire ensemble.
+
+Enfin, je tente d'interconnecter au mieux ma vie tant professionnelle que personnelle ; au sein de mon environnement car j'ai conscience d'en faire intégralement partie.

@@ -1,7 +1,11 @@
 ---
 layout: default
-title: NdB - CV
+title: about
 ---
+
+## More about my life... 
+
+
 
     <div class="intro">
         <h2>Curry culom aux fruits</h2>
