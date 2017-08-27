@@ -19,7 +19,7 @@ L'important est donc la qualitée de coupe mais SURTOUT la répétabilité.
 ## test des méthodes disponibles. 
 ### Foam cutter
 
-J'ai vite fais dessiné un support pour l'appareil, un truc pour maintenir la lame perpendiculaire au gabarit.  
+J'ai dessiné vite fait un support pour l'appareil, un truc pour maintenir la lame perpendiculaire au gabarit.  
 ![screenshot 40](https://user-images.githubusercontent.com/12049360/29752140-ce55abc2-8b58-11e7-9793-331de4a02bfb.jpg)  
 Modèle fusion360 dispo ici: [http://a360.co/2iAVpXK](http://a360.co/2iAVpXK)  
 
