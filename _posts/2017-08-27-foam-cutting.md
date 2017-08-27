@@ -4,8 +4,7 @@ title: "Foam cutting"
 date: 2017/08/27
 ---
 
-# foam cutting
-**objectif:**  
+## objectif:
 Découper des panneaux de mousses et les encoller pour obtenir un lettrage de +- 10cm d'épais.  
 Les lettres sont découpées à la cnc en MDF 18mm, ce sera nos gabarits à suivre avec:  
 - [Foam cutter 2mm](#hot)
