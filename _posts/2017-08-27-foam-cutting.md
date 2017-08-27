@@ -28,8 +28,7 @@ Test du foam cutter, directement sur gabarit visé sur 2 plaques de mousse isola
 C'est pas terrible, la lame chaude plie et la chaleur n'est pas bien répartie ce qui chie dans le ventilo. Très difficile de garder une vitesse constante.   
 ![image](https://user-images.githubusercontent.com/12049360/29752017-40eb5ae0-8b56-11e7-943a-7b702d00f0e2.png)
 
-
-<a name=scie"/>
+<a name="scie"/>
 
 ### Scie sauteuse
 Ben ouais, je me suis dis que si je précoupais la plaque d'abord à la scie sauteuse et puis faire une plaque à la fois avec le foam cutter, ça irai peut-être mieux.  
@@ -39,8 +38,7 @@ Et en fait, en utilisant un lame cleancut pour bois, ça marche pas mal. La déc
 Ceci dit, j'ai retesté le foam cutter 1 plaque de mousse à la fois, après une prédécoupe à +- 1 cm du bord gabarit et la découpe est plus propre mais il est très important d'arriver à garder une vitesse constante. C'est risqué et la répétabilité du geste est probablement nule.  
 ![image](https://user-images.githubusercontent.com/12049360/29752001-1c74bfee-8b56-11e7-97b5-867f92ebc57e.png)
 
-
-<a name=def"/>
+<a name="def"/>
 
 ### défonceuse
 Munie d'une fraise droite à roulement, 31,5mm de lame.  
