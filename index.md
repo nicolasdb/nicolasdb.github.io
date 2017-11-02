@@ -18,12 +18,11 @@ I think there still very much to explore in humans capabilities, what we forget 
 
 okok ok, so.  
 I want this minisite to be my portfolio but also an example on how it could very usefull for myself first and simple to share knowledge and colaborative good pratices whitin github. 
-Most of makers in my fablab don't want to learn github because (a lot of different shady excuses) but they just don't see the point to learn github, it's hard, it's not logical (yet) and they don't code (they think), so it's just classified as "not for them" and "to hard" and stored in their "I can't do it".  
+Most of makers in my fablab don't want to learn github because (a lot of different shady excuses) but they just don't see the point to learn github, it's hard, it's not logical (yet) and they don't code (they think), so it's just filed as "not for them" and "to hard" and stored in their "I can't do it".  
+
+Yes, you can! Just ask to SHia if you can do it, [let's see what he'll have to say about it](https://www.youtube.com/watch?v=-NRaUjbZuOY).  
+
+And this is how it can be a first use for you. I didn't know neither how to but afeter learning a bit of github and markdown then creating my own free simple website is not easy but not very hard. And then, now, i'm enable to understand how to collaborate with other project and meet more people. Because you are my friend, you'll be never alone again, so come on!   
 
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
-
-Yes, you can.  
-And this is how it can be a first use for you. Learning a bit of github and markdown then creating your own free simple website is easy but not very hard. And then, enable you to understand how to collaborate whit other project.  
-
-
 
