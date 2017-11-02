@@ -4,12 +4,12 @@ title: NdB - home
 ---
 
 # Nicolas de Barquin
-## my exploration on minisite github
-
 Founder and manager of **[Openfab](http://openfab.be)**  
 
 ![image](https://user-images.githubusercontent.com/12049360/32322176-eb1bb2de-bfc3-11e7-97d8-a2d65d46fec7.png)
 
+
+## my exploration on minisite github
 ### What exploration?
 
 Well, I see myself as an explorator more than an inventor, I had and still have the chance to be able to do what want and what I feel right. 
