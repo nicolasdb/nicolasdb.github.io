@@ -4,7 +4,9 @@ title: NdB - home
 ---
 
 # Nicolas de Barquin
-Founder and manager of **[Openfab](http://openfab.be)**  
+- Founder @[Openfab](http://openfab.be)  
+- Maker and fabmanager @[Openfab](http://openfab.be)
+- Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)
 
 ![image](https://user-images.githubusercontent.com/12049360/32322176-eb1bb2de-bfc3-11e7-97d8-a2d65d46fec7.png)
 
