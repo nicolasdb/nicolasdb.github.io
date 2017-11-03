@@ -18,3 +18,8 @@ tuto suivi
 [17.05.01] astuces pour les images  
 +http://solutionoptimist.com/2013/12/28/awesome-github-tricks/  
 +http://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown   
+
+[17.11.03] I have found a new and better way for using a nice template  
+I was kind of stuck since April, I was not pleased by the template for the first guide and I don't know nearly nothing in html + css, I just know what is it, I understand concepts but don't know how to use it.  
+But this one, will help a lot since it's free, minimal and well explain for a noobs like me.  
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
