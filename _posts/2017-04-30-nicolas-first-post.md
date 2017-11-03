@@ -1,7 +1,12 @@
 ---
-layout: post
-title: "first post"
-date: 2017/04/30
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 [img1]: http://iboogeek.com/958-thickbox_square_zen/akira-tao-pai-pai.jpg
