@@ -93,9 +93,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/nicolas.de.barquin
+  facebook         : nicolas.de.barquin
   foursquare       :
-  github           : https://github.com/nicolasdb
+  github           : nicolasdb
   gitlab           :
   google_plus      :
   keybase          :
@@ -243,7 +243,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
