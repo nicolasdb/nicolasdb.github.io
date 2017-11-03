@@ -1,7 +1,8 @@
 ---
-layout: home
-author_profile: true
+layout: default
+title: NdB - home
 ---
+
 # Nicolas de Barquin
 - Founder @[Openfab](http://openfab.be)  
 - Maker and fabmanager @[Openfab](http://openfab.be)

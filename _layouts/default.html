@@ -1,34 +1,33 @@
----
----
-
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.6.0 by Michael Rose
-  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
--->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+	
+		<body>
+			<nav>
+    			<ul>
+        			<li><a href="/">Home</a></li>•
+	        		<li><a href="/about">About</a></li>•
+        			<li><a href="/cv">CV</a></li>•
+        			<li><a href="/blog">Blog</a></li>
+    			</ul>
+			</nav>
+	
+		<div class="container">
+    		{{ content }}
+		</div><!-- /.container -->
+	
+		<footer>
+    		<ul>
+        		<!--<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li> -->
+        		<li><a href="https://github.com/nicolasdb/nicolasdb.github.io">github.com/nicolasdb</a></li>
+				<li><a href="https://github.com/openfab-lab">github.com/openfab-lab</a></li>
+			</ul>
+		</footer>
+		
+	</body>
+	
 </html>
