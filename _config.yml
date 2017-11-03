@@ -16,7 +16,7 @@ description              : "An amazing website."
 url                      : https://nicolasdb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/nicolasdb/nicolasdb.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : https://user-images.githubusercontent.com/12049360/32322176-eb1bb2de-bfc3-11e7-97d8-a2d65d46fec7.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : assets/images/32322176-eb1bb2de-bfc3-11e7-97d8-a2d65d46fec7.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
