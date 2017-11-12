@@ -22,5 +22,5 @@ Actually, this was my second attempt on gh-pages but still the first post.
 The first one was this one   
 **[gitmini0](https://nicolasdb.github.io/gitmini0)**  
 
-The second website is still here  
+The second website is still here but a bit broken since the new version    
 **[gitMiniBlog](https://nicolasdb.github.io/gitMiniBlog)** 
