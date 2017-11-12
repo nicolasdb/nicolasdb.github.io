@@ -3,7 +3,7 @@ title: "Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/jens-lelie-15662.jpg
-  teaser: assets/images/jens-lelie-15662.jpg-th.jpg
+  teaser: /assets/images/jens-lelie-15662.jpg-th.jpg
 sidebar:
   - title: "Role"
     image: https://user-images.githubusercontent.com/12049360/32700229-353af766-c7c2-11e7-98b7-94a943654fe5.png

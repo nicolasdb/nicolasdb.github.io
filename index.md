@@ -4,15 +4,15 @@ permalink: /
 header:
   overlay_color: "#656565"
   page.title: Nicolas de Barquin
-  caption: Photo by Alex Holyoake on Unsplash
+  caption: Photo by Jens Lelie on Unsplash
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
 Maker and fabmanager @[Openfab](http://openfab.be)<br />
 Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
 Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)'
 
 header:
-  image: /assets/alex-holyoake-120404.1600.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/jens-lelie-15662.jpg
+  teaser: /assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
     image: https://user-images.githubusercontent.com/12049360/32700229-353af766-c7c2-11e7-98b7-94a943654fe5.png
