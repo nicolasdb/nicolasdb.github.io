@@ -4,7 +4,7 @@ main:
      url: /about/
    - title: "Posts"
      url: /year-archive/
-   - title: "Contribute"
+   - title: "How to contribute"
      url: /sample-page/
    - title: "My own 404"
      url: /404/
