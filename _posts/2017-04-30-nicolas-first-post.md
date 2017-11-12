@@ -13,7 +13,7 @@ tags:
 Well.   
 Finally got around to put this old website together.    
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.   
-**-> It's actually is a lot easier than I thought it was going to be.  :muscle:**
+**-> It's actually a lot easier than I thought it was going to be.  :muscle:**
 
 ![img1]
 
