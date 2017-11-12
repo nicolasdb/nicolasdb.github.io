@@ -2,7 +2,7 @@
 main:
    - title: "About"
      url: /about/
-   - title: "Posts"
+   - title: "Today I Learned"
      url: /year-archive/
    - title: "How to contribute?"
      url: /sample-page/
@@ -10,7 +10,7 @@ main:
      url: /404/
  #  - title: "LastOne"
  #    url: https://nicolasdb.github.io/gitMiniBlog
-   - title: "Sitemap Ref"
-     url: https://mmistakes.github.io/minimal-mistakes/sitemap
-  # - title: "CC-By-SA"
-  #  url: /terms/
+ #  - title: "Sitemap Ref"
+ #   url: https://mmistakes.github.io/minimal-mistakes/sitemap
+ # - title: "CC-By-SA"
+ #  url: /terms/
