@@ -30,7 +30,7 @@ gallery:
 ## my exploration on minisite github
 ### What exploration?
 
-Well, I see myself as an explorer more than an inventor, I had and still have the chance to do what I want and what I feel right.
+Well, I see myself as an explorer more than anything else, I had and still have the chance to do what I want and what I feel right.
 I love sci-fi, space... the last frontier and shit, I love the simplicity of our complex nature... but today, what is left to explore? Except if you have a shitload of money, I mean.  
 I think there is still very much to explore in humans capabilities, what we forgot about us and the small sparke of curiosity we, for most of us, have buried under a thick layer of adulthood.
 
