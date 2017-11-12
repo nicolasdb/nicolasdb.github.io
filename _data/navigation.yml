@@ -4,9 +4,13 @@ main:
      url: /about/
    - title: "Posts"
      url: /year-archive/
+   - title: "Contribute"
+     url: /sample-page/
    - title: "My own 404"
      url: /404/
-   - title: "Sitemap"
-     url: /sitemap/
    - title: "LastOne"
      url: https://nicolasdb.github.io/gitMiniBlog
+   - title: "Sitemap"
+     url: /sitemap/
+   - title: "CC-By-SA"
+     url: /terms/
