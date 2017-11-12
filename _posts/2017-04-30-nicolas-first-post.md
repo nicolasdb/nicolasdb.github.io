@@ -23,4 +23,4 @@ The first one was this one
 **[gitmini0](https://nicolasdb.github.io/gitmini0)**  
 
 The second website is still here  
-**[gitMiniBlog](https://github.com/nicolasdb/gitMiniBlog)** 
+**[gitMiniBlog](https://nicolasdb.github.io/gitMiniBlog)** 
