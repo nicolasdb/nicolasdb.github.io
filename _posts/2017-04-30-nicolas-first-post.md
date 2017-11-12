@@ -17,10 +17,10 @@ Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Mar
 
 ![img1]
 
-### note
+## note
 Actually, this was my second attempt on gh-pages but still the first post.  
 The first one was this one   
 **[gitmini0](https://nicolasdb.github.io/gitmini0)**  
 
-The second website is still here but a bit broken since the new version    
+And the second website is here but a bit broken since the new version    
 **[gitMiniBlog](https://nicolasdb.github.io/gitMiniBlog)** 
