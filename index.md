@@ -1,25 +1,19 @@
 ---
-title: "Nicolas de Barquin"
-permalink: /
-header:
-  overlay_color: "#656565"
-  page.title: Nicolas de Barquin
-  caption: Photo by Jens Lelie on Unsplash
-excerpt: 'Founder @[Openfab](http://openfab.be)<br />
-Maker and fabmanager @[Openfab](http://openfab.be)<br />
-Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
-Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)'
-
+title: "Identity"
+excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/jens-lelie-15662.jpg
-  teaser: /assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: /assets/images/jens-lelie-15662-th.jpg
 sidebar:
   - title: "Role"
     image: https://user-images.githubusercontent.com/12049360/32700229-353af766-c7c2-11e7-98b7-94a943654fe5.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    image_alt: "me"
+    text: "Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Founder @[Openfab](http://openfab.be)<br />
+    Maker and fabmanager @[Openfab](http://openfab.be)<br />
+    Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
+    "
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -31,6 +25,7 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
+
 ## my exploration on minisite github
 ### What exploration?
 
