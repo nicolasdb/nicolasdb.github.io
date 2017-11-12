@@ -1,6 +1,6 @@
 ---
-title: "Identity"
-layout: splash
+title: "nicolas de Barquin"
+layout: archive
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/jens-lelie-15662.jpg
