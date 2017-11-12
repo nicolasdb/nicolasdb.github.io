@@ -1,7 +1,11 @@
 ---
-layout: post
 title: "first post"
 date: 2017/04/30
+categories:
+  - Post
+tags:
+  - website
+  - github
 ---
 
 [img1]: http://iboogeek.com/958-thickbox_square_zen/akira-tao-pai-pai.jpg

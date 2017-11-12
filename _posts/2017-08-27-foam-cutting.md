@@ -1,12 +1,11 @@
 ---
 title: "Foam cutting"
-excerpt_separator: "<!--more-->"
 categories:
   - Tuto
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - foam
+  - router
+  - hot wire
 ---
 
 ## objectif:
@@ -17,11 +16,11 @@ Les lettres sont découpées à la cnc en MDF 18mm, ce sera nos gabarits à suiv
 - [défonceuse](#def)
 
 Chaques lettres seront découpées 3x et encollées/vissées et peintes puis collée sur un panneau pour une enseigne.  
-L'important est donc la qualitée de coupe mais SURTOUT la répétabilité. 
+L'important est donc la qualitée de coupe mais SURTOUT la répétabilité.
 
 <a name="hot"/>
 
-## test des méthodes disponibles. 
+## test des méthodes disponibles.
 ### Foam cutter
 
 J'ai dessiné vite fait un support pour l'appareil, un truc pour maintenir la lame perpendiculaire au gabarit.  
@@ -53,6 +52,6 @@ Munie d'une fraise droite à roulement, 31,5mm de lame.
 Encore une fois, je prépare grossièrement à la scie sauteuse.  
 ![image](https://user-images.githubusercontent.com/12049360/29752006-2af05fc4-8b56-11e7-89e6-f00e6545d34f.png)  
 
-hé ben, voilà, en fait la technique à la défonceuse offre le meilleur résultat. C'est clean, c'est droit, c'est tjs pareil tout du long. 
+hé ben, voilà, en fait la technique à la défonceuse offre le meilleur résultat. C'est clean, c'est droit, c'est tjs pareil tout du long.
 Voilà la bonne méthode donc.  
 ![image](https://user-images.githubusercontent.com/12049360/29752003-2532b1ea-8b56-11e7-8a3b-aea0a5901c95.png)  
