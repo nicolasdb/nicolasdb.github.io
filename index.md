@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/jens-lelie-15662-th.jpg
 sidebar:
   - title: "Role"
-    image: https://user-images.githubusercontent.com/12049360/32700229-353af766-c7c2-11e7-98b7-94a943654fe5.png
+    image: /assets/images/octobermake00.gif
     image_alt: "me"
     text: "Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)"
   - title: "Responsibilities"
