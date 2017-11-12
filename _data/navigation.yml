@@ -2,7 +2,7 @@
 main:
    - title: "About"
      url: /about/
-   - title: "Posts"
+   - title: "Today I Learned"
      url: /year-archive/
    - title: "How to contribute?"
      url: /sample-page/
