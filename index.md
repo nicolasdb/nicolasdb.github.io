@@ -10,7 +10,7 @@ header:
 excerpt: 'Founder @[Openfab](http://openfab.be)<br />
 Maker and fabmanager @[Openfab](http://openfab.be)<br />
 Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
-[Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality) and Explorer'
+Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)'
 ---
 ## my exploration on minisite github
 ### What exploration?
