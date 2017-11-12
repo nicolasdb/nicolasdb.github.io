@@ -45,6 +45,6 @@ Most of makers I met, don't want to learn github because (a lot of different sha
 Yes, you can! Just ask to Shia if you can't do it, [let's see what he has to say about it](https://www.youtube.com/watch?v=-NRaUjbZuOY).  
 
 And this is how it can be a first use for you.   
-I didn't know neither how to, but after learning a bit of github, a bit of markdown and then creating my own free simple website. Ok, it's not easy but not very hard. But look Marty! Now, I'm able to understand how to collaborate with other projects and meet more people all arround the world. Because you are my friend, you'll be never alone again, so come on! It's time to get schwifty!   
+I didn't know neither how to, but after learning a bit of github, a bit of markdown and then creating my [own free simple website](https://nicolasdb.github.io/post/nicolas-first-post). Ok, it's not easy but not very hard. But look Marty! Now, I'm able to understand how to collaborate with other projects and meet more people all arround the world. Because you are my friend, you'll be never alone again, so come on! It's time to get schwifty!   
 
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
