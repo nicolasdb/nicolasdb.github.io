@@ -1,5 +1,5 @@
 ---
-title: "Identity"
+title: "nicolas de Barquin"
 layout: archive
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
