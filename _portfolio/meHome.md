@@ -2,15 +2,17 @@
 title: "Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/jens-lelie-15662.jpg
+  teaser: assets/images/jens-lelie-15662.jpg-th.jpg
 sidebar:
   - title: "Role"
     image: https://user-images.githubusercontent.com/12049360/32700229-353af766-c7c2-11e7-98b7-94a943654fe5.png
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    image_alt: "me"
+    text: "Founder @[Openfab](http://openfab.be)"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Maker and fabmanager @[Openfab](http://openfab.be)<br />
+    Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
+    Explorer and [Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality)"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
