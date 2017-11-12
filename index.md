@@ -1,7 +1,7 @@
 ---
 title: "nicolas de Barquin"
 layout: archive
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "I want this github-page to be my portfolio but also an example on how awesomely usefull github can be."
 header:
   image: /assets/images/jens-lelie-15662.jpg
   teaser: /assets/images/jens-lelie-15662-th.jpg
