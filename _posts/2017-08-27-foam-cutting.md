@@ -1,7 +1,12 @@
 ---
-layout: post
 title: "Foam cutting"
-date: 2017/08/27
+excerpt_separator: "<!--more-->"
+categories:
+  - Tuto
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
 
 ## objectif:

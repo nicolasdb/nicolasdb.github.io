@@ -1,16 +1,17 @@
 ---
-layout: default
-title: NdB - home
+title: "Nicolas de Barquin"
+layout: splash
+permalink: /
+header:
+  overlay_color: "#656565"
+  overlay_image: /assets/alex-holyoake-120404.1600.jpg
+  page.title: Nicolas de Barquin
+  caption: Photo by Alex Holyoake on Unsplash
+excerpt: 'Founder @[Openfab](http://openfab.be)<br />
+Maker and fabmanager @[Openfab](http://openfab.be)<br />
+Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
+[Multipotentialist](https://en.wikipedia.org/wiki/Multipotentiality) and Explorer'
 ---
-
-# Nicolas de Barquin
-- Founder @[Openfab](http://openfab.be)  
-- Maker and fabmanager @[Openfab](http://openfab.be)
-- Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)
-
-![image](https://user-images.githubusercontent.com/12049360/32322176-eb1bb2de-bfc3-11e7-97d8-a2d65d46fec7.png)
-
-
 ## my exploration on minisite github
 ### What exploration?
 
@@ -28,4 +29,5 @@ And this is how it can be a first use for you.
 I didn't know neither how to, but after learning a bit of github, a bit of markdown and then creating my own free simple website. Ok, it's not easy but not very hard. But look Marty! Now, I'm able to understand how to collaborate with other projects and meet more people all arround the world. Because you are my friend, you'll be never alone again, so come on! It's time to get schwifty!   
 
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
+
 
