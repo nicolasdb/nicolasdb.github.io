@@ -35,7 +35,7 @@ I love sci-fi, space... the last frontier and shit, I love the simplicity of our
 I think there is still very much to explore in humans capabilities, what we forgot about us and the small sparke of curiosity we, for most of us, have buried under a thick layer of adulthood.
 
 okok ok, so.  
-I want this minisite to be my portfolio but also an example on how it could very usefull for myself first and simple to share knowledge and colaborative good pratices whitin github.
+I want this github-page to be my portfolio but also an example on how it could very usefull for myself first and simple to share knowledge and colaborative good pratices whitin github.
 Most of makers I met, don't want to learn github because (a lot of different shady excuses) but they just don't see the point to learn github, it's hard, it's not logical (yet) and they don't code (they think), so it's just filed as "not for them" and "to hard" and stored in their "I can't do it" drawer.  
 
 Yes, you can! Just ask to Shia if you can't do it, [let's see what he has to say about it](https://www.youtube.com/watch?v=-NRaUjbZuOY).  
