@@ -10,7 +10,7 @@ sidebar:
     image_alt: "mission goal"
     text: "Design thinking, Business model, Ecosystem, Gamification, Agile managment"
   - title: "Skills"
-    text: "Empathy, permaculture design, github, gaming development, accounting, timetracking, ..."
+    text: "Leadership, Empathy, permaculture design, github, gaming development, accounting, timetracking, ..."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
