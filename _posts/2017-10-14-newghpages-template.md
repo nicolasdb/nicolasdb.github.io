@@ -18,10 +18,11 @@ Since we don't use any server, everything is take cared by github online.
 {% raw %}<img src="https://user-images.githubusercontent.com/12049360/32783449-14fa6384-c94c-11e7-96bc-2ed08f71e164.png
 " alt="">{% endraw %}
 
-To help during my setup I fill this issue with my mistakes or comments.  
+To help during my setup I have filled this issue with my mistakes, my loot and comments.  
 [It could help... I don't know.](https://github.com/nicolasdb/nicolasdb.github.io/issues/10)
 
-I'll assume you already have a github account then...
+I'll assume you already have a github account and I'll skip some change I made on \_config.yml  
+Let's start then...  
 
 1. clone on your computer the repo of the future website. If you tried already, you'll have something with your name and .github.io with stuff into, that's the one.  
 2. No need to clone the template repo, just download the .zip  
