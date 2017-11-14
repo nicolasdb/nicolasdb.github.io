@@ -1,9 +1,9 @@
 ---
-title: "Ginger Gulp Identity"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+title: "Pack openbadges"
+excerpt: "Pack openbadges for makerspace"
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: /assets/images/unsplash-gallery-image-3-th.jpg
+  image: http://www.jellyneo.net/images/tk/skill_levels.png
+  teaser: http://www.jellyneo.net/images/tk/skill_levels.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
