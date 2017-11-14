@@ -1,5 +1,6 @@
 ---
 title: "install gh-pages template"
+excerpt: "How to install template in github online without messing with jekyll or ruby and gem command line"
 categories:
   - Tuto
 tags:
@@ -24,7 +25,7 @@ I'll assume you already have a github account then...
 
 1. clone on your computer the repo of the future website. If you tried already, you'll have something with your name and .github.io with stuff into, that's the one.  
 2. No need to clone the template repo, just download the .zip  
-For example, [use mine for now](https://github.com/nicolasdb/nicolasdb.github.io/archive/master.zip).
+For example, [use mine for now,](https://github.com/nicolasdb/nicolasdb.github.io/archive/master.zip)  I have made all the changes we need from the original repo.
 3. Back to your xxx.github.io folder, delete everything BUT the .git folder   
 ![image](https://user-images.githubusercontent.com/12049360/32784466-34f65b72-c94f-11e7-80f7-aca55ab5a470.png)  
 It's hidden so if you don't see it, good, leave it hidden. It contain all the data for git, the commits and shit.
@@ -35,7 +36,7 @@ It's hidden so if you don't see it, good, leave it hidden. It contain all the da
    - you can try with these lines. It's a good opportunity to try command line. It's easy.
 
 Just follow this, one by one.  
-*IF you're on PC, open "git Shell", 
+*IF you're on PC, open "git Shell",  
 ELSE any terminal.*
    ```
    cd valonlisbeth.github.io

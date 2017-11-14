@@ -5,7 +5,7 @@ main:
    - title: "Today I Learned"
      url: /year-archive/
    - title: "My quests"
-     url: https://nicolasdb.github.io/gitMiniBlog
+     url: /portfolio/
    - title: "How to contribute?"
      url: /sample-page/
    - title: "My own 404"
