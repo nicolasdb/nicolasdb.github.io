@@ -2,8 +2,8 @@
 title: "Maker Passport"
 excerpt: "A passport for maker communities, to earn skills and share trust, to explore and meet makers without borders "
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: /assets/images/unsplash-gallery-image-3-th.jpg
+  image: https://user-images.githubusercontent.com/12049360/27840612-afea8c30-60fa-11e7-80d7-c906b395558e.jpg
+  teaser: https://user-images.githubusercontent.com/12049360/27840612-afea8c30-60fa-11e7-80d7-c906b395558e.jpg
 sidebar:
   - title: "Quest"
     image: http://placehold.it/350x250
