@@ -47,7 +47,7 @@ ELSE any terminal.*
    // c'est pour créer le commit et signaler ces changements en ligne avec -m pour le message
    git push     // c'est pour uploader ces modifications
    ```
-you should see something like that append:  
+you should see something like that appening:  
 
 ![image](https://user-images.githubusercontent.com/12049360/32782949-6412477c-c94a-11e7-88a7-fad69c46857a.png)
 
@@ -69,3 +69,7 @@ I think it's automatic for xxx.github.io repo because github will associate repo
 ![image](https://user-images.githubusercontent.com/12049360/32785828-bd310912-c952-11e7-8d8a-430a28d1d3de.png)
 
 # @ this point, you should have my website on your address.github.io - YEAH
+
+And as always, you can help me and [contribute on this one here](https://github.com/nicolasdb/nicolasdb.github.io/blob/master/_posts/2017-10-14-newghpages-template.md)  
+
+![image](https://user-images.githubusercontent.com/12049360/32787427-c97b07b4-c956-11e7-8c53-b82c62ed1309.png)
