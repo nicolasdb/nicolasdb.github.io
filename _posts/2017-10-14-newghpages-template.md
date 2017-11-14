@@ -18,10 +18,11 @@ Since we don't use any server, everything is take cared by github online.
 {% raw %}<img src="https://user-images.githubusercontent.com/12049360/32783449-14fa6384-c94c-11e7-96bc-2ed08f71e164.png
 " alt="">{% endraw %}
 
-To help during my setup I fill this issue with my mistakes or comments.  
+To help during my setup I have filled this issue with my mistakes, my loot and comments.  
 [It could help... I don't know.](https://github.com/nicolasdb/nicolasdb.github.io/issues/10)
 
-I'll assume you already have a github account then...
+I'll assume you already have a github account and I'll skip some change I made on \_config.yml  
+Let's start then...  
 
 1. clone on your computer the repo of the future website. If you tried already, you'll have something with your name and .github.io with stuff into, that's the one.  
 2. No need to clone the template repo, just download the .zip  
@@ -47,7 +48,7 @@ ELSE any terminal.*
    // c'est pour créer le commit et signaler ces changements en ligne avec -m pour le message
    git push     // c'est pour uploader ces modifications
    ```
-you should see something like that append:  
+you should see something like that appening:  
 
 ![image](https://user-images.githubusercontent.com/12049360/32782949-6412477c-c94a-11e7-88a7-fad69c46857a.png)
 
@@ -69,3 +70,7 @@ I think it's automatic for xxx.github.io repo because github will associate repo
 ![image](https://user-images.githubusercontent.com/12049360/32785828-bd310912-c952-11e7-8d8a-430a28d1d3de.png)
 
 # @ this point, you should have my website on your address.github.io - YEAH
+
+And as always, you can help me and [contribute on this one here](https://github.com/nicolasdb/nicolasdb.github.io/blob/master/_posts/2017-10-14-newghpages-template.md)  
+
+![image](https://user-images.githubusercontent.com/12049360/32787427-c97b07b4-c956-11e7-8c53-b82c62ed1309.png)
