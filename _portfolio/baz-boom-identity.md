@@ -1,16 +1,16 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Openfab"
+excerpt: "Independent Fablab who aim to a sustainable community of makers by empowering them to pro level"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
-  - title: "Role"
+  - title: "Quest"
     image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    image_alt: "mission goal"
+    text: "Design thinking, Business model, Ecosystem, Gamification, Agile managment"
+  - title: "Skills"
+    text: "Empathy, permaculture design, github, gaming development, accounting, timetracking, ..."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

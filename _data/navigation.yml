@@ -4,13 +4,13 @@ main:
      url: /about/
    - title: "Today I Learned"
      url: /year-archive/
+   - title: "My quests"
+     url: https://nicolasdb.github.io/gitMiniBlog
    - title: "How to contribute?"
      url: /sample-page/
    - title: "My own 404"
      url: /404/
- #  - title: "LastOne"
- #    url: https://nicolasdb.github.io/gitMiniBlog
  #  - title: "Sitemap Ref"
  #   url: https://mmistakes.github.io/minimal-mistakes/sitemap
- # - title: "CC-By-SA"
- #  url: /terms/
+   - title: "CC-By-SA"
+     url: /terms/
