@@ -10,10 +10,10 @@ permalink: /howto/
 ### Write something nice here!
 
 >First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
-
 [source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)]
 
-Link to opensource guide, specific to [why contributing?](https://opensource.guide/how-to-contribute/)
+Link to opensource guide, specific to
+[why contributing?](https://opensource.guide/how-to-contribute/)
 
 ### Explain what kinds of contributions you are looking for.
 
