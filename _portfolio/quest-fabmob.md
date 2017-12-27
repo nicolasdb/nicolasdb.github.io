@@ -1,6 +1,6 @@
 ---
 title: "Fablab Mobile"
-excerpt: "Fablab mobile & Création technologique pour les jeunes"
+excerpt: "[Appel à projet] Fablab mobile & Création technologique pour les jeunes"
 header:
   image: /assets/images/portfolio/fabmob1.jpg
   teaser: /assets/images/portfolio/fabmob1-th.jpg

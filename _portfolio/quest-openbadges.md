@@ -1,6 +1,6 @@
 ---
 title: "Pack openbadges"
-excerpt: "Pack openbadges for makerspace"
+excerpt: "[R&D] Pack openbadges for makerspace"
 header:
   image: /assets/images/portfolio/badges01.jpg
   teaser: /assets/images/portfolio/badges01-th.jpg
