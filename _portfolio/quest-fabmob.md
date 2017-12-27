@@ -1,16 +1,16 @@
 ---
-title: "Programme VULCA"
-excerpt: "Vulca will enable the mobility of makers to encourage and increase crossboarder collabotation and transdisciplinary knowledge exchange."
+title: "Fablab Mobile"
+excerpt: "Fablab mobile & Création technologique pour les jeunes"
 header:
-  image: /assets/images/vulca.png
-  teaser: /assets/images/vulca-th.png
+  image: /assets/images/fabmob1.jpg
+  teaser: /assets/images/fabmob1-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Ambassador Belgium"
+    text: "Designer, Front-End Developer"
   - title: "Responsibilities"
-    text: "Fabmanager and local dispatch"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,7 +23,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Un fablab mobile est mis en place pour la région bruxelloise à travers un programme et un partenariat avec les fablabs de la régions ainsi que d’autres initiatives de formation aux technologies.  
+Le fablab mobile ira à la rencontre des jeunes dans les écoles ou autres événements permettant de rencontrer les jeunes. Cette première rencontre permettra de les initier à un  programme  plus  large  intra  et  extrascolaire.
+Les jeunes pourront donc approfondir leurs découvertes et apprendre à travers des projets « maker ».
+
+L'appel à projet peut encore se trouver sur le [site d'Innoviris](http://www.innoviris.be/fr/promotion/fablab-mobile)
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
