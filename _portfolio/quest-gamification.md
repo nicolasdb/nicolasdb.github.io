@@ -2,15 +2,15 @@
 title: "Gamification"
 excerpt: "Set rules and techniques who are intended to leverage people's natural desires for socializing, learning, mastery skills"
 header:
-  image: /assets/images/jens-lelie-15662.jpg
-  teaser: /assets/images/jens-lelie-15662-th.jpg
+  image: /assets/images/gami.jpg
+  teaser: /assets/images/gami-th.jpg
 sidebar:
   - title: "Quest"
     image: http://cdn.3plearning.com/wp-content/blogs.dir/7/files/2017/03/Shutterstock-gamification-banner-4-of-4.png
     image_alt: "me"
     text: "work hard, play hard"
   - title: "Skills"
-    text: "yeah"
+    text: "OH yeah"
 gallery:
   - url: https://geekandsundry.com/wp-content/uploads/2017/07/Scott-Pilgrim-FI.png
     image_path: https://geekandsundry.com/wp-content/uploads/2017/07/Scott-Pilgrim-FI.png
