@@ -1,15 +1,15 @@
 # main links
 main:
-   - title: "About"
-     url: /about/
    - title: "Today I Learned"
      url: /year-archive/
    - title: "My quests"
      url: /portfolio/
    - title: "How to contribute?"
-     url: /sample-page/
-   - title: "My own 404"
-     url: /404/
+     url: /howto/
+   - title: "About"
+     url: /about/
+#   - title: "My own 404"
+#     url: /404/
  #  - title: "Sitemap Ref"
  #   url: https://mmistakes.github.io/minimal-mistakes/sitemap
    - title: "CC-By-SA"
