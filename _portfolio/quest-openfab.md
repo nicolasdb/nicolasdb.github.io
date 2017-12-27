@@ -2,8 +2,8 @@
 title: "Openfab"
 excerpt: "Independent Fablab who aim to a sustainable community of makers by empowering them to pro level"
 header:
-  image: /assets/images/OFgif.gif
-  teaser: /assets/images/OFgif-th.jpg
+  image: /assets/images/portfolio/OFgif.gif
+  teaser: /assets/images/portfolio/OFgif-th.jpg
 sidebar:
   - title: "Quest"
     image: /assets/images/openfab02.jpg

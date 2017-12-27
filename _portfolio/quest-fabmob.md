@@ -2,8 +2,8 @@
 title: "Fablab Mobile"
 excerpt: "Fablab mobile & Création technologique pour les jeunes"
 header:
-  image: /assets/images/fabmob1.jpg
-  teaser: /assets/images/fabmob1-th.jpg
+  image: /assets/images/portfolio/fabmob1.jpg
+  teaser: /assets/images/portfolio/fabmob1-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

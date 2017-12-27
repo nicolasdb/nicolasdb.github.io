@@ -1,16 +1,16 @@
 ---
 title: "CHIC2.0"
-excerpt: " Cultural Hybridization In Common 2016-2017 - all about this project"
+excerpt: " Cultural Hybridization In Common 2016-2017 - an Europe Creative project"
 header:
-  image: http://www.jellyneo.net/images/tk/skill_levels.png
-  teaser: http://www.jellyneo.net/images/tk/skill_levels.png
+  image: /assets/images/portfolio/chicmain.jpg
+  teaser: /assets/images/portfolio/chic-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Lead Fabmanger"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Project managment, hosting workshop, Opensource consultant and technical development"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

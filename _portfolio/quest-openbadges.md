@@ -2,8 +2,8 @@
 title: "Pack openbadges"
 excerpt: "Pack openbadges for makerspace"
 header:
-  image: http://www.jellyneo.net/images/tk/skill_levels.png
-  teaser: http://www.jellyneo.net/images/tk/skill_levels.png
+  image: /assets/images/portfolio/badges01.jpg
+  teaser: /assets/images/portfolio/badges01-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

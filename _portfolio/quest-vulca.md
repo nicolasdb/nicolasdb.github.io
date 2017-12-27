@@ -2,8 +2,8 @@
 title: "Programme VULCA"
 excerpt: "Vulca will enable the mobility of makers to encourage and increase crossboarder collabotation and transdisciplinary knowledge exchange."
 header:
-  image: /assets/images/vulca.png
-  teaser: /assets/images/vulca-th.png
+  image: /assets/images/portfolio/vulca.jpg
+  teaser: /assets/images/portfolio/vulca-th.jpg 
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

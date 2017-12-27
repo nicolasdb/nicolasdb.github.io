@@ -2,8 +2,8 @@
 title: "Gamification"
 excerpt: "Set rules and techniques who are intended to leverage people's natural desires for socializing, learning, mastery skills"
 header:
-  image: /assets/images/gami.jpg
-  teaser: /assets/images/gami-th.jpg
+  image: /assets/images/portfolio/gami.jpg
+  teaser: /assets/images/portfolio/gami-th.jpg
 sidebar:
   - title: "Quest"
     image: http://cdn.3plearning.com/wp-content/blogs.dir/7/files/2017/03/Shutterstock-gamification-banner-4-of-4.png
