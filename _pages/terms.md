@@ -7,7 +7,7 @@ toc: true
 ## theme used 
 
 This theme is free and open source software, distributed under the MIT License.
-It is forked from https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+It is forked from [mademistakes.com](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 
 
 
@@ -17,7 +17,7 @@ The rest of my works and post will be under CC-By-SA
 
 # Attribution-ShareAlike 4.0 International
 
-https://github.com/openfab-lab/openfab/blob/master/LICENCE.md
+[Licence identique sur Openfab](https://github.com/openfab-lab/openfab/blob/master/LICENCE.md)
 
 
 If I miss something or forget to mention some one, let me now, I'm only human and I tend to forgot sometimes... heu things... and maybe stuff too.
