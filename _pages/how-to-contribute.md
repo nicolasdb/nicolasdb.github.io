@@ -1,6 +1,6 @@
 ---
 title: "How to contribute"
-layout: "default"
+# layout: "default"
 permalink: /howto/
 # date: 2016-02-24T03:02:20+00:00
 ---
