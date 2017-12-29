@@ -17,4 +17,4 @@ Link to opensource guide, specific to
 
 ### Explain what kinds of contributions you are looking for.
 
-- [issue #18](https://github.com/nicolasdb/nicolasdb.github.io/issues/18) : un picto "quest" pour signaler le type de contenu d'une page.
+- ~~[issue #18](https://github.com/nicolasdb/nicolasdb.github.io/issues/18) : un picto "quest" pour signaler le type de contenu d'une page.~~ closed
