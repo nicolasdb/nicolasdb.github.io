@@ -23,7 +23,7 @@ Link to opensource guide, specific to
 
 ### Posts linked to this quest
 <ul class="posts">
-{% for post in site.tags.contribute limit: 20 %}  # change the name after site.tags.***** to select the tag
+{% for post in site.tags.contribute limit: 20 %} <!-- change the name after site.tags.***** to select the tag -->
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>
