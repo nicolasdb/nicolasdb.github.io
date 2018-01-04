@@ -32,16 +32,24 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 ---
 /// test d'affichage des posts en lien avec cette page via le tri par tags
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
+### for post in posts
 {% for post in posts %}
-  {% if post.tags contains openbadge %}
+  {% if post.tags contains tag.openbadge %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
   </li>
   {% endif %}
 {% endfor %}
+
+### for post in site.tags.openbadge
+<ul class="posts">
+{% for post in site.tags.openbadge limit: 20 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>
