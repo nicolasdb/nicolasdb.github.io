@@ -29,3 +29,15 @@ I'll put this over here, with the rest of the fire. I'll put this over here, wit
 No, no there you go, no there you go. I just heard it come on. I've got Aunt Irma visiting. Oh, do you not like Aunt Irma? I've got an aunt like that. Hello, IT. Have you tried turning it off and on again? He's had quite an evening. Someone stole his wheelchair. Did you see who it was? Red bearded man. So, remember the new number! 0118 999! 88199, 9119 725! ... 3! Dear Sir stroke Madam, I am writing to inform you of a fire which has broken out at the premises of...
 
 Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages. Carrie, Moss! First scene in Carrie! Oh. Okay Might want to play a bit hard to get. Uh... okay, well, the button on the side, is it glowing? Hello? I've had a bit of a tumble. Yeah, you need to turn it on... uh, the button turns it on.
+---
+### Posts linked to this quest
+<ul class="posts">
+{% for post in site.tags.Openfab limit: 20 %}  # change the name after site.tags.***** to select the tag
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>

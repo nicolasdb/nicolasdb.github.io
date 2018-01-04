@@ -19,3 +19,16 @@ Link to opensource guide, specific to
 
 - [issue #18](https://github.com/nicolasdb/nicolasdb.github.io/issues/18) : un picto "quest" pour signaler le type de contenu d'une page.
 - ~~[issue #19](https://github.com/nicolasdb/nicolasdb.github.io/issues/19) : affichage des lien html non visible.~~ - closed
+
+
+### Posts linked to this quest
+<ul class="posts">
+{% for post in site.tags.contribute limit: 20 %}  # change the name after site.tags.***** to select the tag
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>

@@ -32,3 +32,15 @@ Le pliage sera le fil conducteur de cette série de workshops. La pratique du pl
 ![dsc03567](https://user-images.githubusercontent.com/25649502/30801240-f11c9080-a1e2-11e7-9430-613e42f5c9fe.JPG)
 
 Le pliage nécessite une extrême précision et rigueur. Heureusement, les outils numériques disponibles aujourd’hui sont d’une grande aide pour faciliter la pratique et aller plus loin dans les applications. La découpe-laser est un outil simple à manipuler qui permet de découper, graver, préparer des formes avec une précision parfaite. Idéale pour créer des « moules à prépliage » pour origamis ou des « métiers à plisser » pour plier du textile. La robotique avec Arduino permettrait de créer des origamis réagissant à différents stimuli pour s’allumer, se replier, prendre vie.
+---
+### Posts linked to this quest
+<ul class="posts">
+{% for post in site.tags.Artisan2 limit: 20 %}  # change the name after site.tags.***** to select the tag
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>

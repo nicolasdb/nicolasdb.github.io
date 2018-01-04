@@ -7,7 +7,9 @@ tags:
   - backoffice
   - Openfab
   - timelord
-  - openbadge
+  - Openbadge
+  - Gamification
+  - contribute
 ---
 
 ![image](https://user-images.githubusercontent.com/12049360/34566976-d724690a-f160-11e7-95a8-524f1e7ea4f6.png)
@@ -28,5 +30,18 @@ Je me dis que ce brol, c'est pas bien compliqué quand même. Un arduino, du blu
 Genre [tinyTILE (intel)](https://www.sparkfun.com/products/14281) qui embarque tout en un, ou [le photon (particule)](https://www.sparkfun.com/products/13764)  
 J'ai trouvé un tuto sur ce controleur et c'est même moins cher (19$ au lieu de 39$).
 
-Le tuto ne parle pas de gyroscope mais d'une action via un bouton.  
-https://www.sitepoint.com/how-to-make-a-useful-toggl-time-tracker-with-particle-and-node/
+- **difficulté 1: gyroscope + arduino + action Toggl via code**
+
+Le tuto ne parle pas de gyroscope comme déclencheur mais d'une action via un bouton.  
+https://www.sitepoint.com/how-to-make-a-useful-toggl-time-tracker-with-particle-and-node/   
+Ben ouais, plus simple un bouton :)
+- **difficulté 2: boutons + particule photon + action Toggl via nodeJS**
+
+Mais bon, faire une planche test avec des boutons, ça va encore prendre du tps et si j'arrive à lier un bouton, est-ce que j'arriverai pas à déjà lier un bouton "fonction" du clavier?   
+
+- **difficulté 3: keyboard F-key + action Toggl via API?**
+
+J'imagine qu'en vue du code précédent, y a peut-être une astuce à faire en passant par "processing" en liant une touche clavier à la place du "photon" + bouton.
+https://processing.org/reference/keyReleased_.html  
+
+Y a plus qu'à apprendre comment fonction **nodeJS**

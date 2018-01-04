@@ -30,21 +30,9 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
 
 ---
-/// test d'affichage des posts en lien avec cette page via le tri par tags
-
-### for post in posts
-{% for post in posts %}
-  {% if post.tags contains tag.openbadge %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-  </li>
-  {% endif %}
-{% endfor %}
-
-### for post in site.tags.openbadge
+### Posts linked to this quest
 <ul class="posts">
-{% for post in site.tags.openbadge limit: 20 %}
+{% for post in site.tags.Openbadge limit: 20 %}  # change the name after site.tags.***** to select the tag
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>

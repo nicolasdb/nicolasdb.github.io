@@ -3,7 +3,7 @@ title: "Programme VULCA"
 excerpt: "Vulca will enable the mobility of makers to encourage and increase crossboarder collabotation and transdisciplinary knowledge exchange."
 header:
   image: /assets/images/portfolio/vulca.jpg
-  teaser: /assets/images/portfolio/vulca-th.jpg 
+  teaser: /assets/images/portfolio/vulca-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -28,3 +28,16 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+---
+### Posts linked to this quest
+<ul class="posts">
+{% for post in site.tags.Vulca limit: 20 %}  # change the name after site.tags.***** to select the tag
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>
