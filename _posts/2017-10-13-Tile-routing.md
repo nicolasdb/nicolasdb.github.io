@@ -2,6 +2,8 @@
 title: "Tile routing"
 categories:
   - Tuto
+  - Jobs
+
 tags:
   - MDF
   - CNC

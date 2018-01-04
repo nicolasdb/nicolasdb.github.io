@@ -2,10 +2,13 @@
 title: "Foam cutting"
 categories:
   - Tuto
+  - Jobs
+
 tags:
   - foam
   - router
   - hot wire
+  - Openfab
 ---
 
 ## objectif:
