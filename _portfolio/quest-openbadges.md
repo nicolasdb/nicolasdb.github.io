@@ -28,3 +28,21 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+---
+/// test d'affichage des posts en lien avec cette page via le tri par tags
+
+{% for post in site.portfolio %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+
+{% include group-by-array collection=site.posts field="tags" %}
+
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
