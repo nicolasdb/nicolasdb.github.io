@@ -1,6 +1,6 @@
 ---
 title: "Artisan2.0"
-excerpt: "[Appel à projet] du Contrat de Quartier Maelbeek, Ixelles, Bruxelles"
+excerpt: "[Opencall] du Contrat de Quartier Maelbeek, Ixelles, Bruxelles"
 header:
   image: /assets/images/portfolio/artisan2.0.jpg
   teaser: /assets/images/portfolio/artisan2.0-th.jpg

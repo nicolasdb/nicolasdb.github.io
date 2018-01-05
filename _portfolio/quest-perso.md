@@ -1,9 +1,10 @@
 ---
-title: "Programme VULCA"
-excerpt: "[Dev] Vulca will enable the mobility of makers to encourage and increase crossboarder collabotation and transdisciplinary knowledge exchange."
+title: "Me and myself"
+excerpt: "[Dev] Personal development covers activities that improve awareness and identity, develop talents and potential, build human capital and facilitate employability, enhance the quality of life and contribute to the realization of dreams and aspirations."
 header:
-  image: /assets/images/portfolio/vulca.jpg
-  teaser: /assets/images/portfolio/vulca-th.jpg
+  image: /assets/images/portfolio/ALifeWellLived_-drew-brophy-mural-art-painting-keenfest-sacred-geometry.jpg
+  caption: [drew brophy](http://drewbrophy.com/a-life-well-lived-sacred-geometry-mural-painting-on-canvas/)
+  teaser: /assets/images/portfolio/perso-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -32,7 +33,7 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 ---
 ### Posts linked to this quest
 <ul class="posts">
-{% for post in site.tags.Vulca limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
+{% for post in site.tags.PersonalDev limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
 
   <div class="post_info">
     <li>

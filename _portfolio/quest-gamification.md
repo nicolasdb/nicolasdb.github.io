@@ -1,6 +1,6 @@
 ---
 title: "Gamification"
-excerpt: "[R&D] Set rules and techniques who are intended to leverage people's natural desires for socializing, learning, mastery skills"
+excerpt: "[Mod] Set rules and techniques who are intended to leverage people's natural desires for socializing, learning, mastery skills"
 header:
   image: /assets/images/portfolio/gami.jpg
   teaser: /assets/images/portfolio/gami-th.jpg

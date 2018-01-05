@@ -1,6 +1,6 @@
 ---
 title: "Maker Passport"
-excerpt: "[R&D] A passport for maker communities, to earn skills and share trust, to explore and meet makers without borders "
+excerpt: "[Mod] A passport for maker communities, to earn skills and share trust, to explore and meet makers without borders "
 header:
   image: /assets/images/portfolio/passport.jpg
   teaser: /assets/images/portfolio/passport-th.jpg

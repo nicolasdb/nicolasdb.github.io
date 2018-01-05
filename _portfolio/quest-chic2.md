@@ -1,6 +1,6 @@
 ---
 title: "CHIC2.0"
-excerpt: "[Appel à projet] Cultural Hybridization In Common 2016-2017 - an Europe Creative project"
+excerpt: "[Opencall] Cultural Hybridization In Common 2016-2017 - an Europe Creative project"
 header:
   image: /assets/images/portfolio/chicmain.jpg
   teaser: /assets/images/portfolio/chic-th.jpg
