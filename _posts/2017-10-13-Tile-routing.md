@@ -1,9 +1,10 @@
 ---
+date: 2017/10/13
 title: "Tile routing"
+excerpt: "Making replacement tiles"
 categories:
   - Tuto
   - Jobs
-
 tags:
   - MDF
   - CNC

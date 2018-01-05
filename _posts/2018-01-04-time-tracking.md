@@ -1,6 +1,7 @@
 ---
-title: "Making a timetracker device"
 date: 2018/01/04
+title: "Making a timetracker device"
+excerpt: "I need a time tracker to makes my time management easier than ever"
 categories:
   - Post
 tags:

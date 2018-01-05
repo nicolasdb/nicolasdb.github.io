@@ -1,10 +1,12 @@
 ---
-title: "install gh-pages template"
-excerpt: "How to install template in github online without messing with jekyll or ruby and gem command line"
+date: 2017/10/14
+title: "My gh-pages install template"
+excerpt: "How to install a template in github online without messing with jekyll or ruby and gem command line"
 categories:
   - Tuto
 tags:
-  - Github
+  - github
+  - superUser
 ---
 
 ## Objective:

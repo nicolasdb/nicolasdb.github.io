@@ -1,9 +1,10 @@
 ---
+date: 2017/08/27
 title: "Foam cutting"
+excerpt: "What will be best to cut foam?"
 categories:
   - Tuto
   - Jobs
-
 tags:
   - foam
   - router

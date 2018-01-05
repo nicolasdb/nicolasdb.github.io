@@ -1,6 +1,7 @@
 ---
-title: "first post"
 date: 2017/04/30
+title: "first post"
+excerpt: "My first try to post something in gh-pages"
 categories:
   - Post
 tags:
@@ -23,4 +24,4 @@ The first one was this one
 **[gitmini0](https://nicolasdb.github.io/gitmini0)**  
 
 And the second website is here but a bit broken since the new version    
-**[gitMiniBlog](https://nicolasdb.github.io/gitMiniBlog)** 
+**[gitMiniBlog](https://nicolasdb.github.io/gitMiniBlog)**
