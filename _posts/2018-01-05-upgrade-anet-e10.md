@@ -1,5 +1,5 @@
 ---
-title: "It's time to pimp my Anet E10"
+title: "Time to pimp my Anet E10"
 date: 2018/01/05
 categories:
   - Post
@@ -7,11 +7,12 @@ tags:
   - Openfab
   - 3dPrint
 ---
+J'ai pu commander quelques machines en kit dernièrement.
 
 ![image](https://user-images.githubusercontent.com/12049360/34579101-e513405a-f187-11e7-8cd5-0796ed44a43e.png)
 
 ### Contexte
-J'ai pu commander quelques machines en kit dernièrement. Le deal est de financer l'achat de 4 kits, en revendre 3 et financer ainsi une machine pour le lab. Mais bien que les machines sont pas mal du tout et que l'ensemble est rigide et imprime bien.
+Le deal est de financer l'achat de 4 kits, en revendre 3 et financer ainsi une machine pour le lab. Mais bien que les machines sont pas mal du tout et que l'ensemble est rigide et imprime bien.
 
 Les problèmes à l'origine sont :
 - le transport merdique (comme d'hab, un effort est fait par les services postaux concernant la délicatesse de leur livreur)
