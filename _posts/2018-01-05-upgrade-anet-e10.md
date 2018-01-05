@@ -31,34 +31,33 @@ Bref, moultes optimisations possibles :D
 ## Objectif(s)
 à commencer par
 - remplacer les roulements Y par des IGUS
-- Ajouter des petits guides pour les ressorts du bed
+- Ajouter des petits guides pour les ressorts du bed [Spring cups](https://www.thingiverse.com/thing:2044042)
 - rotation des moteurs Z
 - raccourcir le tube PTFE
 - bourriner avec une vis à bois le réglage du chariot X
-- ventilo https://www.thingiverse.com/thing:2481362
-- Z limit https://www.thingiverse.com/thing:2482030
-- support PSU https://www.thingiverse.com/thing:2467824
-- some foots to make place for electronics under. https://www.thingiverse.com/thing:2659913
-- 2 filtres pour filament https://www.thingiverse.com/thing:1692395
-- un boitier pour le fuse switch C14 https://www.thingiverse.com/thing:2119103
-- un tendeur pour la courroie X https://www.thingiverse.com/thing:2589638
+- [ventilo](https://www.thingiverse.com/thing:2481362)
+- [Z limit](https://www.thingiverse.com/thing:2482030)
+- [support PSU](https://www.thingiverse.com/thing:2467824)
+- [some foots to make place for electronics under](https://www.thingiverse.com/thing:2659913)
+- [2 filtres pour filament](https://www.thingiverse.com/thing:1692395)
+- un boitier pour le [fuse switch C14](https://www.thingiverse.com/thing:2119103)
+- [un tendeur pour la courroie X](https://www.thingiverse.com/thing:2589638)
 
 
 
 ## Steps
-#### **Roulements Y IGUS**
+### **Roulements Y IGUS**
 
-J'ai demandé des échantillons chez Igus, j'avais envie de tester les [paliers polymère Drylin](https://www.igus.com/wpck/17748/Motek14_N14_6_3_Vollkunststofflager) en remplacement des roulements linéraire classique (LM8UU ball bearings).
+J'ai demandé des échantillons chez Igus, j'avais envie de tester les [paliers polymère **igus drylin RJ4JP**](https://www.igus.com/wpck/17748/Motek14_N14_6_3_Vollkunststofflager) en remplacement des roulements linéraire classique (LM8UU ball bearings).
 
-à voir: https://youtu.be/ZGBipbgwgME
+![img](https://cdn.thingiverse.com/renders/f2/80/a4/3a/d2/895dfd9d3ce728b0b494b4255fc85dda_preview_featured.jpg)
 
-- **difficulté 2: boutons + particule photon + action Toggl via nodeJS**
+à voir: [**Should you be using IGUS polymer bushings?** *by Thomas Sanladerer*
+](https://youtu.be/ZGBipbgwgME)
 
-Mais bon, faire une planche test avec des boutons, ça va encore prendre du tps et si j'arrive à lier un bouton, est-ce que j'arriverai pas à déjà lier un bouton "fonction" du clavier?   
-
-- **difficulté 3: keyboard F-key + action Toggl via API?**
-
-J'imagine qu'en vue du code précédent, y a peut-être une astuce à faire en passant par "processing" en liant une touche clavier à la place du "photon" + bouton.
-https://processing.org/reference/keyReleased_.html  
-
-Y a plus qu'à apprendre comment fonction **nodeJS**
+### **spring cups**
+### **90° motors Z**
+### **PTFE tube**
+### **X cart v0**
+### **Roulements Y IGUS**
+### **better extruder fan holder**

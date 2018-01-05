@@ -15,8 +15,8 @@ permalink: /howto/
 Link to opensource guide, specific to  
 [why contributing?](https://opensource.guide/how-to-contribute/)
 
-### Explain what kinds of contributions you are looking for.
-
+## Explain what kinds of contributions you are looking for.
+### github issues
 - [issue #18](https://github.com/nicolasdb/nicolasdb.github.io/issues/18) : un picto "quest" pour signaler le type de contenu d'une page.
 - ~~[issue #19](https://github.com/nicolasdb/nicolasdb.github.io/issues/19) : affichage des lien html non visible.~~ - closed
 
