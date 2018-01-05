@@ -1,9 +1,10 @@
 ---
 title: "Me and myself"
-excerpt: "[Dev] Personal development covers activities that improve awareness and identity, develop talents and potential, build human capital and facilitate employability, enhance the quality of life and contribute to the realization of dreams and aspirations."
+excerpt: "[Dev] Personal development covers activities that improve awareness and identity, develop talents and potential, build human"
+# capital and facilitate employability, enhance the quality of life and contribute to the realization of dreams and aspirations."
 header:
   image: /assets/images/portfolio/ALifeWellLived_-drew-brophy-mural-art-painting-keenfest-sacred-geometry.jpg
-#  caption: [drew brophy](http://drewbrophy.com/a-life-well-lived-sacred-geometry-mural-painting-on-canvas/)
+  caption: [drew brophy](http://drewbrophy.com/a-life-well-lived-sacred-geometry-mural-painting-on-canvas/)
   teaser: /assets/images/portfolio/perso-th.jpg
 sidebar:
   - title: "Role"
