@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 <div class="grid__wrapper">
-  {% for post in site.portfolio %}
+  {% for post in site.posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+---
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
