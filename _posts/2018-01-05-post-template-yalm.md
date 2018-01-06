@@ -12,7 +12,7 @@ tags:
   - PBL
 ---
 
-That's cool, for my 8th posts here (not counting pages or quests) I'll just share some knowledge I gather about a template I feel confortable using for editing posts.
+That's cool, for my 8th posts here (not counting pages or quests) I'll just share some knowledge I gather about a template I feel comfortable using for editing posts.
 
 ## Here it is:
 
@@ -33,7 +33,7 @@ tags:                                 # List here tags
 I use tags to list some posts together. Again, nothing new.
 
 Then I use something like that as a base structure. The 3 base elements like in issues.
-Always start with a bit of context, then explain what is your objectives and how you'll target them. 1.Why, 2.What?, 3.How?
+Always start with a bit of context, then explain what is your objectives and how you'll target them. 1.Why? 2.What? 3.How?
 ```
 ### Contexte
 ## Objectif(s)
