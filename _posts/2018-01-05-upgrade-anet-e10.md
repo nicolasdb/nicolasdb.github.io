@@ -2,6 +2,10 @@
 date: 2018/01/05
 title: "Time to pimp my Anet E10"
 excerpt: "I bought this last 3D printer and it's time to pimp this mtfucka"
+header:
+  # image:
+  teaser: "/assets/images/post/laser-th.jpg"
+  # og_image:
 categories:
   - Post
 tags:
