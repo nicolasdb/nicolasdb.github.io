@@ -1,6 +1,9 @@
 ---
 title: "How to contribute"
 # layout: "default"
+header:
+  image: "https://media.giphy.com/media/XnqQKPCUmaJWM/giphy.gif"
+  # teaser: /assets/images/portfolio/badges01-th.jpg
 permalink: /howto/
 # date: 2016-02-24T03:02:20+00:00
 ---
