@@ -8,7 +8,10 @@ permalink: /howto/
 # date: 2016-02-24T03:02:20+00:00
 ---
 
-![chair](https://media.giphy.com/media/XnqQKPCUmaJWM/giphy.gif)
+![chair](https://media.giphy.com/media/PmTWHSzTo53A4/giphy.gif)
+
+
+
 
 ### Ho, hi there.
 
