@@ -1,6 +1,6 @@
 ---
 title: "How to contribute"
-layout: "archive"
+layout: "single"
 header:
   image: "https://media.giphy.com/media/XnqQKPCUmaJWM/giphy.gif"
   # teaser: /assets/images/portfolio/badges01-th.jpg
