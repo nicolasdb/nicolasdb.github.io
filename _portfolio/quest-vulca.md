@@ -11,7 +11,9 @@ sidebar:
     text: "Ambassador Belgium"
   - title: "Responsibilities"
     text: "Fabmanager, local dispatch and explorer"
-
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "rocket"
 ---
 
 ## Building a European Identity through the mobility of Makers
@@ -56,6 +58,9 @@ What kind of admin I'll have to do to benefit of this?
   <img src="/assets/images/portfolio/clayD.gif" height=150 alt="this is a placeholder image">
 </figure>
 What kind of admin I'll have to do to benefit of this?
+
+During **Octobermake**, in Moulin (France), we gathered with 15-ish fablab's representatives from EU
+![image](https://user-images.githubusercontent.com/12049360/32093771-e701aac0-bafd-11e7-9835-e82be2a1b953.png)
 
 Mobility, trust, know-how and badges.
 
