@@ -42,10 +42,8 @@ Observation:
 - How to found where my skills could be usefull?
 - Where to learn specific skills?
 - How to finance to travel? I still have a rent to pay and all kind of obligation.
-- And more importantly,
-<figure>
-  <img src="/assets/images/portfolio/clayD.gif" height=150 alt="this is a placeholder image">
-</figure>
+- And more importantly,  
+  <img src="/assets/images/portfolio/clayD.gif" height="150">  
 What kind of admin I'll have to do to benefit of this?
 
 ### Fablab
@@ -53,13 +51,12 @@ What kind of admin I'll have to do to benefit of this?
 - As a fabmanager, there is an insanely LOT of things to do. I don't want to babysit someone on top of my tasks.  
 [Ask me if have I the time for that?](https://s5.favim.com/610/141206/angry-dinossaur-finger-funny-Favim.com-2289765.jpg)   
 - I don't know you! How do I know you're not full of BS?
-- And more importantly,
-<figure>
-  <img src="/assets/images/portfolio/clayD.gif" height=150 alt="this is a placeholder image">
-</figure>
+- And more importantly,  
+  <img src="/assets/images/portfolio/clayD.gif" height="150">  
 What kind of admin I'll have to do to benefit of this?
 
-During **Octobermake**, in Moulin (France), we gathered with 15-ish fablab's representatives from EU
+### During **Octobermake**
+in Moulin (France), we gathered with 15-ish fablab's representatives from EU
 ![image](https://user-images.githubusercontent.com/12049360/32093771-e701aac0-bafd-11e7-9835-e82be2a1b953.png)
 
 Mobility, trust, know-how and badges.
