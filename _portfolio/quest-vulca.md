@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/portfolio/vulca-rl.jpg
     image_alt: "logo"
-    text: "Ambassador Belgium"
+    text: "Belgian Ambassador"
   - title: "Responsibilities"
     text: "Fabmanager, local dispatch and explorer"
 toc: true
@@ -50,7 +50,7 @@ What kind of admin I'll have to do to benefit of this?
 - There is some project coming, I miss some skills in my community. How to find people elsewhere? but then I will probably have to pay them more for travel and hosting.
 - As a fabmanager, there is an insanely LOT of things to do. I don't want to babysit someone on top of my tasks.  
 [Ask me if have I the time for that?](https://s5.favim.com/610/141206/angry-dinossaur-finger-funny-Favim.com-2289765.jpg)   
-- I don't know you! How do I know you're not full of BS?
+- I don't know you! How do I know if you're not full of BS?
 - And more importantly,  
   <img src="/assets/images/portfolio/clayD.gif" height="100px">  
 What kind of admin I'll have to do to benefit of this?
@@ -72,12 +72,64 @@ Like the driving licence to drive on public road,
 Like github to work and collaborate on project together and not only on code dev.
 It's a common ground to be able to move and directly contribute and document into the workflow of the fablab host.
 
-## Ergo (donc) this website.... 
+## Ergo (donc - so) this website....
 
+So, how to solve most of these?
+### building trust
+**note:** *Why, even in peacetime, do friends become enemies? And why, even in wartime, do enemies become friends?  
+source: [game of trust by Nicky Case](http://ncase.me/trust/)*
 
+If I want to send a maker from Openfab to Slovenia (for ex.)  
+Igor will think, "Ho good, I know Nicolas so if he recommend me this girl, she should be skilled and trustfully. I will agree to host her"
 
-Mobility, trust, know-how and badges.
+But first, I'll need to trust this girl myself. I will not vouch for someone I don't trust, right? Risking the trust between Igor and me.  
 
+#### How to build trust?  
+It all start from a community. Trust is build between members and then, it's just about how to extend this trust between communities. Like a mesh network.  
+
+![mesh](/assets/images/portfolio/mesh.gif)
+
+> A community is a small or large social unit (a group of living things) who have something in common... Communities often share a sense of place that is situated in a given geographical area ... Durable relations that extend beyond immediate genealogical ties also define a sense of community. People tend to define those social ties as important to their identity, practice, and roles in social institutions like family, home, work, government, society, or humanity, at large.
+*source: [wikipedia EN](https://en.wikipedia.org/wiki/Community)*
+
+### common language
+
+#### how to communicate?
+Obviously, it's easier to know english to communicate on internet and most of everywhere in the world.  
+No secret there. To know how, you need to learn and practice.  
+Again, like an IT network, we need protocols to share common data.
+
+#### how to work together?
+Same as language. It's not easy to work with other. It's something we have to learn and practice.  
+And we need to agree on which method of course.  
+
+As an autodidact, I learned somehow to work an idea until it please me.
+I don't really have a method per say.   
+But some methods make sense for me. Like:
+- **Lean method**
+![image](http://blog.ecanvasser.com/content/images/2017/03/lean.PNG)
+- **Gamification loop**
+![image](http://www.gamemakers.com/wp-content/uploads/2014/03/Screenshot-2014-03-16-16.40.31.png)
+- **Habit loop**
+![image](https://user-images.githubusercontent.com/12049360/34729986-65fc41ec-f55e-11e7-85bb-8ce004355e65.png)
+- **Agile method**
+![image](https://crowdsourcedtesting.com/resources/wp-content/uploads/2016/07/agile-methodolody_695x260.jpg)
+
+Yup, there is like a pattern, right?  
+How do we use that?  
+I like the gamification way. We need to learn new habits, we need it to be fun, we need it to be effective and rewarding.  
+
+And it also match with "project based learning":
+1. context?
+2. objectives?
+3. proposition?
+4. doing, testing, is it working?
+5. sharing (restitution des conclusions)
+
+### winwinwinwin situation
+Happy maker + happy sender + happy host + happy EU = winwinwinwin
+
+![image](https://user-images.githubusercontent.com/12049360/34728786-1e315be8-f55b-11e7-89a5-cb54bf478fd0.png)
 
 ---
 ### Posts linked to this quest
