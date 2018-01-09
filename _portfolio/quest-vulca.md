@@ -52,12 +52,29 @@ What kind of admin I'll have to do to benefit of this?
 [Ask me if have I the time for that?](https://s5.favim.com/610/141206/angry-dinossaur-finger-funny-Favim.com-2289765.jpg)   
 - I don't know you! How do I know you're not full of BS?
 - And more importantly,  
-  <img src="/assets/images/portfolio/clayD.gif" height="150">  
+  <img src="/assets/images/portfolio/clayD.gif" height="100px">  
 What kind of admin I'll have to do to benefit of this?
 
 ### During **Octobermake**
-in Moulin (France), we gathered with 15-ish fablab's representatives from EU
+In Moulin (France), we gathered with 15-ish fablab's representatives from EU
 ![image](https://user-images.githubusercontent.com/12049360/32093771-e701aac0-bafd-11e7-9835-e82be2a1b953.png)
+
+We met also the **RFF** (french fablab network) and it make me think about this :  
+- I have learned dutch at school, I live in brussels but never had to use dutch so I'm really bad at it.
+- Most of french don't speak very well english or not at all, they usually don't need to so why bother to learn.  
+But then, it's easier to stay in France and make any excuses to not connect with the world by talking english. "c'est trop dur et à quoi ça va me servir?"
+- maker at the fablab will say to me,
+"Arrr, github, pfff mec, it's to complex for me, it's geek stuff and shit. I will never understand how to use this and I even don't need to use it, cause I use google apps or whatevs... "
+
+Like French with english (language), it's easy to not learn something because it's hard. But we need to better explain why and how many advantages they can benefit from.
+Like english as a common language to talk to most of the people,
+Like the driving licence to drive on public road,
+Like github to work and collaborate on project together and not only on code dev.
+It's a common ground to be able to move and directly contribute and document into the workflow of the fablab host.
+
+## Ergo (donc) this website.... 
+
+
 
 Mobility, trust, know-how and badges.
 
