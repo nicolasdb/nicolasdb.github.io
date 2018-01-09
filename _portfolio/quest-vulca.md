@@ -1,6 +1,6 @@
 ---
 title: "Programme VULCA"
-excerpt: "[Dev] Vulca will enable the mobility of makers to encourage and increase crossboarder collabotation and transdisciplinary knowledge exchange."
+excerpt: "[Dev] Vulca will enable the mobility of makers to encourage and increase crossboarder collaboration and transdisciplinary knowledge exchange."
 header:
   image: /assets/images/portfolio/vulca.jpg
   teaser: /assets/images/portfolio/vulca-th.jpg
@@ -21,7 +21,7 @@ toc_icon: "rocket"
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement **Cultural exchange** Google+ newsroom cafe news.me rubber cement, **How to unlock potential of a makers?** Ushahidi Kindle Single syndicated Instagram HuffPo community **Fablabs network** mthomps, Mozilla iPhone app should isn't a business model **skills** curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community Document **I want to travel and learn new skills but It's to expensive** Cloud metered model **Where can I help** Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization **I need skilled people for a project** WikiLeaks Groupon, collaboration Steve **Mobility** Jobs we need a **common language** Nate Silver AP What Would Google Do the power of **spreading** the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public **github** Lucius Nieman.
 
 As a student, it's cool to go in Erasmus+[1] and spend 6 months somewhere abroad in EU. You learn and meet differents culture, people, food and drinks, a different way to see things and basically, it open your mind.
-But how to extend or expand this opporunity outside this framewor? Like what about retired people, about non academic people, about in-between-jobs and what about makers?
+But how to extend or expand this opporunity outside this framework? Like what about retired people, about non academic people, about in-between-jobs and what about makers?
 
 > [1] *The Erasmus Programme (EuRopean Community Action Scheme for the Mobility of University Students) is a European Union (EU) student exchange programme established in 1987. Erasmus+, or Erasmus Plus, is the new programme combining all the EU's current schemes for education, training, youth and sport, which was started in January 2014.*
 
