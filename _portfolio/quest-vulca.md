@@ -56,7 +56,7 @@ What kind of admin I'll have to do to benefit of this?
 What kind of admin I'll have to do to benefit of this?
 
 ### During **Octobermake**
-In Moulin (France), we gathered with 15-ish fablab's representatives from EU
+In Moulins (France), we gathered with 15-ish fablab's representatives from EU
 ![image](https://user-images.githubusercontent.com/12049360/32093771-e701aac0-bafd-11e7-9835-e82be2a1b953.png)
 
 We met also the **RFF** (french fablab network) and it make me think about this :  
