@@ -54,3 +54,6 @@ J'imagine qu'en vue du code précédent, y a peut-être une astuce à faire en p
 https://processing.org/reference/keyReleased_.html  
 
 Y a plus qu'à apprendre comment fonction **nodeJS**
+
+
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/21), feel at ease to contribute.*
