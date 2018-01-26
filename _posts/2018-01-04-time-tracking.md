@@ -42,7 +42,7 @@ J'ai trouvé un tuto sur ce controleur et c'est même moins cher (19$ au lieu de
 - **difficulté 1: gyroscope + arduino + action Toggl via code**
 
 Le tuto ne parle pas de gyroscope comme déclencheur mais d'une action via un bouton.  
-https://www.sitepoint.com/how-to-make-a-useful-toggl-time-tracker-with-particle-and-node/   
+[Useful Toggl Time Tracker with Particle and Node](https://www.sitepoint.com/how-to-make-a-useful-toggl-time-tracker-with-particle-and-node/)   
 Ben ouais, plus simple un bouton :)
 - **difficulté 2: boutons + particule photon + action Toggl via nodeJS**
 
@@ -51,7 +51,7 @@ Mais bon, faire une planche test avec des boutons, ça va encore prendre du tps 
 - **difficulté 3: keyboard F-key + action Toggl via API?**
 
 J'imagine qu'en vue du code précédent, y a peut-être une astuce à faire en passant par "processing" en liant une touche clavier à la place du "photon" + bouton.
-https://processing.org/reference/keyReleased_.html  
+[keyReleased](https://processing.org/reference/keyReleased_.html)  
 
 Y a plus qu'à apprendre comment fonction **nodeJS**
 
