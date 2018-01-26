@@ -62,7 +62,7 @@ Observation:
 - Where to learn specific skills?
 - How to finance to travel? I still have a rent to pay and all kind of obligation.
 - And more importantly, What kind of admin I'll have to do to benefit of this?  
-<img src="/assets/images/portfolio/clayD.gif" height="150px">    
+<img src="/assets/images/portfolio/clayD.gif" width="200px">    
 
 ### Fablab
 - There is some project coming, I miss some skills in my community. How to find people elsewhere? but then I will probably have to pay them more for travel and hosting.
