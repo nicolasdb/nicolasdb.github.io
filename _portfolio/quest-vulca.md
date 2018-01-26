@@ -61,18 +61,17 @@ Observation:
 - How to found where my skills could be usefull?
 - Where to learn specific skills?
 - How to finance to travel? I still have a rent to pay and all kind of obligation.
-- And more importantly,  
-<img src="/assets/images/portfolio/clayD.gif" height="150"></img>    
-What kind of admin I'll have to do to benefit of this?
+- And more importantly, What kind of admin I'll have to do to benefit of this?  
+<img src="/assets/images/portfolio/clayD.gif" height="150px">    
 
 ### Fablab
 - There is some project coming, I miss some skills in my community. How to find people elsewhere? but then I will probably have to pay them more for travel and hosting.
 - As a fabmanager, there is an insanely LOT of things to do. I don't want to babysit someone on top of my tasks.  
 [Ask me if have I the time for that?](https://s5.favim.com/610/141206/angry-dinossaur-finger-funny-Favim.com-2289765.jpg)   
 - I don't know you! How do I know if you're not full of BS?
-- And more importantly,  
-<img src="/assets/images/portfolio/clayD.gif" width="200px"></img>    
-What kind of admin I'll have to do to benefit of this?
+- And more importantly, What kind of admin I'll have to do to benefit of this?  
+<img src="/assets/images/portfolio/clayD.gif" width="200px">   
+
 
 ### During **Octobermake**
 In Moulins (France), we gathered with 15-ish fablab's representatives from EU
