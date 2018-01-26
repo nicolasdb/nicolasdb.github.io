@@ -62,7 +62,7 @@ Observation:
 - Where to learn specific skills?
 - How to finance to travel? I still have a rent to pay and all kind of obligation.
 - And more importantly,  
-  <img src="/assets/images/portfolio/clayD.gif" height="150"></img>    
+<img src="/assets/images/portfolio/clayD.gif" height="150"></img>    
 What kind of admin I'll have to do to benefit of this?
 
 ### Fablab
@@ -71,7 +71,7 @@ What kind of admin I'll have to do to benefit of this?
 [Ask me if have I the time for that?](https://s5.favim.com/610/141206/angry-dinossaur-finger-funny-Favim.com-2289765.jpg)   
 - I don't know you! How do I know if you're not full of BS?
 - And more importantly,  
-  <img src="/assets/images/portfolio/clayD.gif" height="100px"></img>    
+<img src="/assets/images/portfolio/clayD.gif" width="200px"></img>    
 What kind of admin I'll have to do to benefit of this?
 
 ### During **Octobermake**
