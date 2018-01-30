@@ -29,13 +29,14 @@ Ha ben j'ai trouvé un tuto qui va bien.
 
 *Merci à [Thai Pangsakulyanont](https://medium.com/@dtinth)*
 
-Du coup, j'ai suivis ce qu'il propose et pour le coup je propose moi aussi quelques astuces détails, parce que ça n'a pas marché directement.
+Du coup, j'ai suivis ce qu'il propose et pour le coup, je propose moi aussi quelques astuces/détails, parce que ça n'a pas marché directement pour moi.
 
-1. le lien pour le token c'est https://github.com/settings/tokens
-et il faut bien donner les droits sur le repo
+1. le lien pour le token, c'est https://github.com/settings/tokens
+2. il faut bien activer les droits d'accès sur le repo lors de la creation du token.
 ![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/f84bbe58-f1f7-4dd9-adab-824a1eda8d86)
 
-C'est tout, une fois que le token a les bonnes autorisations, ça marche nickel.   
+C'est tout en fait, une fois que le token a les bonnes autorisations, ça marche nickel.   
 C'est aussi super pratique pour éditer tout les labels à la volée.
 
-*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/27), feel at ease to contribute.*
+`*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/27), feel at ease to contribute.*
+`
