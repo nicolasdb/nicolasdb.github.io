@@ -18,9 +18,9 @@ toc_icon: "rocket"
 
 
 
-Today, it's awesome.
+Today, it's awesome.  
 We can access to (almost) any knowledge (when) we want with internet.
-But it feel mostly like that :
+But it feel mostly like that :  
 *Pictures of Cats section West Seattle Blog dingbat newspaper rubber cement **Cultural exchange** gif newsroom cafe rubber cement, **How to unlock potential of a makers?** Kindle Single syndicated Instagram community **Fablabs network** mthomps, Mozilla iPhone app should isn't a business model **skills** curmudgeon production of innocence. aaron swartz Fuego tweets community Document **I want to travel and learn new skills but It's to expensive** Cloud metered model **Where can I help** Gardening & War section YouTube social media SEO information overload analytics Journal Register data visualization **I need skilled people for a project** WikiLeaks Groupon, collaboration Steve **Mobility** Jobs we need a **common language** napster AP What Would Meme Do the power of **spreading** the Cats belongs to the cats person who owns one carmadgeon Voice of San Diego free as in beer dead trees the notion of the public **github** torvalds.*
 
 It's a mess. Then you just have to ask to google.
