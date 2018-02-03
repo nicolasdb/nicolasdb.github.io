@@ -17,9 +17,9 @@ J'ai pu commander quelques machines en kit dernièrement.
 ![image](https://user-images.githubusercontent.com/12049360/34579101-e513405a-f187-11e7-8cd5-0796ed44a43e.png)
 
 ### Contexte
-Le deal est de financer l'achat de 4 kits, en revendre 3 et financer ainsi une machine pour le lab. Mais bien que les machines sont pas mal du tout et que l'ensemble est rigide et imprime bien.
+Le deal est de financer l'achat de 4 kits, en revendre 3 et financer ainsi une machine pour le lab. Mais bien que les machines sont pas mal du tout et que l'ensemble est rigide et imprime bien, j'y trouve plusieurs problèmes.
 
-Les problèmes à l'origine sont :
+A l'origine je trouve que :
 - le transport merdique (comme d'hab, un effort est fait par les services postaux concernant la délicatesse de leur livreur)
 - matos chinois et faiblesse du pack et des finitions
   - alim DOA (dead on arrival)
@@ -52,7 +52,7 @@ Bref, moultes optimisations possibles :D
 
 
 ## Steps
-### **Roulements Y IGUS**
+### Roulements Y IGUS
 
 J'ai demandé des échantillons chez Igus, j'avais envie de tester les [paliers polymère **igus drylin RJ4JP**](https://www.igus.com/wpck/17748/Motek14_N14_6_3_Vollkunststofflager) en remplacement des roulements linéraire classique (LM8UU ball bearings).
 
@@ -61,9 +61,31 @@ J'ai demandé des échantillons chez Igus, j'avais envie de tester les [paliers 
 à voir: [**Should you be using IGUS polymer bushings?** *by Thomas Sanladerer*
 ](https://youtu.be/ZGBipbgwgME)
 
-### **spring cups**
-### **90° motors Z**
-### **PTFE tube**
-### **X cart v0**
-### **Roulements Y IGUS**
-### **better extruder fan holder**
+### spring cups
+
+Pour contraindre les ressorts du lit. Ils se déforment et c'est pas très stable. Avec c'est mieux. :)   
+[spring guide](https://www.thingiverse.com/thing:2171918)
+
+![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/65373525-1994-4bef-97be-ccc8b6f720b0)
+
+### 90° motors Z
+
+Petit 1/4 de tour pour ne plus que le cable ne soit dans le chemin du lit.
+![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/018ae3fb-5cf3-4cf2-be6f-f2f4647ab3d9)
+### PTFE tube
+
+Julien D. m'a conseillé de réduire la longueur au maximum pour réduire les frottements.
+
+![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/14876a98-ae8f-4598-b055-df3428e38032)
+### X cart v0
+
+Les roues du X cart sont très difficile à régler, du jeu reste et c'est pas facile à corriger.  
+Une bonne vis pour forcer la zone de réglage et on en parle plus.
+
+![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/96981e6c-c99f-41dd-a7f1-a6a23b7f0867)
+
+### better extruder fan holder
+Le boitier d'origine et le ventilo refroidit bcp trop fort, à la fois le radiateur (bien) à la fois la tête d'extrusion (mal)   
+[Ce fan holder gère mieux le flux d'air](https://www.thingiverse.com/thing:2481362)
+
+![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/63547cf4-8831-4f4e-86a9-ec8a1664f24b)
