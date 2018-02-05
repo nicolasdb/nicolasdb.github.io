@@ -4,7 +4,7 @@ title: "Time to pimp my Anet E10"
 excerpt: "I bought this last 3D printer and it's time to pimp this mtfucka"
 header:
   # image:
-  teaser: "/assets/images/post/laser-th.jpg"
+  teaser: "/assets/images/post/AnetE10.1-th.jpg"
   # og_image:
 categories:
   - Post
