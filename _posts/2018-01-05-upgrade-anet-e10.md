@@ -89,3 +89,11 @@ Le boitier d'origine et le ventilo refroidit bcp trop fort, à la fois le radiat
 [Ce fan holder gère mieux le flux d'air](https://www.thingiverse.com/thing:2481362)
 
 ![image.png](https://images.zenhubusercontent.com/599be89f8f62dc7798c39c2f/63547cf4-8831-4f4e-86a9-ec8a1664f24b)
+
+And more to come:
+- [Z limit](https://www.thingiverse.com/thing:2482030)
+- [support PSU](https://www.thingiverse.com/thing:2467824)
+- [some foots to make place for electronics under](https://www.thingiverse.com/thing:2659913)
+- [2 filtres pour filament](https://www.thingiverse.com/thing:1692395)
+- un boitier pour le [fuse switch C14](https://www.thingiverse.com/thing:2119103)
+- [un tendeur pour la courroie X](https://www.thingiverse.com/thing:2589638)
