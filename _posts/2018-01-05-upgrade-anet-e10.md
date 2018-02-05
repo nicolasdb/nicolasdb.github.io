@@ -12,6 +12,10 @@ tags:
   - Openfab
   - 3dPrint
 ---
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/16), feel at ease to contribute.*
+
+
+
 J'ai pu commander quelques machines en kit dernièrement.
 
 ![image](https://user-images.githubusercontent.com/12049360/34579101-e513405a-f187-11e7-8cd5-0796ed44a43e.png)
@@ -97,3 +101,7 @@ And more to come:
 - [2 filtres pour filament](https://www.thingiverse.com/thing:1692395)
 - un boitier pour le [fuse switch C14](https://www.thingiverse.com/thing:2119103)
 - [un tendeur pour la courroie X](https://www.thingiverse.com/thing:2589638)
+
+
+
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/16), feel at ease to contribute.*

@@ -38,5 +38,4 @@ Du coup, j'ai suivis ce qu'il propose et pour le coup, je propose moi aussi quel
 C'est tout en fait, une fois que le token a les bonnes autorisations, ça marche nickel.   
 C'est aussi super pratique pour éditer tout les labels à la volée.
 
-`*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/27), feel at ease to contribute.*
-`
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/22), feel at ease to contribute.*

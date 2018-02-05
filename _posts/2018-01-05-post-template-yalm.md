@@ -43,3 +43,6 @@ Always start with a bit of context, then explain what is your objectives and how
 ## Objectif(s)
 ## Propositions
 ```
+
+
+And as always, you can help me and [contribute on this one here](https://github.com/nicolasdb/nicolasdb.github.io/blob/master/_posts/2018-01-05-post-template-yalm.md)  

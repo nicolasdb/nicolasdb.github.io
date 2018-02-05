@@ -11,6 +11,8 @@ tags:
   - fusion360
 ---
 
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/8), feel at ease to contribute.*
+
 ## Objectif:
 Certaines dales de platres sont à remplacer. C'est un modèle qu'on ne retrouvera pas facilement sur le marché.
 
@@ -68,3 +70,6 @@ This job will be paint and place as replacement for broken tiles.
 \- profiling, 2 min/pc
 \- chamfer, 1 min/pc
 \+ 3x 5 min in between to change tools, gcode and Z homing
+
+
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/8), feel at ease to contribute.*

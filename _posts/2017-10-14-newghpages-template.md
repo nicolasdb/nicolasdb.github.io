@@ -9,6 +9,9 @@ tags:
   - superUser
 ---
 
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/10), feel at ease to contribute.*
+
+
 ## Objective:
 >How did you manage to add this super minimal template on your github? I just followed the "getting started" and nothing else append except a lot of "Error 404". In two minut, I'll burn everything down!
 
@@ -76,3 +79,6 @@ I think it's automatic for xxx.github.io repo because github will associate repo
 And as always, you can help me and [contribute on this one here](https://github.com/nicolasdb/nicolasdb.github.io/blob/master/_posts/2017-10-14-newghpages-template.md)  
 
 ![image](https://user-images.githubusercontent.com/12049360/32787427-c97b07b4-c956-11e7-8c53-b82c62ed1309.png)
+
+
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/10), feel at ease to contribute.*

@@ -12,6 +12,8 @@ tags:
   - Openfab
 ---
 
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/5), feel at ease to contribute.*
+
 ## objectif:
 Découper des panneaux de mousses et les encoller pour obtenir un lettrage de +- 10cm d'épais.  
 Les lettres sont découpées à la cnc en MDF 18mm, ce sera nos gabarits à suivre avec:  
@@ -59,3 +61,5 @@ Encore une fois, je prépare grossièrement à la scie sauteuse.
 hé ben, voilà, en fait la technique à la défonceuse offre le meilleur résultat. C'est clean, c'est droit, c'est tjs pareil tout du long.
 Voilà la bonne méthode donc.  
 ![image](https://user-images.githubusercontent.com/12049360/29752003-2532b1ea-8b56-11e7-8a3b-aea0a5901c95.png)  
+
+*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/5), feel at ease to contribute.*
