@@ -13,7 +13,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Founder @[Openfab](http://openfab.be)<br />
     Maker and fabmanager @[Openfab](http://openfab.be)<br />
-    Belgian ambassador @[VULCA - European program](https://www.facebook.com/vulcaeuropeanprogram/)<br />
+    Belgian ambassador @[VULCA - European program](https://vulca.eu/)<br />
     "
 ---
 

@@ -30,7 +30,7 @@ Well, actually, it's not so simple. You must know exactly what and how to search
 
 ## How to build an European Identity through the mobility of Makers
 
-As a student, it's cool to go in Erasmus+[1] and spend 6 months somewhere abroad in EU. You learn and meet differents culture, people, food and drinks, a different way to see things and basically, it open your mind.
+As a student, it's cool to go in Erasmus+[1] and spend 6 months somewhere abroad in EU. You learn and meet different culture, people, food and drinks, a different way to see things and basically, it open your mind.
 But how to extend or expand this opportunity outside this framework?  
 Like what about retired people, about non academic people, about in-between-jobs and what about makers?
 
