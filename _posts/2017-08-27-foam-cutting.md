@@ -10,6 +10,8 @@ tags:
   - router
   - hot wire
   - Openfab
+  - Jobs
+  - FR
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/5), feel at ease to contribute.*

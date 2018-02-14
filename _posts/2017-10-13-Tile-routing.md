@@ -9,6 +9,8 @@ tags:
   - MDF
   - CNC
   - fusion360
+  - FR
+  - Jobs
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/8), feel at ease to contribute.*

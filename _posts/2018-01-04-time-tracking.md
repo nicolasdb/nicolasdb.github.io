@@ -15,6 +15,7 @@ tags:
   - Openbadge
   - Gamification
   - contribute
+  - FR
 ---
 
 ![image](https://user-images.githubusercontent.com/12049360/34566976-d724690a-f160-11e7-95a8-524f1e7ea4f6.png)

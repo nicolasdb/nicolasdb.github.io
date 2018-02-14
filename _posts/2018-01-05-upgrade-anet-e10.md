@@ -11,12 +11,13 @@ categories:
 tags:
   - Openfab
   - 3dPrint
+  - FR
 ---
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/16), feel at ease to contribute.*
 
 
 
-J'ai pu commander quelques machines en kit dernièrement.
+J'ai pu commandé quelques machines en kit dernièrement.
 
 ![image](https://user-images.githubusercontent.com/12049360/34579101-e513405a-f187-11e7-8cd5-0796ed44a43e.png)
 

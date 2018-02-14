@@ -3,7 +3,7 @@ date: 2018/01/30
 title: "Labels GitHub"
 excerpt: "How to copy labels from/to repository?"
 header:
-  image: "/assets/images/post/labelgit.png"
+  # image: "/assets/images/post/labelgit.png"
   teaser: "/assets/images/post/labelgit-th.jpg"
   # og_image: "https://static1.squarespace.com/static/56023101e4b072a1b1866505/t/56be1e4b37013b18611e028b/1455300256034/before-after.jpg"
 categories:
@@ -11,6 +11,7 @@ categories:
 tags:
   - Openfab
   - github
+  - FR
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/22), feel at ease to contribute.*

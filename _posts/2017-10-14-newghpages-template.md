@@ -7,6 +7,7 @@ categories:
 tags:
   - github
   - superUser
+  - EN
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/10), feel at ease to contribute.*

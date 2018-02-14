@@ -14,6 +14,7 @@ tags:
   - superUser
   - loop
   - PBL
+  - EN
 ---
 
 That's cool, for my 8th posts here (not counting pages or quests) I'll just share some knowledge I gather about a template I feel comfortable using for editing posts.
