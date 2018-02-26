@@ -36,9 +36,10 @@ Trespa | heli 1F | 2 | 1500 | 3.5 | 2
 - pas de poussière notable, les copeaux sont relativement entier et "lourd" à l’échelle de la poussière.
 
 ### Rewards
-**levelup** + 1 job CNC type *2D*
-**levelup** + 1 devis type *projet*
-**credits** + 80 crrr
-**loot** + chutes trespa.
+**levelup** + 1 job CNC type *2D*  
+**levelup** + 1 fusion360  
+**levelup** + 1 devis type *projet*  
+**credits** + 80 crrr  
+**loot** + chutes trespa.  
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/64), feel at ease to contribute.*
