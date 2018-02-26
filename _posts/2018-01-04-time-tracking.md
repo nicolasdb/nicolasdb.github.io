@@ -1,7 +1,7 @@
 ---
 date: 2018/01/04
 title: "Making a timetracker device"
-excerpt: "I need a time tracker to makes my time management easier than ever"
+excerpt: "I need a wibbly wobbly timey tinghy to makes my time management easier than ever"
 header:
   # image:
   teaser: "/assets/images/post/timey-th.jpg"
