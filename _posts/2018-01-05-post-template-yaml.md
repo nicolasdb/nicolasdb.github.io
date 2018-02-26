@@ -4,7 +4,7 @@ title: "Template for my posts"
 excerpt: "I begin to find my way into this jekyll thing, here is the template I'm working on"
 header:
   # image:
-  teaser: "/assets/images/post/laser-th.jpg"
+  teaser: "/assets/images/post/yaml-th.jpg"
   # og_image:
 categories:
   - Post

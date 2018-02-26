@@ -4,7 +4,7 @@ title: "Making a timetracker device"
 excerpt: "I need a time tracker to makes my time management easier than ever"
 header:
   # image:
-  teaser: "/assets/images/post/laser-th.jpg"
+  teaser: "/assets/images/post/timey-th.jpg"
   # og_image:
 categories:
   - Post
