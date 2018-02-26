@@ -4,7 +4,7 @@ title: "Découpe de Trespa à la CNC"
 excerpt: "Premier job de découpe dans cette matière"
 header:
   # image: "/assets/images/post/labelgit.png"
-  teaser: "/assets/images/post/trespa-th.png"
+  teaser: "/assets/images/post/trespa-th.jpg"
   # og_image: "https://static1.squarespace.com/static/56023101e4b072a1b1866505/t/56be1e4b37013b18611e028b/1455300256034/before-after.jpg"
 categories:
   - Post
