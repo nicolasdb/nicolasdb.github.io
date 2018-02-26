@@ -11,14 +11,15 @@ permalink: /howto/
 ![chair](https://media.giphy.com/media/PmTWHSzTo53A4/giphy.gif)
 
 
-
+##### -- WARNING, this is a frenchglish test. Est-ce que ça fait sens? --
 
 ### Ho, hi there.
 
-First off, thank you for considering contributing to what I do. J'ai de temps en temps des propositions d'aide and yes, I need help. I don't know everything et je galère souvent sur des sujets qui dépassent mes compétences, mais continue de chercher par tâtonnements.   
-But it's still difficult to me de trouver les moyens de définir, lister, i don't know... Déléguer est un art que j'apprend encore. De plus, je dois encore trouver le cadre pour ça et comment former certains.  
+First off, thank you for considering contributing to what I do. J'ai de temps en temps des propositions d'aide and yes, I need help.  
+I don't know everything and I galère souvent sur des sujets qui dépassent mes compétences, je continue in a "learning by doing" mode.   
+But it's still difficult to me de trouver les moyens de définir, lister, I don't know... How to define the help I need.  
 
-Ce site est un excercice et une exploration à ce sujet. I'm using github to host the website and it give me, and you, the ability to contribute (if you're willing to take the small time needed to learn how)
+Ce site est un exercise et une exploration à ce sujet. I'm using github to host the website and it give me, and you, the ability to contribute (if you're willing to take the small time needed to learn how)
 
 ### Why do people contribute to open source? Plenty of reasons!
 
@@ -37,20 +38,27 @@ First, you can follow the guide to become an [Openfab superUser](https://github.
 La partie github en tout cas.  
 Ce qui permet déjà de [participer au travers des issues github](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).  
 
-Ensuite, there is this kind of framework i'm trying to put in place.   
+Ensuite, there is this kind of framework I'm trying to install:     
 Lors de la création d'une issue,
 - tjs commencer par une part de contexte,
 - proposer des objectifs et une ou plusieurs pistes pour les atteindres.
 - et énoncer votre intérêt.  
-ça peut être simplement que ça vous fait plaisir ou que vous avez envie d'apprendre une compétence ou peut-être que vous avez envie de travailler plus souvent dans le monde des fablabs et c'est une première expérience à gagner avant d'en tirer une rémunération. Ou vous voulez juste des euro ou encore du tps d'accès machine.
+
+```
+### context
+## Objectives
+## Propositions
+## your rewards
+```
+The rewards could be simple as a "thank you", some credits, a new skill learned or even some extra loot for another project.
 
 My point is that outside an amount of money, it is not easy to clearly define the value of help. *Well, money neither actually....*   
-And sure, I'll be happy to receive it and I would like to know what make you happy to help me so we can grow trust on that, and maybe do more of what make us happy.
+And sure, I'll be happy to receive it (the help... and also money) but I would like to know what make you happy to help me, and maybe do more of what make us happy together.
 
 ## What kinds of contributions I'm looking for.
 
 Bien, cela peut-être n'importe quoi où vous vous sentez motivé d'aider, suivant vos propres forces.  
-Here, I managed to list automatically posts on what I could need help. If you found something you're willing to learn, to help, to do, to... je ne sais pas, n'importe quel intérêt vous y voyez.  
+Here, I managed to list automatically posts on what I could need help. If you found something you're willing to learn, to help, to do, to... anyway.  
 My goal is to create as much opportunities as possible to barter a win/win deal situation with you.  
 
 *for more : [What it means to contribute?](https://opensource.guide/how-to-contribute/#what-it-means-to-contribute)*
