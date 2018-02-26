@@ -9,6 +9,7 @@ tags:
   - MDF
   - CNC
   - fusion360
+  - materials
   - FR
   - Jobs
 ---
@@ -39,7 +40,11 @@ La modélisation est rapide, 30 min pour mesurer et reproduire en 3D.
 [Numéro d'article: 915.127.11](http://www.garnotec.be/product/FR/347)  
 27.59€ ttc
 
-
+Matière | drill bit | size (mm) | feed (mm/min) | speed (on kress) | pass max (mm)
+-- | -- | -- | -- | -- | --
+MDF 18mm | flat | 25 | 2000 | 3 | 4
+MDF 18mm | heli 2F | 3,175 | 2500 | 3 | NA 'Cleaning'
+MDF 18mm | chamfer | 9,5 | 2000 | 3 | NA 'finish'
 
 ### steps to produce 10
 
