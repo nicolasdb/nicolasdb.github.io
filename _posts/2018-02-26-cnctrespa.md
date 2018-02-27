@@ -12,7 +12,7 @@ tags:
   - Openfab
   - Jobs
   - CNC
-  - fusion360
+  - Fusion360
   - materials
   - FR
 ---

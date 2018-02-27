@@ -6,9 +6,8 @@ categories:
   - Tuto
   - Jobs
 tags:
-  - MDF
   - CNC
-  - fusion360
+  - Fusion360
   - materials
   - FR
   - Jobs

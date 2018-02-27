@@ -6,9 +6,8 @@ categories:
   - Tuto
   - Jobs
 tags:
-  - foam
-  - router
-  - hot wire
+  - tools
+  - materials
   - Openfab
   - Jobs
   - FR

@@ -12,8 +12,7 @@ tags:
   - Openfab
   - github
   - superUser
-  - loop
-  - PBL
+  - Gamification
   - EN
 ---
 

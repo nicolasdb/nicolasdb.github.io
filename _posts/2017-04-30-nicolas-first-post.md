@@ -5,7 +5,6 @@ excerpt: "My first try to post something in gh-pages"
 categories:
   - Post
 tags:
-  - website
   - github
   - EN
 ---
