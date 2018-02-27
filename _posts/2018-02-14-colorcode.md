@@ -11,6 +11,7 @@ categories:
 tags:
   - Openfab
   - Gamification
+  - contribute
   - EN
 ---
 
