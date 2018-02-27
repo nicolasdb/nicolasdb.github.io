@@ -26,6 +26,10 @@ On top of the post, this is the YAML section who say specific data to help jekyl
 date: 2018/01/05                      # YYYY/MM/DD, nothing special
 title: "Template for my posts"        # will show on list and on top of your post.
 excerpt: "I blabla bla ...."          # will show on list as a resume
+header:                               # to choose which jpg you want to show
+  # image: "/assets/images/post/labelgit.png"    
+  teaser: "/assets/images/post/trespa-th.jpg"
+  # og_image: "/assets/images/post/labelgit.png"
 categories:                           # List here the category of this post
   - Post                              # default, Post, Tuto, ....
 tags:                                 # List here tags
@@ -34,10 +38,11 @@ tags:                                 # List here tags
   - superUser
 ---
 ```
-I use tags to list some posts together. Again, nothing new.
+I use tags to list some posts together. Again, nothing new.  
 
-Then I use something like that as a base structure. The 3 base elements like in issues.
-Always start with a bit of context, then explain what is your objectives and how you'll target them. 1.Why? 2.What? 3.How?
+Then I use something like that as a base structure. The 3 base elements like in issues.  
+Always start with a bit of context, then explain what is your objectives and how you'll target them. 1.Why? 2.What? 3.How?  
+
 ```
 ### Contexte
 ## Objectif(s)

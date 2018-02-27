@@ -2,6 +2,9 @@
 date: 2017/10/14
 title: "My gh-pages install template"
 excerpt: "How to install a template in github online without messing with jekyll or ruby and gem command line"
+header:
+  # image:
+  teaser: "/assets/images/post/ghpage-th.jpg"
 categories:
   - Tuto
 tags:
