@@ -1,6 +1,6 @@
 ---
 date: 2018/02/26
-title: "Découpe de Trespa à la CNC"
+title: "Trespa à la CNC"
 excerpt: "Premier job de découpe dans cette matière"
 header:
   # image: "/assets/images/post/labelgit.png"
