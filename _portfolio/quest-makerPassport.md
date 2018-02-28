@@ -30,6 +30,11 @@ It's a fez. I wear a fez now. Fezzes are cool. I once spent a hell of a long tim
 Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first. Brave heart, Clara. Geronimo! Bow ties are cool. Usually called 'The Doctor.' Or 'The Caretaker.' Or 'Get off this planet.' Though, strictly speaking, that probably isn't a name.
 
 Geronimo! Frightened people. Give me a Dalek any day. I once spent a hell of a long time trying to get a gobby Australian to Heathrow airport. Overconfidence, this, and a small screwdriver. I’m absolutely sorted. Oh, I always rip out the last page of a book. Then it doesn't have to end. I hate endings! There's something that doesn't make sense. Let's go and poke it with a stick. Look at me. No plans, no backup, no weapons worth a damn. Oh, and something else I don't have: anything to lose. So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first.
+
+![gification](http://images.virgula.com.br/2015/12/TRAVOLTA-CONFUSO-EM-LOST.gif)
+
+this is a work in Progress, loading ....
+
 ---
 ### Posts linked to this quest
 <ul class="posts">

@@ -23,6 +23,11 @@ We are all connected; To each other, biologically. To the earth, chemically. To 
 
 Houston, Tranquillity Base here. The Eagle has landed.
 As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
+
+![gification](https://78.media.tumblr.com/5db78ee8363fa38efd3f1051447875fa/tumblr_nyo13brVkP1v096cfo1_500.gif)
+
+this is a work in Progress, loading ....
+
 ---
 ### Posts linked to this quest
 <ul class="posts">

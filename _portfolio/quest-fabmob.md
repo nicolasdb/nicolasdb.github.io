@@ -32,6 +32,12 @@ L'appel à projet peut encore se trouver sur le [site d'Innoviris](http://www.in
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+![gification](https://i.pinimg.com/originals/fe/24/dc/fe24dc2b3440d3622249452d391f4393.gif)
+
+this is a work in Progress, loading ....
+
+
 ---
 ### Posts linked to this quest
 <ul class="posts">
