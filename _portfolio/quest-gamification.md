@@ -24,7 +24,7 @@ gallery:
 ---
 ### Context
 
-2016, I was browsing the TED talk web site and then, I discover this:  
+2016, I was browsing the TED talks and then, I discover this:  
 
 {% include video id="dE1DuBesGYM" provider="youtube" %}
 *Games like World of Warcraft give players the means to save worlds, and incentive to learn the habits of heroes. What if we could harness this gamer power to solve real-world problems? Jane McGonigal says we can, and explains how.*
@@ -39,7 +39,7 @@ We are all connected; To each other, biologically. To the earth, chemically. To 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-Houston, Tranquillity Base here. The Eagle has landed.
+Houston, Tranquility Base here. The Eagle has landed.
 As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
 
 

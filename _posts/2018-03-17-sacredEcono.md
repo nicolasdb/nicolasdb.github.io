@@ -18,6 +18,12 @@ tags:
 
 ### Today, I wake up with
 
+#### About the Book
+
+> Sacred Economics traces the history of money from ancient gift economies to modern capitalism, revealing how the money system has contributed to alienation, competition, and scarcity, destroyed community, and necessitated endless growth.
+
+> Today, these trends have reached their extreme - but in the wake of their collapse, we may find great opportunity to transition to a more connected, ecological, and sustainable way of being.
+
 This awesome audiobook who even has a quote of Michel Bauwens on their website
 
 >"If you want a convincing account of just how deep the shift in our new axial age is and must be, look no further than this brilliant book by Charles Eisenstein, one of the deepest integrative thinkers active today."  
