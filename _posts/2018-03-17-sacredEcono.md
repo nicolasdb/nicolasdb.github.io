@@ -4,7 +4,7 @@ title: "Sacred Economics"
 excerpt: "Lecture - Charles Eisenstein and the return of the gift"
 header:
   # image: "/assets/images/post/labelgit.png"
-  teaser: "/assets/images/post/trespa-th.jpg"
+  teaser: "/assets/images/post/sacredE-th.jpg"
   # og_image: "https://static1.squarespace.com/static/56023101e4b072a1b1866505/t/56be1e4b37013b18611e028b/1455300256034/before-after.jpg"
 categories:
   - Post
