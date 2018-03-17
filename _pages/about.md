@@ -15,6 +15,22 @@ layouts_gallery:
 last_modified_at: 2017-11-06T16:27:14-05:00
 ---
 
+## why?
+Mon drive, c'est l'exploration.
+Comment obtenir ces machines, comment les utiliser, comment en vivre? Je voulais en savoir plus.  
+En 2011, soit j'attendais qu'un fablab ouvre et m'engage, soit j'essaye avec mes moyens.  
+j'achète ma première machine et la fabrique par moi même ce qui était bcp moins cher qu'autrement.  
+Aujourd'hui 2018, j'ai mon fablab j'ai bcp évolué, j'ai bcp appris, j'ai trouvé mon Epic quest et je me sens bloqué, limité.  
+J'ai besoin d'un écosystème qui me soutienne dans cette Epic quest.  
+Est-ce qu'il existe? Non. Les éléments sont là, à portée de mains mais ce n'est pas encore un écosystème. L'énergie stagne ou s'échappe, il faut la mettre en mouvement (#shiatsu)  
+Est-ce que je vais attendre que ça se fasse, que ça bouge tout seul? Non, je risque d'attendre encore longtps alors, à mon niveau, j'essaye d'agir et de tester avec les moyens que j'ai.  
+Égoïstement, j'ai besoin des autres pour avancer alors comment leur dire? Comment les guider vers ce que je resents comme une solution commune possible.  
+Pour que les choses changent, nous devons d'abord faire des efforts personnels dans nos comportements. Nous devons prendre de meilleurs habitudes, nous devons devenir meilleur à tous ce qu'on fait et ce qu'on ne fait pas encore.  
+Et le dire, c'est bien facile mais le faire, c'est autre chose.  
+Alors, ça commence par moi, j'essaye de m'améliorer et c'est pas si facile.  
+**“Be the change that you wish to see in the world.”**  
+Merci Mahatma Gandhi.  
+
 ## my exploration on minisite github
 ### What exploration?
 
