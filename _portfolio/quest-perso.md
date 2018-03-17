@@ -25,7 +25,7 @@ this is a work in Progress, loading ....
 ---
 ### Posts linked to this quest
 <ul class="posts">
-{% for post in site.tags.PersonalDev limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
+{% for post in site.tags.Perso limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
 
   <div class="post_info">
     <li>
