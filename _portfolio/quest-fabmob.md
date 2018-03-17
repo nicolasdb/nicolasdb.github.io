@@ -12,14 +12,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Mise en relation entre les partenaires, implementation d'une trame de gamification à l'ensemble du processus et un support technique sur le matériel fablab des modules"
 gallery:
-  - url: /assets\images\portfolio\fabmob-gal1.jpg
-    image_path: /assets\images\portfolio\fabmob-gal1.jpg
+  - url: \assets\images\portfolio\fabmob-gal1.jpg
+    image_path: \assets\images\portfolio\fabmob-gal1.jpg
     alt: "Flex t-rex @WATS"
-  - url: /assets\images\portfolio\fabmob-gal2.jpg
-    image_path: /assets\images\portfolio\fabmob-gal2.jpg
+  - url: \assets\images\portfolio\fabmob-gal2.jpg
+    image_path: \assets\images\portfolio\fabmob-gal2.jpg
     alt: "Electric bike motor"
-  - url: /assets\images\portfolio\fabmob-gal3.jpg
-    image_path: /assets\images\portfolio\fabmob-gal3.jpg
+  - url: \assets\images\portfolio\fabmob-gal3.jpg
+    image_path: \assets\images\portfolio\fabmob-gal3.jpg
     alt: "Fabrikators V2 config"
 ---
 
