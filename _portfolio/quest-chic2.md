@@ -25,6 +25,10 @@ gallery:
 
 #### Un projet européen de mise en relation, de maillage, d’échange sur les processus créatifs autour de l’objet «tampon» et de la notion du «libre».
 
+Je réunis ici un peu de contexte, la démarche d'Openfab, les objectifs et leur développement en 2 temps.  
+Des liens sont fait à chaque fois vers une documentation plus approfondie, directement sur notre compte github.  
+Je vous invite à participer si vous le voulez au travers de cette plateforme collaborative, pour corriger, critiquer, utiliser, améliorer ce contenu ou encore le traduire.
+
 ### Openfab, un collectif de freelance, une guilde opensource
 
 > A guild is an association of artisans or merchants who oversee the practice of their craft in a particular town. ([wikipedia](https://en.wikipedia.org/wiki/Guild))
