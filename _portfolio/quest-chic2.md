@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Lead Fabmanger"
+    text: "Lead Fab-manager"
   - title: "Responsibilities"
     text: "Project management, hosting workshop, Opensource consultant and technical development"
 gallery:
@@ -65,36 +65,41 @@ Développement et fabrication de machines*
 
 Le choix s'est porté sur la technique du pantographe [dont le concept est exploré sur cette page](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/2017-04-30-bxl1.md).
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Du concept au prototype" %}
 
 ### L'usage
 
-*Workshop pédagogique, chez [Made in kit](http://www.madeinkit.be/) -
-Développement des usages des machines du workshop précédent.
-Documentation des jeux et des méthodes.
+*Workshop pédagogique, chez [Made in kit](http://www.madeinkit.be/) -  
+Développement des usages des machines du workshop précédent.  
+Documentation des jeux et des méthodes.  
 Test live avec un groupe d'enfants.*
 
 
-Voilà comment était annoncé l'atelier.
-> L'objectif du projet CHIC est de revisiter l'art traditionnel du tampon par les nouvelles technologies numériques. Un prototype d'outil de gravure accessible aux enfants a été développé lors de 3 workshops rassemblant différents partenaires européens. Nous le testerons avec les enfants en compagnie de l'Openfab de Bruxelles et du Musée des Enfants de Rome à l'occasion de cette animation chez Made in Kit! Et créerons une grande série de tampons et d'impression à l'aide de cette "machine" originale!
+Voilà comment était annoncé l'atelier:
+> L'objectif du projet CHIC est de revisiter l'art traditionnel du tampon par les nouvelles technologies numériques. Un prototype d'outil de gravure accessible aux enfants a été développé lors de 3 workshops rassemblant différents partenaires européens.  
+Nous le testerons avec les enfants en compagnie de l'Openfab de Bruxelles et du Musée des Enfants de Rome à l'occasion de cette animation chez Made in Kit!  
+Et créerons une grande série de tampons et d'impression à l'aide de cette "machine" originale!
 
 Nous avons passé les 3 jours à tester, observer et améliorer l'usage du pantographe directement avec des petits groupes d'enfants du quartier, de 5 à 10 ans.  
 Et chaque activité était documentée directement sur [github*](https://github.com/openfab-lab/chic2.0/blob/master/Workshop4-BXL2.md) avec une routine de ce type:
 - Quelles actions étaient proposées?
 - Observations de ce qui marche et des problématiques rencontrées
-- Proposition d'amélioration.
+- Proposition d'amélioration.  
 Ce processus itératif a abouti au 3ème jour à un atelier qui se déroulait parfaitement, de manière fluide et sans temps de flottement où les enfants pourraient s'ennuyer ou perdre intérêt.
 
 
-## ressources
+## Ressources
 - Comment fabriquer son ["Pantolino"](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/pantolino-tuto.md)
 - Thématiques abordées lors des workshops
   - la typographie et les animaux imaginaires
   - les [émotions](https://github.com/openfab-lab/chic2.0/blob/master/04Roma/17-07-10.md), peur, joie, ...
 
+
+---
+
 ![gification](https://i.pinimg.com/originals/2c/c3/5d/2cc35d828f31b0746fa7d4cdf86ed5fe.gif)
 
-this is a work in Progress, loading ....
+     this is a work in Progress, loading ....
 
 ---
 ### Posts linked to this quest
