@@ -62,8 +62,17 @@ Mais cela restreint cette production aux fablabs et nécessite des compétences 
 Les 2 workshop proposés ont pour but d'agir en 2 temps, avec une période de maturation de l'idée entre les deux.
 ### L'outil
 
-*Workshop technique, à Openfab -   
-Développement et fabrication de machines*
+*[Workshop technique](https://github.com/openfab-lab/chic2.0/blob/master/Workshop3-BXL1.md), à Openfab -   
+Développement et fabrication de machines*  
+
+**29, 30 et 31 Mars 2017**
+
+Designer : [Désiré Nwaobasi (Fabmanager Fablab de l'Académie des beaux-arts de Bruxelles)](https://www.facebook.com/fablab.arba.esa/)   
+Fabmanager Belge : [Nicolas de Barquin](http://www.openfab.be/)  
+Représentants Italie : [Marianna and Leo](https://www.mdbr.it/)  
+Documentation vidéo : [Chadi Abou Sariya](http://www.miam-miam.eu/fr/home/)  
+
+
 - 1 machine légère pour le travail avec les enfants, super safe, mise à l'échelle de dessin. Guide + bic sur papier
 - 1 machine moyenne pour la gravure dans des matériaux plus résistants en surface, linogravure, bois, caoutchouc, etc... Guide (On/off) + fraisage type dremel/proxxon.
 
@@ -73,11 +82,18 @@ Le choix s'est porté sur la technique du pantographe [dont le concept est explo
 
 ### L'usage
 
-*Workshop pédagogique, chez [Made in kit](http://www.madeinkit.be/) -  
+*[Workshop pédagogique](https://github.com/openfab-lab/chic2.0/blob/master/Workshop4-BXL2.md), chez [Made in kit](http://www.madeinkit.be/) -  
 Développement des usages des machines du workshop précédent.  
 Documentation des jeux et des méthodes.  
 Test live avec un groupe d'enfants.*
 
+**24, 25, 26 Mai 2017**
+
+Artiste Belge : [Lara Denil](http://www.laradenil.be/)  
+Fabmanager Belge : [Nicolas de Barquin](http://www.openfab.be/)  
+Représentante Italie : [Alessia Bello](https://www.mdbr.it/)  
+Documentation vidéo : [Chadi Abou Sariya](http://www.miam-miam.eu/fr/home/)  
+\+ 19 enfants du quartier au total.
 
 Voilà comment était annoncé l'atelier:
 > L'objectif du projet CHIC est de revisiter l'art traditionnel du tampon par les nouvelles technologies numériques. Un prototype d'outil de gravure accessible aux enfants a été développé lors de 3 workshops rassemblant différents partenaires européens.  
