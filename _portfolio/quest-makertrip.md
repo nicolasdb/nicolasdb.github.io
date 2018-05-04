@@ -4,7 +4,7 @@ excerpt: "[Dev] The further we go, the further we are close to everything. Geee,
 header:
   image: "/assets/images/portfolio/trip1.1.jpg"
   teaser: "/assets/images/portfolio/trip1.1-th.jpg"
-  og_image: "/assets/images/portfolio/trip1.1-th.jpg"
+  # og_image: "/assets/images/portfolio/trip1.1-th.jpg"
 sidebar:
   - title: "Role"
     image: "/assets/images/portfolio/trip-rl.jpg"
@@ -16,7 +16,7 @@ toc: true
   toc_icon: "rocket"
 ---
 
-Hi There,
+### Hi There,
 My Friends started a money pool to collect funds for helping me fulfil a new project, which is in continuity of [Openfab](openfab.be) and will explore new boundaries within the [Vulca's network](https://vulca.eu/about-us/).  
 
 >Nous organisons une levée de fonds pour aider Nicolas à accomplir son nouveau projet. Après avoir offert 7 ans à OpenFab, il a envie d’approfondir les sujets qui lui tiennent à cœur en explorant les différents lieux de création en Europe (et plus loin).
