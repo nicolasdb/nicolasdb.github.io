@@ -28,10 +28,9 @@ Merci d’avance !
 
 >Odile, Brice, Anne-Camille
 
-So the goal is going abroad in Europe, ~~be wasted all the time, doing drugs and shit~~ _mais noooon, chuch there!_       
+So the goal is going abroad in Europe, ~~be wasted all the time, doing drugs and shit~~ _mais noooon, shush there!_       
 To do so, I'll met with local fablabs, makers and peoples around them, creating bridges and explore different kind of opportunities.   
-I'll explore gamification, and shit..... ... >to continue>
-I already came back with new ideas, new solutions for Openfab when going in Denmark, France or Spain. And I want to do more.  
+I'll explore cultures, gamification, passport and badges, github-pages and how to live in the moment.
 
 For that, I'll continue to learn how to master github, the old, long and (for most) difficult art of documenting. I'll mark out the route in a journal, [my portfolio](nicolasdb.github.io), so the next will not have to start from scratch.  
 
@@ -41,7 +40,10 @@ The main challenges to overcome, is:
 - how to enable opportunities?
 - where to go next?
 
+### First trip
+Articles *trip1.x  
 
+**Brussels>Belgrade>Zagreb>Vienna>Ljubljana>?**
 
 *note: you can participate on this page by using [issues on my github](https://github.com/nicolasdb/nicolasdb.github.io/issues/), feel at ease to contribute.*
 
