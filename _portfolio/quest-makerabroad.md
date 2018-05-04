@@ -4,7 +4,6 @@ excerpt: "[Dev] The further we go, the further we are close to everything. Geee,
 header:
   image: /assets/images/portfolio/trip1.1.jpg
   teaser: /assets/images/portfolio/trip1.1-th.jpg
-  og_image: /assets/images/portfolio/trip1.1-th.jpg
   sidebar:
     - title: "Role"
       image: "/assets/images/portfolio/trip-rl.jpg"
@@ -50,7 +49,7 @@ header:
 
   *note: you can participate on this page by using [issues on my github](https://github.com/nicolasdb/nicolasdb.github.io/issues/), feel at ease to contribute.*
 
-  
+
 
 
 
