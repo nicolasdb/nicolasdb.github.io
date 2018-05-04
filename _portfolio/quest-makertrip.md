@@ -11,9 +11,7 @@ sidebar:
     text: "The maker abroad"
   - title: "Responsibilities"
     text: "Fabmanager, explorer and scribe"
-toc: true
-  toc_label: "Table of Contents"
-  toc_icon: "rocket"
+
 ---
 
 ### Hi There,
