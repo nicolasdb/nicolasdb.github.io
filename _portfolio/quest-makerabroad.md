@@ -1,9 +1,9 @@
 ---
 title: "A maker abroad"
-excerpt: "[Mod] A passport for maker communities, to earn skills and share trust, to explore and meet makers without borders "
+excerpt: "[Dev] The further we go, the further we are close to everything. Geee, that's deep, man"
 header:
-  image: /assets/images/portfolio/passport.jpg
-  teaser: /assets/images/portfolio/passport-th.jpg
+  image: /assets/images/portfolio/trip1.1.jpg
+  teaser: /assets/images/portfolio/trip1.1-th.jpg
 sidebar:
   - title: "Quest"
     image: http://placehold.it/350x250
