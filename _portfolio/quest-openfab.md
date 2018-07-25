@@ -23,6 +23,14 @@ gallery:
     alt: "placeholder image 4"
 ---
 
+**Why** a fablab. 
+
+**How** I started. 
+
+**What** I'm looking for?
+
+
+## TOdo:
 Je veux boucler le contenu de notre manifesto, faut que ce soit commun, faut que ça représente le lol qu'on a en nous.
 J'ai mis 10 lignes mais ça peut être un peu plus ou un peu moins. Relisez depuis le début de cette issue.
 Je suis repartis de la proposition de Yannick, et j'ai relevé des points intéressant sur des manisfestos ailleurs. https://github.com/openfab-lab/openfab/blob/ASBL/_space/asbl/manifestoV2.md
