@@ -23,9 +23,24 @@ gallery:
     alt: "placeholder image 4"
 ---
 
-**Why** a fablab. 
+## Why do I do fablab?
+To simply put, I never pictured myself as an employee.  
+I had some jobs as student or freelance but I could never stay on the same task, doing all my life the same kind of job.  
+Then, later, I eared about ["Multipotentialist"](https://youtu.be/QJORi5VO1F8) and understand that was exactly why I changed 3 times of courses/fields of study (Agronomy>Landscape Architect>3D/special FX) then worked in fields like interactive gaming, cinema and even in aerospace tech within a startup.  
+So at some point, the "no cure, no pay" condition, the precarity of the job and having to accept "BS" projects, all of that triggered my EPIC wake up call.   
 
-**How** I started. 
+I never cared about money, it is a necessity. **But I need to be free to decide what matter most in my life, and to act accordingly, guided by MY values** which, I discovered later, are shared along a bigger and global community of makers, whatever their country or culture.  
+**"I'm part of something bigger than me"** I understood that and first, I learned a lot from this community but online only, I was still alone.  
+![image](https://user-images.githubusercontent.com/12049360/43578784-1d495064-9650-11e8-92a2-9b189e03cde3.png)
+
+The closest fablab at the time (2010-11) was at Leuven (BE) or Gent (BE). Too far, I don't have time or money for that.
+
+So I started mine. Organically. On my own money and time. Learning by doing myself from opensource resources. Growing my own skills.
+And after 7 years, my goal is still the same, simple: **How to make a job from what I love to do?**  
+How to find my way into that massive ball of unknown, and my way to live from this wonderful activity.
+
+## How, yes, how! goddamnit!
+
 
 **What** I'm looking for?
 
