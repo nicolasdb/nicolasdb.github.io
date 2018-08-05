@@ -5,7 +5,7 @@ excerpt: "I want this github-page to be my portfolio but also an example on how 
 header:
   image: /assets/images/showme.jpg
   teaser: /assets/images/showme-th.jpg
-  caption: "based on: [**Neil Crosby**](https://www.slideshare.net/neilcrosby/ill-show-you-mine-if-you-show-me-yours-presentation/20-So_thats_ithttpgithubcomNeilCrosbyhttpneilcrosbycomvcardNeilCrosby_on_most)"
+  caption: "based on: [**Neil Crosby**](https://www.slideshare.net/neilcrosby/ill-show-you-mine-if-you-show-me-yours-presentation/)"
 sidebar:
   - title: "Role"
     image: /assets/images/octobermake00.gif
