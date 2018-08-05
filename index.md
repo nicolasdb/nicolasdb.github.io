@@ -3,8 +3,8 @@ title: "nicolas de Barquin"
 layout: archive
 excerpt: "I want this github-page to be my portfolio but also an example on how awesomely usefull github can be."
 header:
-  image: /assets/images/jens-lelie-15662.jpg
-  teaser: /assets/images/jens-lelie-15662-th.jpg
+  image: /assets/images/showme.jpg
+  teaser: /assets/images/showme-th.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/octobermake00.gif
