@@ -36,9 +36,9 @@ That could be a start?
 
 I'm actually using the same concept here with the [YAML section of the post](https://nicolasdb.github.io/post/post-template-yaml/).
 
-This is after that Alex asked us (Rasmus and me) if we could take care of a workshop about documentation and Vulca.
+This is after that, Alex asked us (Rasmus and me) if we could take care of a workshop about documentation and Vulca.
 
-So of course, we worked in last minute. Here's our office.
+So, of course, we worked in last minute. Here's our office:
 ![image](https://user-images.githubusercontent.com/12049360/43714027-e9ca98b8-997b-11e8-9552-c44cc87813bd.png)
 
 ## FAB14 Toulouse
@@ -48,7 +48,7 @@ Because it was also a good opportunity to challenge Vulca concept and two of the
 
 ![image](https://user-images.githubusercontent.com/12049360/43714120-42d3835c-997c-11e8-87ec-088cc6b0e3c9.png)
 
-1. Take a bearded guy from Copenhagen and another bearded guy from Brussels and let them work.   
+1. Take a bearded guy from Copenhagen and another bearded guy from Brussels and let them work together.   
 
 ![image-center](https://user-images.githubusercontent.com/12049360/43717243-318c7558-9987-11e8-8747-8ff5c9971264.jpg){: .align-center}
 
