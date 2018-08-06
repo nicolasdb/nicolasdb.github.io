@@ -50,6 +50,7 @@ Because it was also a good opportunity to challenge Vulca concept and two of the
 
 1. Take a bearded guy from Copenhagen and another bearded guy from Brussels and let them work together.   
 
+Basically, it should go like that:  
 ![image-center](https://user-images.githubusercontent.com/12049360/43717243-318c7558-9987-11e8-8747-8ff5c9971264.jpg){: .align-center}
 
 2. Rhythm. We asked 4 questions
