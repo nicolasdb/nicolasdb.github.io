@@ -65,14 +65,13 @@ Because it was also a good opportunity to challenge Vulca concept and two of the
 
 ### Workshop
 
-![image](https://user-images.githubusercontent.com/12049360/43708182-2dbb9232-996a-11e8-9643-07a96e47a1e1.png)
+![image](https://user-images.githubusercontent.com/12049360/43708182-2dbb9232-996a-11e8-9643-07a96e47a1e1.png)  
 Source: [photo vulca facebook. ](https://www.facebook.com/pg/vulcaeuropeanprogram/photos/?tab=album&album_id=1963300933690257)
 
 We asked the same series of questions from three point of view.  
 
 ![nda workshop flow](https://user-images.githubusercontent.com/12049360/43723520-258f02fa-9998-11e8-9b6c-7bf02f7c1cc4.jpg)
 
-### the conclusion
 
 We had a very short time to conclude since the workshop was more productive than expected. :+1:
 
@@ -92,8 +91,14 @@ To help on this, some kind of gamification to guide members and support them int
 And we finish with concepts who popped out as important to have to help.  
 Like a **leveling system** for skills which you'll learn through **mentorship**. **Rewards** which can begin as motivator, **badges** to certified skills earned.  
 All of theses local mechanics will help to grow **a culture of documenting**, supported by **positives incentives** (not threat or punitions).  
-Which can give access to **mobility** and more **cultural exchange IR**.  
-Your portfolio will help **match making** with makers and fablabs, a **passport maker** could be your CV or ID with your certified skills earned anywhere in the world.  
-That's the beginning of a new and beautiful virtual country, **we don't need more borders** between us. **Let's do it together**.  
+Which can give access to **mobility** and more **cultural exchange IRL (in real life)**.  
+Your portfolio will help **match making** with makers and fablabs, a **passport maker** could be your CV or maker ID with your certified skills earned anywhere in the world.  
+
+That's the beginning of a new and beautiful virtual country, **we don't need more borders** between us. **Let's do more together**.  
+
+## Bonus - The non-documentors anonymous
+To late today.  
+I'll document that tomorrow.  
+Mmmmm, I probably should call my sponsor for that...
 
 *note: this post is linked to [this Pull Request](https://github.com/nicolasdb/nicolasdb.github.io/pull/101), feel welcome to contribute.*
