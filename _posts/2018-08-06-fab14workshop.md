@@ -30,7 +30,7 @@ OR
 Bringing back the maker at the center.  
 We are all different, let's cultivate this. Everyone can choose his way to do it and then why not reusing the concept of RSS link.  
 Something simple like adding some metadata into the documentation to help other search engines, or fablabs to aggregate contents from their community into their own webpage.  
-That could be a start?
+That could be a start, right?
 
 ![image](https://user-images.githubusercontent.com/12049360/43640100-d5ab7078-971e-11e8-9f9a-b0f2fbd43ccd.png)
 
@@ -59,7 +59,7 @@ Basically, it should go like that:
   - What could motivate you to document these? *again, Open*
   - How do we make it work now? *And close again to collect concrete leads*
 
-3. Then, leave the group, drink a beer to help an intense brain computing power and come back with a conclusion.  
+3. Then, leave the group, have a beer, to help an intense brain computing power, and come back with a conclusion.  
 *One good beer is the secret to unlock just enough creativity*
 
 ![nda workshop rythm](https://user-images.githubusercontent.com/12049360/43722705-304b4188-9996-11e8-9297-9fd7d09cd0aa.jpg){: .align-center}
