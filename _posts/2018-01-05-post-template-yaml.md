@@ -20,7 +20,7 @@ That's cool, for my 8th posts here (not counting pages or quests) I'll just shar
 
 ## Here it is:
 
-On top of the post, this is the YAML section who say specific data to help jekyll to display your post.
+On top of the post, there is the YAML section who contain specific data to guide jekyll on how to display your post as an html page.
 ```
 ---
 date: 2018/01/05                      # YYYY/MM/DD, nothing special
