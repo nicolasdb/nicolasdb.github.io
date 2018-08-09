@@ -27,22 +27,67 @@ gallery:
 To simply put, I never pictured myself as an employee.  
 I had some jobs as student or freelance but I could never stay on the same task, doing all my life the same kind of job.  
 Then, later, I eared about ["Multipotentialist"](https://youtu.be/QJORi5VO1F8) and understand that was exactly why I changed 3 times of courses/fields of study (Agronomy>Landscape Architect>3D/special FX) then worked in fields like interactive gaming, cinema and even in aerospace tech within a startup.  
-So at some point, the "no cure, no pay" condition, the precarity of the job and having to accept "BS" projects, all of that triggered my EPIC wake up call.   
+So at some point, the "no cure, no pay" condition, the precarity of the job and/or having to accept "BS" projects, all of that triggered my EPIC wake up call.   
 
-I never cared about money, it is a necessity. **But I need to be free to decide what matter most in my life, and to act accordingly, guided by MY values** which, I discovered later, are shared along a bigger and global community of makers, whatever their country or culture.  
-**"I'm part of something bigger than me"** I understood that and first, I learned a lot from this community but online only, I was still alone.  
-![image](https://user-images.githubusercontent.com/12049360/43578784-1d495064-9650-11e8-92a2-9b189e03cde3.png)
+I never cared about money, it is a necessity. But **I need to be free** to decide what matter most in my life, and **to act accordingly**, guided by MY values which, I discovered later, are shared along a bigger and global community of makers, whatever their country or culture.  
+**"I'm part of something"**, I understood that, I learned a lot from this community but online only, I was still alone.  
 
-The closest fablab at the time (2010-11) was at Leuven (BE) or Gent (BE). Too far, I don't have time or money for that.
+<figure style="width: 300px" class="align-center">
+  <img src="https://user-images.githubusercontent.com/12049360/43578784-1d495064-9650-11e8-92a2-9b189e03cde3.png" alt="">
+</figure>
+<br>
+So I started mine. **Organically**. On my own money and time. Learning by doing myself from opensource resources. Growing my own skills.  
+Slowly, I opened to others, do more together, having more tools, more place and new challenges.
 
-So I started mine. Organically. On my own money and time. Learning by doing myself from opensource resources. Growing my own skills.
-And after 7 years, my goal is still the same, simple: **How to make a job from what I love to do?**  
+it's been 7 years now, my goal is still the same, simple: **How to make a job from what I love to do?**  
 How to find my way into that massive ball of unknown, and my way to live from this wonderful activity.
+
+There is a huge potential into any community of makers, I know that, I see that. Because I learned so much but there is still so much to learn, I became more **autonomous**,  
+But still,  
+To go further on my path, I need others.  
+
+And It's like I found this beautiful thing deep in the forest, and I'm like "hey guys! Come see here, I found something!... Guys?"  
+The forest grew back beside me, I didn't document how I got there, and I forgot myself how I did too.  
+
+How to mark the path? How to help members of the fablab to level up and find also this beautiful thing?
+
+Do you feel that sweet power in your hand?  
+This is the feeling of **EMPOWERMENT!**
+
+<figure class="align-right">
+  <img src="https://user-images.githubusercontent.com/12049360/43885910-88935864-9bba-11e8-99f5-35fc32f5ad76.JPG" alt="credit bouletCorp">
+</figure>
 
 ## How, yes, how! goddamnit!
 
+First, I choose to do it myself and to keep the fablab independent from the hell of filling forms, reports and all theses shenanigans. Less papers is good for the planet and less time lost on BS tasks for me.
+I built the tools from open-sources kit, from that, I learned a lot. How to build them, to repair them and more especially, I learned how to customize them to my need.
+There is tools but there is also all the small invisible things we need to do to sustain an activity like a fablab. (iceberg syndrome)
+<figure class="align-center">
+  <img src="https://user-images.githubusercontent.com/12049360/43686578-8770c920-98c8-11e8-9e11-588b5faaa0c8.png" alt="">
+</figure>
+<br>
 
-**What** I'm looking for?
+A lot of things also who doesn’t fit our specific needs.
+So if it’s not working well or doesn’t make sense, change it, adapt it until it fit like a tailor made solution for you.
+
+Secondly, we are all different, we all have different experiences, cultures, skillsets and different goals.  
+This is WHY we need to do things together.
+
+Because, I believe that everybody is a noob for another.   
+“Homo homini noob est.” *c’est de moi, je viens de la recycler, merci Thomas Hobbes :wink:*  
+But everybody can teach to another.   
+No ex-cathedra classes will be given in the lab, fablabs are not the place for that kind of sh*t.  
+Instead, I want to offer an opportunity to learn by doing. Learning what you need, when you need it, with the help of others (or not).  
+You will find no teachers but mentorship, the peer to peer learning way.  
+Then it’s not about to please the fabmanager, your mentor or even your mum *(well, I guess mum is ok)* ... the only judge is you, be true to you and treat yourself.
+
+<figure style="width: 300px" class="align-left">
+  <img src="https://user-images.githubusercontent.com/12049360/43893734-3e96e81e-9bd0-11e8-9a8d-f74101c1bc5d.png" alt="">
+</figure>
+Learn to make things FOR YOU FIRST, something that you’ll be proud of.
+
+**What**
 
 
 ## TOdo:
