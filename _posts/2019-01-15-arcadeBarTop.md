@@ -19,7 +19,8 @@ tags:
 
 ![bartopv2](https://user-images.githubusercontent.com/12049360/51187850-01e2f180-18dd-11e9-9f76-1d9df48cb3f6.gif)
 
-## Alerte générale!
+## Alerte générale! 
+![image](https://user-images.githubusercontent.com/12049360/51194272-02828480-18eb-11e9-86dd-c8326ed798b2.png)
 
 They asked that last year already, and the barTop is still in the same shape. Which is... kind of... an old work-in-progress.  
 
