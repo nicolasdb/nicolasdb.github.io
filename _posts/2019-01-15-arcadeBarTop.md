@@ -22,11 +22,11 @@ tags:
 ## Alerte générale! 
 ![image](https://user-images.githubusercontent.com/12049360/51194272-02828480-18eb-11e9-86dd-c8326ed798b2.png)
 
-They asked that last year already, and the barTop is still in the same shape. Which is... kind of... an old work-in-progress.  
+They asked that last year already, and the barTop is still in the same shape. Which is... kind of... an old crapy work-in-progress.  
 
 ![image](https://user-images.githubusercontent.com/12049360/50767774-6ae3bd00-127e-11e9-8915-d829ec443019.png)
 
-It's time to pimp it.
+It's time to pimp it up.
 
 ### Start with an upgrade of the front panel
 ![image](https://user-images.githubusercontent.com/12049360/50767845-b5653980-127e-11e9-908c-cbbd2bd3a593.png)
@@ -38,7 +38,6 @@ I measured and redraw everything in inkscape to produce files for laser engravin
 ![image](https://user-images.githubusercontent.com/12049360/50791350-db5ffd80-12c1-11e9-90db-4ebd764b9c29.png)
 
 Engraving, gluing, clamping and wait overnight.  
-First session: 6h30
 
 Then some finishing and sanding.
 ![image](https://user-images.githubusercontent.com/12049360/50826559-40583980-133c-11e9-83de-5d26bb6a1dfa.png)
@@ -47,7 +46,7 @@ Better hinges and reassembling everything back in his place.
 ![image](https://user-images.githubusercontent.com/12049360/50849292-dc9f3200-1376-11e9-9e05-db47f9d26ed2.png)
 
 ### A cover for the sound system
-Again, measuring and design  
+Again, measuring and design + disassemble plastic speakers    
 ![image](https://user-images.githubusercontent.com/12049360/50968078-54d23880-14da-11e9-9230-595138c83b40.png)
 ![image](https://user-images.githubusercontent.com/12049360/51033834-f45bfd80-15a4-11e9-97b1-71e6deb348fa.png)
 
@@ -67,7 +66,7 @@ I measure it, I tried to take an imprint (kind of lithography) then scan it, I t
 So, engraving and cutting both sides. It took a wile, 4h of lasersaur later, I screwed the sides in place and flushed the edges with the right router bit.  
 ![image](https://user-images.githubusercontent.com/12049360/51190846-6903a480-18e3-11e9-8b1b-64b9f67a54ab.png)
 
-[Julien](https://github.com/Jorgininho) helped on his side to add and setup a new shutdown button. He updated the distribution also and selected a new set of games.    
+[Julien](https://github.com/Jorgininho) helped on his side to add and setup a new shutdown button. He updated the distribution also and selected a new set of games. #teamwork!    
 ![image](https://user-images.githubusercontent.com/12049360/51034563-73523580-15a7-11e9-9235-bcd3a7aef771.png)
 
 
@@ -82,5 +81,7 @@ A design from scratch.
 And a electronic full checkup.   
 `It took a full week, 5 days @450€ htva. 4 to 6h of laser engraving and cutting (included)  = 2250€`  
 `+ Backoffice and finishing products. Let's say this is a job at 2500€ htva. `
+
+It could be perfect as a teambuilding workshop. To build it as a team, with your own-made swag, and to be proud to play on it at the office. TEAMWORK! :D  
 
 *note: this post is linked to [this issue](https://github.com/openfab-lab/toolsDocs/issues/17), feel welcome to contribute.*
