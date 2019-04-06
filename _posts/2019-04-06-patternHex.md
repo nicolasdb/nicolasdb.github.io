@@ -62,11 +62,11 @@ J'ai donc préparé mon motif de base avec 2 cellules dans leur diagonale.
 ![image](https://user-images.githubusercontent.com/12049360/55670036-721b6680-587f-11e9-8558-c27402a68934.png)
 
 Ensuite, il faut déterminer les 2 valeurs de décalage du motif.  
-1. Sur l'axe X, c'est simplement le rayon du cercle. **R=13mm**
+1. Sur l'axe X, c'est simplement le rayon du cercle. **R=13mm** (voir plus haut)  
 2. Sur Y, ça se corse et j'ai dû retourner en classe de trigonométrie pour formuler le décalage précis.  
 ![image](https://user-images.githubusercontent.com/12049360/55669965-16041280-587e-11e9-8789-4072d41c9f1f.png)  
 
-Ce qui nous donne `sin60 * R` **= 11.26mm**, valeur que je double pour décaler de 2 cellules.  
+Ce qui nous donne `sin60° * R` **= 11.26mm**, valeur que je double pour décaler de 2 cellules.  
 
 ## R-pattern
 _note: il est plus facile d'exécuter la fonction après extrusion du motif de base._
@@ -84,4 +84,4 @@ J'importe ensuite ce .dxf dans Inkscape pour finaliser l'incorporation dans mon 
 
 ![image](https://user-images.githubusercontent.com/12049360/55671627-608f8a00-5892-11e9-962c-eae4e7e65d73.png)
 
-Voici le fichier Fusion360 https://a360.co/2UBzilG
+[Voici le fichier Fusion360](https://a360.co/2UBzilG)
