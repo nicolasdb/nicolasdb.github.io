@@ -63,19 +63,19 @@ J'ai donc préparé mon motif de base avec 2 cellules dans leur diagonale.
 
 Ensuite, il faut déterminer les 2 valeurs de décalage du motif.  
 1. Sur l'axe X, c'est simplement le rayon du cercle. **R=13mm**
-2. Sur Y, ça se corse et j'ai dû retourner en classe de trigonométrie.  
+2. Sur Y, ça se corse et j'ai dû retourner en classe de trigonométrie pour formuler le décalage précis.  
 ![image](https://user-images.githubusercontent.com/12049360/55669965-16041280-587e-11e9-8789-4072d41c9f1f.png)  
 
-Ce qui nous donne `sin60 * R = 11.26`, valeur que l'on double pour décaler de 2 cellules vers le haut.  
+Ce qui nous donne `sin60 * R` **= 11.26mm**, valeur que je double pour décaler de 2 cellules.  
 
 ## R-pattern
-Après extrusion du motif de base, il est plus facile d'exécuter la fonction sur ceux-ci.  
+_note: il est plus facile d'exécuter la fonction après extrusion du motif de base._
 
 Ci-dessous, la fonction "R-pattern" 3x3 avec `R` sur l'axe-X et `(sin60 * R)*2` sur l'axe-Y  
 ![image](https://user-images.githubusercontent.com/12049360/55670131-e1458a80-5880-11e9-9049-316bac03ba5d.png)
 
 ## Ready to export dxf
-Pour faciliter l'export d'un fichier 2D utilisable pour la découpe laser.
+Pour mon export du fichier 2D utilisable pour la découpe laser.
 1. Je créé un objet (plaque) duquel je soustrais mon motif.  
 2. Nouveau "sketch" et projection de l'objet. [(voir ceci)](https://youtu.be/PuI2iWmngtM?t=87)
 3. Export du "sketch" en .DXF
