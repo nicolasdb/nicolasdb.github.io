@@ -9,7 +9,6 @@ header:
 categories:
   - Post
 tags:
-  - Inkscape
   - Fusion360
   - FR
 ---
