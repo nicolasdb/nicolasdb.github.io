@@ -8,9 +8,9 @@ sidebar:
   - title: "Quest"
     image: /assets/images/openfab02.jpg
     image_alt: "mission goal"
-    text: "Design thinking, Business model, Ecosystem, Gamification, Agile managment"
+    text: "Human focus Design + tools + sharing and learning + Ecosystem = Syntonie"
   - title: "Skills"
-    text: "Leadership, Empathy, permaculture design, github, gaming development, accounting, timetracking, ..."
+    text: "Leadership, Empathy, permaculture design, github, gaming development, accounting, timetracking, ... Full spread Multipotentialist"
 gallery:
   - url: /assets/images/openfab01.jpg
     image_path: /assets/images/openfab01.jpg
@@ -23,46 +23,32 @@ gallery:
     alt: "placeholder image 4"
 ---
 
-## Why do I do fablab?
-To simply put, I never pictured myself as an employee.  
-I had some jobs as student or freelance but I could never stay on the same task, doing all my life the same kind of job.  
-Then, later, I eared about ["Multipotentialist"](https://youtu.be/QJORi5VO1F8) and understand that was exactly why I changed 3 times of courses/fields of study (Agronomy>Landscape Architect>3D/special FX) then worked in fields like interactive gaming, cinema and even in aerospace tech within a startup.  
-So at some point, the "no cure, no pay" condition, the precarity of the job and/or having to accept "BS" projects, all of that triggered my EPIC wake up call.   
+# “As fabmanager, if you have time. You ain’t doing it right!”
 
-I never cared about money, it is a necessity. But **I need to be free** to decide what matter most in my life, and **to act accordingly**, guided by MY values which, I discovered later, are shared along a bigger and global community of makers, whatever their country or culture.  
-**"I'm part of something"**, I understood that, I learned a lot from this community but online only, I was still alone.  
 
-<figure style="width: 300px" class="align-center">
-  <img src="https://user-images.githubusercontent.com/12049360/43578784-1d495064-9650-11e8-92a2-9b189e03cde3.png" alt="">
-</figure>
+Managing a makerspace can be overwhelming at time… the tools, the people, the finance, the customers, helping, repairing and cleaning after everyone.  
+_… I now understand, mum. I’m sorry._  
+
+My question was then:
+### “how to involve and empower the community?”
+
+![OFbackBonesDiagram(1)](https://user-images.githubusercontent.com/12049360/56352724-1c748180-61d0-11e9-8656-1a13957a1c75.jpg)
+
+**First**, I choose to do it myself and to keep the fablab independent from the hell of filling forms, reports and all theses shenanigans.  
+_Less papers is good for the planet and less time lost on BS tasks for me._  
+I built the tools from open-sources kit, from that, I learned a lot. How to build them, to repair them and more especially, I learned how to customize them to my need.  
+
+But as the lab grew, I needed to delegate tasks but to who? And more difficult was to find the right expertise.  
+
+So I thought about badges to validate skills learned in the lab.  
+Then I discover that people want to help, but they actually don’t know how. And teaching is just more tasks on top of my already long list.
+
+So I thought about documentation to guide and share common knowledge, but documenting is hard.  
+And at the end, everything was standing on:   
+**We want to work together, but we didn’t learn how to. It's too hard, man.**  
+
+Tools are an obvious part of the lab but there is also all the small invisible things we need to do to sustain an activity like a fablab. (iceberg syndrome)  
 <br>
-So I started mine. **Organically**. On my own money and time. Learning by doing myself from opensource resources. Growing my own skills.  
-Slowly, I opened to others, do more together, having more tools, more place and new challenges.
-
-it's been 7 years now, my goal is still the same, simple: **How to make a job from what I love to do?**  
-How to find my way into that massive ball of unknown, and my way to live from this wonderful activity.
-
-There is a huge potential into any community of makers, I know that, I see that. Because I learned so much but there is still so much to learn, I became more **autonomous**,  
-But still,  
-To go further on my path, I need others.  
-
-And It's like I found this beautiful thing deep in the forest, and I'm like "hey guys! Come see here, I found something!... Guys?"  
-The forest grew back beside me, I didn't document how I got there, and I forgot myself how I did too.  
-
-How to mark the path? How to help members of the fablab to level up and find also this beautiful thing?
-
-Do you feel that sweet power in your hand?  
-This is the feeling of **EMPOWERMENT!**
-
-<figure class="align-right">
-  <img src="https://user-images.githubusercontent.com/12049360/43885910-88935864-9bba-11e8-99f5-35fc32f5ad76.JPG" alt="credit bouletCorp">
-</figure>
-
-## How, yes, how! goddamnit!
-
-First, I choose to do it myself and to keep the fablab independent from the hell of filling forms, reports and all theses shenanigans. Less papers is good for the planet and less time lost on BS tasks for me.
-I built the tools from open-sources kit, from that, I learned a lot. How to build them, to repair them and more especially, I learned how to customize them to my need.
-There is tools but there is also all the small invisible things we need to do to sustain an activity like a fablab. (iceberg syndrome)
 <figure class="align-center">
   <img src="https://user-images.githubusercontent.com/12049360/43686578-8770c920-98c8-11e8-9e11-588b5faaa0c8.png" alt="">
 </figure>
@@ -71,24 +57,32 @@ There is tools but there is also all the small invisible things we need to do to
 A lot of things also who doesn’t fit our specific needs.
 So if it’s not working well or doesn’t make sense, change it, adapt it until it fit like a tailor made solution for you.
 
-Secondly, we are all different, we all have different experiences, cultures, skillsets and different goals.  
+**Secondly**, we are all different, we all have different experiences, cultures, skillsets and different goals.  
 This is WHY we need to do things together.
 
 Because, I believe that everybody is a noob for another.   
-“Homo homini noob est.” *c’est de moi, je viens de la recycler, merci Thomas Hobbes :wink:*  
-But everybody can teach to another.   
-No ex-cathedra classes will be given in the lab, fablabs are not the place for that kind of sh*t.  
-Instead, I want to offer an opportunity to learn by doing. Learning what you need, when you need it, with the help of others (or not).  
+>“Homo homini noob est.”   
+*c’est de moi, je viens de la recycler, merci Thomas Hobbes :wink:*  
+
+I want to offer an opportunity to learn by doing. Learning what you need, when you need it, with the help of others (or not).   
 You will find no teachers but mentorship, the peer to peer learning way.  
 Then it’s not about to please the fabmanager, your mentor or even your mum *(well, I guess mum is ok)* ... the only judge is you, be true to you and treat yourself.
 
 <figure style="width: 300px" class="align-left">
   <img src="https://user-images.githubusercontent.com/12049360/43893734-3e96e81e-9bd0-11e8-9a8d-f74101c1bc5d.png" alt="">
 </figure>
+
+It’s time to see fablabs and makerspaces as places where we can start from the beginning, grow new skills. Like in a Role Player Game, earn XP and more importantly, levelup yourself with the help of your community.  
 Learn to make things FOR YOU FIRST, something that you’ll be proud of.
 
-**What**
+![ofbackbonesmaker](https://user-images.githubusercontent.com/12049360/43211744-8c80f596-9032-11e8-9e51-a46d6cc0bcf6.png)
 
+Through the fablab, I believe in a path who will lead you to get better at what you do.  
+We'll use hightech tool to develop ideas and project by yourself, then you'll see it's actually more a way to hack your brain to learn how to do more stuff, develop your skills and understand better your surroundings.  
+
+And this path will also help you to work in a group, building ambitious projects together. You are the living cell working in a multicellular being.
+
+---
 
 ## TOdo:
 Je veux boucler le contenu de notre manifesto, faut que ce soit commun, faut que ça représente le lol qu'on a en nous.
@@ -120,12 +114,7 @@ _Lisa, tu pourra préciser si je résume mal:_
 ![bim](https://media.giphy.com/media/UmBdALbYTmCJ2/giphy.gif)
  ... c'est vrai qu'elle est cool.
 
-I'll put this over here, with the rest of the fire. I'll put this over here, with the rest of the fire. Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages. How long have you been disabled? Ten years? Ten years, and how did it happen? If that's not a rude question. Acid? 0115... no... 0118... no... 0118 999 ... 3. Hello? Is this the emergency services? Then which country am I speaking to? Hello? Hello? OK. Moss, what did you have for breakfast this morning? Smarties cereal.
-
-
-No, no there you go, no there you go. I just heard it come on. I've got Aunt Irma visiting. Oh, do you not like Aunt Irma? I've got an aunt like that. Hello, IT. Have you tried turning it off and on again? He's had quite an evening. Someone stole his wheelchair. Did you see who it was? Red bearded man. So, remember the new number! 0118 999! 88199, 9119 725! ... 3! Dear Sir stroke Madam, I am writing to inform you of a fire which has broken out at the premises of...
-
-Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages. Carrie, Moss! First scene in Carrie! Oh. Okay Might want to play a bit hard to get. Uh... okay, well, the button on the side, is it glowing? Hello? I've had a bit of a tumble. Yeah, you need to turn it on... uh, the button turns it on.
+_I'll put this over here, with the rest of the fire. I'll put this over here, with the rest of the fire. Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages. How long have you been disabled? Ten years? Ten years, and how did it happen? If that's not a rude question._
 
 ![gification](https://i.imgur.com/rIWqFZL.gif)
 
