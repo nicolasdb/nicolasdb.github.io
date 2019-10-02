@@ -29,50 +29,74 @@ gallery:
 {% include video id="dE1DuBesGYM" provider="youtube" %}
 >*Games like World of Warcraft give players the means to save worlds, and incentive to learn the habits of heroes. What if we could harness this gamer power to solve real-world problems? Jane McGonigal says we can, and explains how.*
 
-And yeah, indeed, I was, kind of, frustrated by all these little games as "pokemon GO", "sudoku", "candycrush" and other wasting time shit.   
-Why is it so difficult to attract people in a fablab, a fun place where the time you spent is to build something and mostly yourself.
+As a fabmanager, I see myself on a learning path. I didn't study in any academy, _there was none_, I was not hired to do it, _I just did_ and I face any challenges like any other project. **Do it yourself or not.**   
+I learn, I fail, I try again until it work.   
 
-## behavior design?
+My first step was to buy a 3D printer in kit.  
+Of course, I rapidly wanted to do more, to buy more tools, access to others projects, learn more skills...  but this is an expensive and time consuming hobby.  
+This is a QUEST not possible to achieve alone. I needed to join a group, a guild of makers.  
+No group around? Mhe... I created one then, and share my tools and passion.  
 
-- why are we doing what we do and why we do it this way?
-- why is it so difficult to change our behaviors?
-- becoming better at doing things better.
-- 4 user types
-- 8 cores drive
-- 16 personalities
-- gamification curve
-- extrinsic vs intrinsic
-- design to nudge
+And whitout knowing it, I answered to my Epic calling, making a fablab to connect with other likeminded people, levelUp and face bigger challenges together.  
+This is my way to take control of my life, I feel that's the best way for me to make an impact in this world.  
+**This make sens to me.**  
 
 
+## Core mechanics
+Have you notice a pattern there?  
+This is RPG man, I started to play at "my life", I embarked on an Epic Quest, the fablab, and every projects are like missions.  
+Some of them are too big of a challenge to face it alone, only a guild could help me found fellow makers to beat these "kicking ass" boss levels and win more loot, xp and money.  
+And the secret awesome sauce in all this _aka core mechanics_, is the **leveling process**.  
 
+## Life as a game
+Yup, why not.  
+But even if it's a game, it doesn't mean it have to be fun and easy all the time.  
+Life is hard, it take a lot of efforts to overcome challenges, but this is why this game is worth to play :smile:   
+![image](https://user-images.githubusercontent.com/12049360/38318973-fd11b82c-3830-11e8-95c1-4c4fca30b7b0.png)
 
+## Openfab as a guilde2.0
+Learning and design the rules and pathway to discretely guide new members is fudging complex.   
+Yup.  
+As far as I remember, _since around 2016_, I discovered and learned so much. _I failed a lot also_   
 
-As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore . . . and this is exploration at its greatest.
-We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically.
+Here is my ideas of the components involved in this.  
+- Games are there to teach us things safely so, when the time come, we'll know how to proceed.
+- AS SOON AS we have learned our lesson, the game become boring and we need another.  
+- The social component of a game will help to create diversity, challenges and unpredictability. Which is good.  
+- The learning curve must be smooth and adapted to each members. 7 levels of mastery, from apprentice to ZEN master. **_#accomplishment_**
+  - Skills are supported by a badges system and earned based on a documentation loop. **_#socialInfluence_**  
+    _You did it, you documented it and it's working, what do you need more?_  
+  - A personal portfolio is required to collect the loot and show progress.  
+    ![showmewhat](https://user-images.githubusercontent.com/12049360/66039764-0c4e2580-e516-11e9-875c-0012b1183709.png)
+- The implication curve must be smooth and adapted to each members. 5 levels of subscriptions, from casual user (they don't decide) to "sudo" users (but them do). **_#empowerment_**
+  - This is of course linked to the governance system **_#ownership_**
+- A local currency to facilitate internal exchanges and social interactions.  
+- It is most important to have a Feedback system
+- A board or a map, something to help self evaluation and to know what could be the next step.  
+  - this is linked to some sort of "a fog of war", you don't need to know everything, just what's on your reach.
+- Teams dedicated to specific fields, as the members levelUp, they can join teams to access to more challenges and rewards/loot.  
+- The community must encourage **trust** between users, _this is a safe environment_, **initiative** _this is a doocraty_ and of course _with great power, comes great_ **responsibility**
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-Houston, Tranquility Base here. The Eagle has landed.
-As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.
 #### References
+> - [**A Theory of Fun for Game Design** - Ralph Koster](https://www.theoryoffun.com/)
+> - [**The Art of Storytelling** - Hannah B; Harvey](https://www.audible.com/pd/The-Art-of-Storytelling-From-Parents-to-Professionals-Audiobook/B00DDVPRMO)
+> - [**The Hero's Journey** - Joseph Campbell](https://www.youtube.com/watch?v=DwnxYXOTy94)  
+> - [**Sacred Economics: Money, Gift, and Society in the Age of Transition** - Charles Eisenstein](http://sacred-economics.com/)
+> - [**The Power of Habit + Smarter Faster Better** - Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/)
+> - [**Play Anything** - Ian Bogost](http://bogost.com/books/play-anything/)
+> - [**The Laws of Simplicity** - John Maeda](http://lawsofsimplicity.com/)
+> - [**Behave** - Robert Morris Sapolsky](https://medium.com/steveglaveski/if-youre-anything-like-me-then-you-have-a-thirst-for-knowledge-and-consume-a-lot-of-content-2ed521149f4f)
+> - [**Actionable Gamification** - Yu-kai Chou](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/)
+> - [**Level Up! The Guide to Great Video Game Design** - Scott Rogers](http://www.ludoscience.com/EN/ressources/bibliographie/698-Level-Up-The-Guide-to-Great-Video-Game-Design.html)
+> - [**Designing Virtual Currency by Breaking (Almost) Every Rule in the Economics Textbook** - Dr Vili Lehdonvirta](https://www.gdcvault.com/play/1015666/Designing-Virtual-Currency-by-Breaking)
+> - [**Fundamentals of Game Design** - Ernest Adams](https://books.google.be/books?id=Lm1jAgAAQBAJ)
+> - [**Game Mechanics: Advanced Game Design** - Ernest W. Adams and Joris Dormans](https://books.google.be/books?id=moG9m2rGrTUC)
+> - [**Gamification masterclass** - Dominique Mangiatordi](https://www.linkedin.com/pulse/gamification-work-curve-dominique-mangiatordi-/)
+> - [**Doc Geraud's Youtube channel**](https://www.youtube.com/user/DocGeraud/)  
+> - [**Extra Credits Youtube channel**](https://youtu.be/mGL5YGcAxEI?t=60)  
+> - [**GDC Youtube channel**](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 
-> Today human behaviour is the biggest threat to mankind. We keep overeating, even though we know it´s bad for us. We keep using to much energy, even though we know the planet can't keep up with our consumption. We keep driving too fast, even though we know it kills us. But this doesn't mean that we have no intentions to change. We do. But changing actual human behaviour calls for good design solutions that take basic human instincts, flaws and habits into consideration. That is design to nudge.
-![image](https://user-images.githubusercontent.com/12049360/37555676-87fca54a-29eb-11e8-8be6-23e32d3e909c.png)
-**Design to nudge and change behaviour: Sille Krukow at TEDxCopenhagen**
-https://www.youtube.com/watch?v=EsUzI9lZMak
 
-> **Behavioral Economics: Crash Course Economics #27**
-https://www.youtube.com/watch?v=dqxQ3E1bubI
-
-> **A Brief History of Nudge ㅡ Learn the power of nudge to win at behavioral change**
-https://www.youtube.com/watch?v=jVTg3ZsNTTY
-
-Joseph Campbell & The Hero's Journey
-https://www.youtube.com/watch?v=DwnxYXOTy94
-https://www.audible.fr/pd/Anglais-Nonfiction/The-Hero-with-a-Thousand-Faces-Livre-Audio/B01BFBZ1QU
-exemple aussi avec tom sachs "the hero's journey"
-https://www.youtube.com/watch?v=tfBZXIn_Zrw
 
 ![gification](https://i.pinimg.com/originals/fe/24/dc/fe24dc2b3440d3622249452d391f4393.gif)
 
