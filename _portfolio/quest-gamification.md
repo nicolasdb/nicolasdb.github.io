@@ -29,29 +29,33 @@ gallery:
 {% include video id="dE1DuBesGYM" provider="youtube" %}
 >*Games like World of Warcraft give players the means to save worlds, and incentive to learn the habits of heroes. What if we could harness this gamer power to solve real-world problems? Jane McGonigal says we can, and explains how.*
 
-As a fabmanager, I see myself on a learning path. I didn't study in any academy, _there was none_, I was not hired to do it, _I just did_ and I face any challenges like any other project. **Do it yourself or not.**   
+As a fabmanager, I see myself on a learning path. I didn't study in any academy, _there was none_, I was not hired to do it, _I just did_ and I face any challenges like any other project.  
+**I do it myself or not.**   
 I learn, I fail, I try again until it work.   
 
 My first step was to buy a 3D printer in kit.  
 Of course, I rapidly wanted to do more, to buy more tools, access to others projects, learn more skills...  but this is an expensive and time consuming hobby.  
-This is a QUEST not possible to achieve alone. I needed to join a group, a guild of makers.  
-No group around? Mhe... I created one then, and share my tools and passion.  
+This is not possible to achieve alone. I needed to join a group, a guild of makers.  
+No group around?  
+Mhe... I created one then, and share my tools and passion.  
 
-And whitout knowing it, I answered to my Epic calling, making a fablab to connect with other likeminded people, levelUp and face bigger challenges together.  
-This is my way to take control of my life, I feel that's the best way for me to make an impact in this world.  
-**This make sens to me.**  
+And whitout knowing it _yet_, I answered to my Epic calling, making a fablab, to connect with other likeminded people, to continue to levelUp and face bigger challenges together _like to make a living from it_.  
+I feel that's the best way for me to make an impact in this world.  
+This is my way to take control of my life.   
+**This is how I make sens.**  
 
 
 ## Core mechanics
 Have you notice a pattern there?  
-This is RPG man, I started to play at "my life", I embarked on an Epic Quest, the fablab, and every projects are like missions.  
+This is RPG man, I started to play at "my life"...  
+I embarked on an Epic Quest, the fablab, and every projects are missions.  
 Some of them are too big of a challenge to face it alone, only a guild could help me found fellow makers to beat these "kicking ass" boss levels and win more loot, xp and money.  
 And the secret awesome sauce in all this _aka core mechanics_, is the **leveling process**.  
 
 ## Life as a game
-Yup, why not.  
-But even if it's a game, it doesn't mean it have to be fun and easy all the time.  
-Life is hard, it take a lot of efforts to overcome challenges, but this is why this game is worth to play :smile:   
+Yup, why not?  
+But a game doesn't mean this have to be fun and easy all the time.  
+Life is hard, it take a lot of efforts to overcome challenges, but this is why the game is worth to play :smile:   
 ![image](https://user-images.githubusercontent.com/12049360/38318973-fd11b82c-3830-11e8-95c1-4c4fca30b7b0.png)
 
 ## Openfab as a guilde2.0
@@ -98,7 +102,7 @@ Here is my ideas of the components involved in this.
 
 
 
-![gification](https://i.pinimg.com/originals/fe/24/dc/fe24dc2b3440d3622249452d391f4393.gif)
+<!-- ![gification](https://i.pinimg.com/originals/fe/24/dc/fe24dc2b3440d3622249452d391f4393.gif) -->
 
 this is a work in Progress, loading ....
 
