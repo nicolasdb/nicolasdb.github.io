@@ -54,25 +54,49 @@ But even if it's a game, it doesn't mean it have to be fun and easy all the time
 Life is hard, it take a lot of efforts to overcome challenges, but this is why this game is worth to play :smile:   
 ![image](https://user-images.githubusercontent.com/12049360/38318973-fd11b82c-3830-11e8-95c1-4c4fca30b7b0.png)
 
-## fablab as a guilde2.0
+## Openfab as a guilde2.0
 Learning and design the rules and pathway to discretely guide new members is fudging complex.   
 Yup.  
 As far as I remember, _since around 2016_, I discovered and learned so much. _I failed a lot also_   
 
-Here is an idea of the components involved in this.  
-- Games are there to teach us things safely so when the time come, we'll know how to proceed. AS SOON AS we have learned our lesson, the game become boring and we need another.  
+Here is my ideas of the components involved in this.  
+- Games are there to teach us things safely so, when the time come, we'll know how to proceed.
+- AS SOON AS we have learned our lesson, the game become boring and we need another.  
 - The social component of a game will help to create diversity, challenges and unpredictability. Which is good.  
-- The learning curve must be smooth and adapted to each members. 7 levels of mastery, from apprentice to ZEN master. 
-- The implication curve must be smooth and adapted to each members. 5 levels of subscriptions, from casual user to
-
-
+- The learning curve must be smooth and adapted to each members. 7 levels of mastery, from apprentice to ZEN master. **_#accomplishment_**
+  - Skills are supported by a badges system and earned based on a documentation loop. **_#socialInfluence_**  
+    _You did it, you documented it and it's working, what do you need more?_  
+  - A personal portfolio is required to collect the loot and show progress.  
+    ![showmewhat](https://user-images.githubusercontent.com/12049360/66039764-0c4e2580-e516-11e9-875c-0012b1183709.png)
+- The implication curve must be smooth and adapted to each members. 5 levels of subscriptions, from casual user (they don't decide) to "sudo" users (but them do). **_#empowerment_**
+  - This is of course linked to the governance system **_#ownership_**
+- A local currency to facilitate internal exchanges and social interactions.  
+- It is most important to have a Feedback system
+- A board or a map, something to help self evaluation and to know what could be the next step.  
+  - this is linked to some sort of "a fog of war", you don't need to know everything, just what's on your reach.
+- Teams dedicated to specific fields, as the members levelUp, they can join teams to access to more challenges and rewards/loot.  
+- The community must encourage **trust** between users, _this is a safe environment_, **initiative** _this is a doocraty_ and of course _with great power, comes great_ **responsibility**
 
 #### References
-> **Behavioral Economics: [Crash Course Economics #27](https://www.youtube.com/watch?v=dqxQ3E1bubI)**
+> - [**A Theory of Fun for Game Design** - Ralph Koster](https://www.theoryoffun.com/)
+> - [**The Art of Storytelling** - Hannah B; Harvey](https://www.audible.com/pd/The-Art-of-Storytelling-From-Parents-to-Professionals-Audiobook/B00DDVPRMO)
+> - [**The Hero's Journey** - Joseph Campbell](https://www.youtube.com/watch?v=DwnxYXOTy94)  
+> - [**Sacred Economics: Money, Gift, and Society in the Age of Transition** - Charles Eisenstein](http://sacred-economics.com/)
+> - [**The Power of Habit + Smarter Faster Better** - Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/)
+> - [**Play Anything** - Ian Bogost](http://bogost.com/books/play-anything/)
+> - [**The Laws of Simplicity** - John Maeda](http://lawsofsimplicity.com/)
+> - [**Behave** - Robert Morris Sapolsky](https://medium.com/steveglaveski/if-youre-anything-like-me-then-you-have-a-thirst-for-knowledge-and-consume-a-lot-of-content-2ed521149f4f)
+> - [**Actionable Gamification** - Yu-kai Chou](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/)
+> - [**Level Up! The Guide to Great Video Game Design** - Scott Rogers](http://www.ludoscience.com/EN/ressources/bibliographie/698-Level-Up-The-Guide-to-Great-Video-Game-Design.html)
+> - [**Designing Virtual Currency by Breaking (Almost) Every Rule in the Economics Textbook** - Dr Vili Lehdonvirta](https://www.gdcvault.com/play/1015666/Designing-Virtual-Currency-by-Breaking)
+> - [**Fundamentals of Game Design** - Ernest Adams](https://books.google.be/books?id=Lm1jAgAAQBAJ)
+> - [**Game Mechanics: Advanced Game Design** - Ernest W. Adams and Joris Dormans](https://books.google.be/books?id=moG9m2rGrTUC)
+> - [**Gamification masterclass** - Dominique Mangiatordi](https://www.linkedin.com/pulse/gamification-work-curve-dominique-mangiatordi-/)
+> - [**Doc Geraud's Youtube channel**](https://www.youtube.com/user/DocGeraud/)  
+> - [**Extra Credits Youtube channel**](https://youtu.be/mGL5YGcAxEI?t=60)  
+> - [**GDC Youtube channel**](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 
-> **A Brief History of Nudge ㅡ [Learn the power of nudge to win at behavioral change](https://www.youtube.com/watch?v=jVTg3ZsNTTY)**
 
->[**Joseph Campbell & The Hero's Journey**](https://www.youtube.com/watch?v=DwnxYXOTy94)
 
 ![gification](https://i.pinimg.com/originals/fe/24/dc/fe24dc2b3440d3622249452d391f4393.gif)
 
