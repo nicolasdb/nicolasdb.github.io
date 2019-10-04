@@ -22,7 +22,7 @@ gallery:
     image_path: https://cdn.vox-cdn.com/thumbor/kbf050Pltzzpuoc9DUAOSOAMzXw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/54383593/a70ab82c-6119-4ea5-988b-9aa24e716d9f.0.0.jpg
     alt: "placeholder image 3"
 ---
-### a wile ago...
+### a while ago...
 
 2016, I was browsing the TED talks and then, I discover this:  
 
