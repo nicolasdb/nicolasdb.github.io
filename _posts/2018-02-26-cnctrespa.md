@@ -28,7 +28,7 @@ On m'a demandé de découper un job cnc dans une matière plus rigide qu'une pla
 
 Matière | drill bit | size (mm) | feed (mm/min) | speed (on kress) | pass max (mm)
 -- | -- | -- | -- | -- | --
-Trespa | heli 1F | 2 | 1500 | 3.5 | 2
+Trespa | heli 1F | 2 | 1500 | 3.5 (~14.500RPM) | 2
 
 ![image](https://user-images.githubusercontent.com/12049360/36478024-9b7477ce-1703-11e8-97e0-33218b73d4fe.png)
 
