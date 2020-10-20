@@ -10,7 +10,7 @@ tags:
   - Fusion360
   - materials
   - FR
-  - Jobs
+  - Service
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/8), feel at ease to contribute.*

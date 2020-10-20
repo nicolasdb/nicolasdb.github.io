@@ -10,7 +10,7 @@ categories:
   - Post
 tags:
   - Openfab
-  - Jobs
+  - Service
   - CNC
   - Fusion360
   - materials
