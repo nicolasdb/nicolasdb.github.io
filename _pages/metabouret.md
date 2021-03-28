@@ -64,7 +64,21 @@ Les autres chakras, ainsi que d'autres motifs sont en cours de développement et
 
 
 --- 
-more?
+more?   
+[work in progresssssss]
+
+---
+
+## mode d'emploi
+
+Je dépose mon bassin, un de mes aspects TERRE; en alignant mes ischions au dessus de l'axe de rotation de la planchette.  
+Je me concentre sur le centre de la Terre et, “me laisse aller”; de tout mon poids vers ce centre. Le tabouret, en réponse, renvoie une contre poussée vers le haut qui passe par la colonne.
+
+![image](https://user-images.githubusercontent.com/12049360/109640383-b5a4ab00-7b50-11eb-89c9-7ebe64a8755a.png)
+
+En résumé, quand je ne fais plus, je peux m’élever,
+Car je ne suis pas en train de ne rien faire, mon Esprit travaille à l’écoute du Ciel et de la Terre et inversement. 
+En soi, je médite.
 
 
 ## Anatomie
@@ -94,10 +108,67 @@ Encore autre chose; les muscles courts intervertébraux quand ils agissent, comm
 C’est de par là que sortent les nerfs tout le long de la colonne et un nerf compressé crée des courants parasites ou certaines douleurs ± variables mais bien connues.
 
 
-
-
-
 ![image](https://user-images.githubusercontent.com/12049360/105741484-a4a5c000-5f3a-11eb-8c90-952207e3ea5c.png)
 
 
 ![image](https://user-images.githubusercontent.com/12049360/105741063-2c3eff00-5f3a-11eb-9199-0a8899b0df7f.png)
+
+Déjà expliquée, 2 actions:
+- mécanique, poussée vers le bas, remontée vers le haut
+- anatophysique, muscles longs débranchés, muscles courts activés par la mobilité du tabouret. C’est là toute sa subtilité.
+
+## Impact sur les chakras
+On revient à l’action de l’esprit, comme dans toute méditation, celui-ci accompagne la respiration.  
+L’AIR, c’est aussi une part du Ciel qui entre en nous - nourriture céleste; pourvu qu’il soit propre et saint.
+On commence par faire le vide; on expire; du sommet de la tête vers la base du bassin.
+Sensation de densité, d’une lourdeur franche.
+Solidité du tabouret, contact TERRE, support de la colonne.
+Les muscles ABDOMINAUX et PLANCHER PELVIEN activés à 80% sans aller jusqu’à un effort trop marquant.
+A ce niveau l’activation des chaînes musculaires ventrales peuvent avoir une incidence sur la décontraction des chaînes dorsales.
+Jeu entre AGONISTE et ANTAGONISTE.
+Après une petite pause, poumons VIDES, on relâche doucement les pelviens - les abdominaux, on inspire lentement et on goûte à la sensation de légèreté, d’immensité CIEL.
+Ce remplissage très doux jusqu’au chakras Couronne, qu’on ouvre figurativement pendant la seconde pause, poumons PLEINS.
+Et ainsi de suite, retour à la TERRE.
+Cette reconnection haut et bas réalise petit à petit ce fameux TRAIT D’UNION entre CIEL et TERRE.  
+Les fameux chakras sont ainsi visités - rééquilibrés, juste répartition et de fil en aiguille, sans le rechercher; la fameuse trajectoire KUNDALINI peut se réactiver.
+
+![image](https://user-images.githubusercontent.com/12049360/112749966-05e32180-8fc6-11eb-9f97-f3fc723607c4.png)
+
+
+
+## Impact sur les méridiens
+Après nos chakras, une allusion supplémentaire peut être faite en rapport avec les méridiens (base concrète de la médecine acupuncture - shiatsu).
+La position recommandée sur ce tabouret vivant est celle pratiquée par les japonais. Assis les chevilles allongées, genoux, cuisses strictement parallèles. 
+Pour plusieurs raisons avantageuses:
+Le bassin reste MOBILE. Si l’on regarde le pratiquant de profil, le mouvement de bascule à chaque respiration va remonter en mouvement ondulatoire antéro-postérieur allant en diminuant dans sa remontée et s’arrêtant à la base du crâne; peut-être même réharmonisant l’ATLAS. Appui gauche-droite rééquilibrer.
+
+[représentation]
+
+
+On peut se référer aussi au fonctionnement des courants SUSHUMNA - PINGALA - IDA s’entrecroisant tout le long de la colonne. 
+
+![image](https://user-images.githubusercontent.com/12049360/112749970-0d0a2f80-8fc6-11eb-9924-a63c3865c1e2.png)
+
+![image](https://user-images.githubusercontent.com/12049360/112749972-11364d00-8fc6-11eb-8ff9-0cf4fe4e5464.png)
+
+Par contre, beaucoup plus intéressant c’est par cette posture, l’action rééquilibrante sur les méridiens Estomac - Rate Pancréas. Ces 2 méridiens se trouvant en connexion directe avec la résonance TERRE GAÏA. Et pour la grande majorité d’entre nous, ces 2 méridiens en voient de toutes les couleurs, avec pour conséquence toutes sortes de problèmes de GENOUX - déviation VARUM-VALGUM - instabilité TALON - déséquilibre ABDUCTEUR ADDUCTEUR - USURE CARTILAGE - MÉNISQUE etc...  et plus subtilement, reconnexion avec le sentiment de PAIX et de sécurité (rate Pancréas). 
+La féminité aussi. 
+
+Si on regarde le parcours de ces méridiens au niveau des membres inférieurs, le fait de paralléliser les rééquilibre. Face antérieur. 
+
+Sur la face postérieure, on retrouve les méridiens Vessie-Reins qu’on ralentit en dessous du bassin - qu’on augmente au-dessus jusqu’à la tête. Renforcement des Reins pour “garder le cap”
+
+Incidence positive sur le diaphragme puisqu’on réalise son support avec la colonne forte, élancée vers le CIEL. Rien de mieux pour le nerf vague. 
+
+
+Je suis certain que d’autres facteurs interviendront, tous les bons effets d’une méditation classique s’y retrouveront également. 
+
+En un jet spontané, voilà ce que j’ai reçu pour cerner à peu près le sujet des répercussions d’une pratique innovante sur tabouret vivant, biodynamique. Création unique - réalisation parfaite à souhait. 
+
+GRAND BIEN VOUS FASSE. 
+
+Petites stations répétées 10-15’’ plutôt que longues, qui peuvent sournoisement rigidifier à nouveau la posture. 
+Pas d’effort physique, beaucoup de conscience proprioceptive, se servir de l’esprit ++ moins du corps.
+A vous de voir, de sentir, d’écouter et de recevoir jusqu’au Saint-esprit. 
+
+Source: Thierry de Barquin
