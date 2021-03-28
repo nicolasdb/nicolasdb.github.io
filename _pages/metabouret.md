@@ -10,25 +10,30 @@ date: 2021-03-28
 ![image](https://user-images.githubusercontent.com/12049360/112747012-f4444e80-8fb2-11eb-8437-80cf185e88a5.png)
 
 
-L’idée orientale de l’homme est qu’il serait le trait d’union entre Terre et Ciel, et il l’est assurément.
+> L’idée orientale de l’homme est qu’il serait le trait d’union entre Terre et Ciel.
 
+Il l’est assurément.  
 La colonne vertébrale est ce trait d'union, notre axe de vie dont l'alignement est essentiel.  
 Mais cet axe est trop souvent inhabité ou négligé, par ignorance ou préoccupations divergentes.
 
 
-Heureusement,
+Heureusement,  
 Pour qui comprend que son corps est une forme de temple, en architecte, il peut poser les bases de sa reconstruction.  
 Et ce petit instrument peut nous ramener à cette présence d’un axe de vie; un alignement qui va à l’essentiel.
 
 ---
 
 ### Comment ça marche?
-L’ossature est prévue comme structure pouvant annuler les forces de “pesanteur”, mais seulement si les règles d’alignement sont respectées.  
+
+Chez la plupart d'entre nous, les grands muscles dorsaux sont très contractés; bloquant les micro-mouvements, et laissant les petits muscles inutilisés, endormis depuis belle lurette.  
+
+L’ossature est prévue comme une structure pouvant annuler les forces de “pesanteur”, mais seulement si les règles d’alignement sont respectées.  
 Sinon les systèmes musculaires et ligamentaires se substituent à l’os; compensent et souffrent de gaspillage énergétique et d'autres déviations -aux résultats douloureux-  
 
-Tabouret **dynamique** de Méditation puisque la planchette d’assise est mobile; elle provoque en permanence une forme subtile de déstabilisation qui va titiller le réflexe d'auto grandissement.
-Une musculature très spécifique entre chaque vertèbre va petit à petit se remettre à fonctionner; chez la plupart vu que les muscles longs sont très contractés; bloquant les micro mouvements, ces petits muscles sont inutilisés, donc endormis depuis belle lurette.
-Ce réveil sera plus ou moins long, en fonction de la résistance des longs muscles volontaires. C’est les uns ou les autres.
+
+L'action du "Tabouret **dynamique** de Méditation" provient de la planchette d’assise mobile; elle provoque en permanence une forme subtile de déstabilisation qui va titiller le réflexe d'auto grandissement.  
+Une musculature très spécifique entre chaque vertèbre va petit à petit se remettre à fonctionner et l'axe de vie se réveiller.  
+
  
 ---
 
