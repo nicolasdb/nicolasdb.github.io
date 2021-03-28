@@ -30,11 +30,13 @@ Chez la plupart d'entre nous, les grands muscles dorsaux sont très contractés;
 L’ossature est prévue comme une structure pouvant annuler les forces de “pesanteur”, mais seulement si les règles d’alignement sont respectées.  
 Sinon les systèmes musculaires et ligamentaires se substituent à l’os; compensent et souffrent de gaspillage énergétique et d'autres déviations -aux résultats douloureux-  
 
-
-L'action du "Tabouret **dynamique** de Méditation" provient de la planchette d’assise mobile; elle provoque en permanence une forme subtile de déstabilisation qui va titiller le réflexe d'auto grandissement.  
+![image](https://user-images.githubusercontent.com/12049360/105741050-2812e180-5f3a-11eb-9a33-510f78db6218.png)
+ 
+L'action bénéfique du "Tabouret **dynamique** de Méditation" provient de la planchette d’assise mobile; elle provoque en permanence une forme subtile de déstabilisation qui va titiller le réflexe d'auto grandissement.  
 Une musculature très spécifique entre chaque vertèbre va petit à petit se remettre à fonctionner, l'axe de vie s'aligner et se réveiller.  
 
- 
+
+
 ---
 
 ## modèles et tarifs
@@ -93,7 +95,6 @@ Pour libérer les micromouvements ostéo-sympathiques, vos muscles devraient êt
 Paradoxalement donc, pour m’aligner, je commence par rechercher la décontraction.
 
 
-![image](https://user-images.githubusercontent.com/12049360/105741050-2812e180-5f3a-11eb-9a33-510f78db6218.png)
 
 
 
