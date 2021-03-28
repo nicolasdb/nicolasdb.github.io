@@ -13,7 +13,7 @@ locale                   : "en"
 title                    : "Portfolio nicolasof"
 title_separator          : "-"
 name                     : &name "Nicolas de Barquin" # &name is a YAML anchor which can be *referenced later
-description              : &description "my new website with github and jeckyll"
+description              : &description "my website with github and jeckyll"
 url                      : https://nicolasdb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : nicolasdb # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
