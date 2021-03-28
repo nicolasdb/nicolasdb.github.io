@@ -5,12 +5,45 @@ permalink: /metabouret/
 date: 2021-03-28
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+## Le Meta-bouret, 
+l'unique tabouret dynamique de méditation.
+ 
+![image](https://user-images.githubusercontent.com/12049360/112747012-f4444e80-8fb2-11eb-8437-80cf185e88a5.png)
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
 
-...or something like this:
+L’idée orientale de l’homme est qu’il serait le trait d’union entre Terre et Ciel, et il l’est assurément.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+La colonne vertébrale est ce trait d'union, notre axe de vie dont l'alignement est essentiel.  
+Mais cet axe est trop souvent inhabité ou négligé, par ignorance ou préoccupations divergentes.
 
-You should probably delete this page and create new pages for your content. Have fun!
+
+Heureusement,
+Pour qui comprend que son corps est une forme de temple, en architecte, il peut poser les bases de sa reconstruction.
+Et ce petit instrument peut nous ramener à cette présence d’un axe de vie; un alignement qui va à l’essentiel.
+
+
+### Comment ça marche?
+L’ossature est prévue comme structure pouvant annuler les forces de “pesanteur”, mais seulement si les règles d’alignement sont respectées.  
+Sinon les systèmes musculaires et ligamentaires se substituent à l’os; compensent et souffrent de gaspillage énergétique et d'autres déviations -aux résultats douloureux-  
+
+constructor(){
+  super();
+  this.state = { showText: false };
+}
+
+render(){
+  return(
+    <div>
+      <p>Some text here...</p>
+      <a onClick={() => this.setState({ showText: !this.state.showText })>See more</a>
+      <Collapse in={this.state.showText}>
+        <div>
+           <span>
+            L’ossature est prévue comme structure pouvant annuler les forces de “pesanteur”, mais seulement si les règles d’alignement sont respectées.  
+Sinon les systèmes musculaires et ligamentaires se substituent à l’os; compensent et souffrent de gaspillage énergétique et d'autres déviations -aux résultats douloureux-  .          
+           </span>
+        </div>
+      </Collapse>
+    </div>
+  );
+}
