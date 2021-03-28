@@ -32,7 +32,7 @@ Sinon les systèmes musculaires et ligamentaires se substituent à l’os; compe
 
 
 L'action du "Tabouret **dynamique** de Méditation" provient de la planchette d’assise mobile; elle provoque en permanence une forme subtile de déstabilisation qui va titiller le réflexe d'auto grandissement.  
-Une musculature très spécifique entre chaque vertèbre va petit à petit se remettre à fonctionner et l'axe de vie se réveiller.  
+Une musculature très spécifique entre chaque vertèbre va petit à petit se remettre à fonctionner, l'axe de vie s'aligner et se réveiller.  
 
  
 ---
@@ -57,7 +57,8 @@ Identique au modèle de base mais l'assise comporte l'inclusion d'un motif color
 
 ![image](https://user-images.githubusercontent.com/12049360/110140541-7c7c6d00-7dd4-11eb-8e3a-d005136adb9d.png)
 
-Cette version est proposée à 250€, le choix peut se faire entre chakra racine ou chakra sacré.  
+Cette version est proposée à 250€ tvac.  
+Le choix peut se faire entre "chakra racine" et "chakra sacré".  
 Les autres chakras, ainsi que d'autres motifs sont en cours de développement et seront proposés par la suite. 
 
 
