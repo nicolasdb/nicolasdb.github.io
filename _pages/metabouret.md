@@ -5,7 +5,7 @@ permalink: /metabouret/
 date: 2021-03-28
 ---
 
-## l'unique tabouret dynamique de méditation.
+## le tabouret dynamique de méditation.
  
 ![image](https://user-images.githubusercontent.com/12049360/112747012-f4444e80-8fb2-11eb-8437-80cf185e88a5.png)
 
