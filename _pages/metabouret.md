@@ -18,7 +18,7 @@ Mais cet axe est trop souvent inhabité ou négligé, par ignorance ou préoccup
 
 
 Heureusement,  
-Pour qui comprend que son corps est une forme de temple, en architecte, nous peuvons poser les bases de sa reconstruction.  
+Pour qui comprend que son corps est une forme de temple, en architecte, nous pouvons poser les bases de sa reconstruction.  
 Et ce petit instrument peut nous aider à ramener cette présence d’un axe de vie; d'un alignement qui va à l’essentiel.
 
 ---
