@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/portfolio/braincandy-th.jpg
 
 ---
-# Braincandy
 
 <aside>
 💡 it's not a zombie thing, but a treat for your brain.
@@ -17,11 +16,11 @@ header:
 
 ## Why?
 
-Because there is a world of contents already out there, and we aren’t all perfect entertainer/director/writer and shit. 
+**Because there is a world of contents already out there**, and we aren’t all perfect entertainer/director/writer and shit. 
 
 Hopefully, we can already find videos who will explain or illustrate so much better what we have in mind. We don’t need to do it ourselves every time. 
 
-We just need to be inspired. ✨
+**We just need to be inspired.** ✨
 
 Because we are social creatures, It's so much better to share IRL online content than watching it on our own computer, alone, with no body to talk about it. We want direct feedback.
 
@@ -51,7 +50,7 @@ Then, a very good “braincandy” should finish with a next step. A call to act
 
 *What if we make that happen? That would be crazy :)*
 
-[Making Fun | Official Trailer | Netflix](https://www.youtube.com/watch?v=RUkKSYcWvxI)
+[Making Fun Official Trailer](https://www.youtube.com/watch?v=RUkKSYcWvxI)
 
 We should get home with excitement, looking forward the next action. 
 
