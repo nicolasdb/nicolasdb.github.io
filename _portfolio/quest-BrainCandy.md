@@ -94,13 +94,13 @@ We’ll open these to be filled by people from DAO Brussels.
 
 Old playlists
 
-[openfab/BrainCandy.markdown at master · openfab-lab/openfab](https://github.com/openfab-lab/openfab/blob/master/_event/BrainCandy.markdown)
+[openfab/BrainCandy](https://github.com/openfab-lab/openfab/blob/master/_event/BrainCandy.markdown)
 
 ---
 
 some ref.
 
-[Home | Braincandy.org](https://www.braincandy.org/)
+[Braincandy.org](https://www.braincandy.org/)
 
 [Kids in the Hall: Brain Candy - Wikipedia](https://en.wikipedia.org/wiki/Kids_in_the_Hall:_Brain_Candy)
 
