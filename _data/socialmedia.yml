@@ -1,17 +1,17 @@
 - name: GitHub
   url: http://github.com/nicolasdb
   class: icon-github
-  title: "githUUUb"
+  title: ""
 
 - name: YouTube
   url: https://www.youtube.com/@rajnambir
   class: icon-youtube
-  title: "YouTube"
+  title: ""
 
 - name: Twitter
   url: http://twitter.com/nicodepicpic
   class: icon-twitter
-  title: "Twitter"
+  title: ""
 
 # - name: Mixcloud
   # url: http://www.mixcloud.com/phlow/
