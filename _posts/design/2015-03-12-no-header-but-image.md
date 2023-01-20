@@ -4,7 +4,7 @@ subheadline:  "Headers With Style"
 title:  "No Header but Article Image"
 teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
 categories:
-    - design
+    - design2
 tags:
     - design
     - background color
