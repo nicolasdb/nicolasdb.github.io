@@ -1,8 +1,9 @@
 ---
 date: 2019/01/15
 layout: page
-title: "RetroGaming Arcade Bartop"
-teaser: "Designing a special label for a genuine Openfab Beer"
+subheadline:  "A great idea for Team-Building Workshop"
+title: "Customizing an Arcade Game."
+teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
 header:
   image: header_unsplash_2-970x.jpg
   teaser: "/assets/images/post/arcadebt-th.jpg"
