@@ -1,13 +1,14 @@
 ---
 date: 2019/01/15
+layout: page
 title: "RetroGaming Arcade Bartop"
-excerpt: "Designing a special label for a genuine Openfab Beer"
+teaser: "Designing a special label for a genuine Openfab Beer"
 header:
-  # image: "/assets/images/post/labelgit.png"
+  image: header_unsplash_2-970x.jpg
   teaser: "/assets/images/post/arcadebt-th.jpg"
   og_image: "/assets/images/post/arcadebt-th.jpg"
 categories:
-  - Post
+  - design
 tags:
   - Openfab
   - lasersaur
