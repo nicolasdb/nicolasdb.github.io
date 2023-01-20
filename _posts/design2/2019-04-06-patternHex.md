@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/post/honeycomb-th.jpg"
   og_image: "/assets/images/post/hexagonSize.png"
 categories:
-  - Post
+  - design2
 tags:
   - Fusion360
   - FR

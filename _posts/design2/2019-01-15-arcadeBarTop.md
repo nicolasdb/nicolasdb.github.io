@@ -8,7 +8,7 @@ header:
   teaser: "/assets/images/post/arcadebt-th.jpg"
   og_image: "/assets/images/post/arcadebt-th.jpg"
 categories:
-  - design
+  - design2
 tags:
   - Openfab
   - lasersaur

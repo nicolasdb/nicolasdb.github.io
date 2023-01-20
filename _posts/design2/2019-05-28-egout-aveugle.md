@@ -11,7 +11,7 @@ header:
   teaser: "/assets/images/post/aveugle-th.jpg"
   og_image: "/assets/images/post/aveugle-th.jpg"
 categories:
-  - Post
+  - design2
 tags:
   - FR
   - Service
