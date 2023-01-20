@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Style your life!"
+subheadline: "Layer of onions"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header_unsplash_6.jpg"
 permalink: "/design2/"
 ---
 <ul>
