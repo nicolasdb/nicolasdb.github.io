@@ -4,6 +4,11 @@ title               : "Contact"
 meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
+header:
+   image_fullwidth  : "midjourney.png"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+
+
+<iframe data-tally-src="https://tally.so/embed/me58Go?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="648" frameborder="0" marginheight="0" marginwidth="0" title="Have any questions or suggestions?"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
