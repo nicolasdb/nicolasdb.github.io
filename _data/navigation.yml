@@ -1,4 +1,4 @@
-- title: Nicolas
+- title: Onboarding
   url: "/"
   side: left
 
@@ -10,7 +10,7 @@
   url: "/design2/"
   side: left
 
-- title: "self-mastery"
+- title: self-mastery
   url: "/documentation/"
   side: right
 
