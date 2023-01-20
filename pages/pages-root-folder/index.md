@@ -51,7 +51,12 @@ permalink: /index.html
 homepage: true
 ---
 
-## Master autodidact, 
-how I can learn anything I want.  
+# Nicolas de Barquin: Master Autodidact
+> "From Making Things to Making Sense:   
+> My journey of turning a passion into a career, and a career into a path of self-discovery"
 
+I'm Nicolas and I'm an autodidacte and a maker. This blog is a record of my journey and experiences, both successes and failures. It is also a way to share what I have learned and discovered during this journey, as well as to help others who may be interested in the same topics.
 
+At the core of my journey, I strive for balance. This balance is between my work and my personal life. My passions are what drive me, but I also strive to maintain a sense of control and keep them from taking over.
+
+I hope that by sharing my experiences, I can inspire others to explore and learn new things every day. This blog is a place to document and share the journey, and I look forward to creating and sharing more.
