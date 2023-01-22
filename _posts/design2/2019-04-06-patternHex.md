@@ -22,7 +22,7 @@ header: no
 #  caption: ""
 #  url: ""
 image:
-  title: "pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
+  title: ""
   thumb: "/thumb/honeycomb-th.jpg"
   homepage: "pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
   caption: "Photo by Pranav Kumar Jain onUnsplash"
