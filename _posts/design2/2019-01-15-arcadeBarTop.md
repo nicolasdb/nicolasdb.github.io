@@ -4,12 +4,15 @@ layout: page
 subheadline:  "A great idea for Team-Building Workshop"
 title: "Customizing an Arcade Game."
 teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
-header:
-  image: header_unsplash_2-970x.jpg
-  teaser: "/assets/images/post/arcadebt-th.jpg"
-  og_image: "/assets/images/post/arcadebt-th.jpg"
 categories:
   - design2
+
+
+image:
+   thumb: "/thumb/arcadebt-th.jpg"
+header:
+  image: header_unsplash_2-970x.jpg
+ 
 # tags:
 #   - Openfab
 #   - lasersaur

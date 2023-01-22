@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 show_meta: false
 title: "Style your life!"
 subheadline: "Layer of onions"
