@@ -1,23 +1,15 @@
 ---
 date: 2019/01/15
 layout: page
-breadcrumb: true
-categories:
-  - design2
-
-
+#
+# Content
+#
 subheadline:  "A great idea for Team-Building Workshop"
 title: "Customizing an Arcade Game."
 teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
-
-header: 
-  image_fullwidth: header_unsplash_2-970x.jpg
-  image: 
-
-image:
-  title: 
-  thumb: "/thumb/arcadebt-th.jpg"
- 
+meta_description: "meta_description"
+categories:
+  - design2
 # tags:
 #   - Openfab
 #   - lasersaur
@@ -25,6 +17,25 @@ image:
 #   - materials
 #   - Informatics
 #   - EN
+
+#
+# Styling
+#
+header: 
+  image_fullwidth: 
+  image: 
+
+image:
+  header:
+  title: header_unsplash_2-970x.jpg
+  thumb: "/thumb/arcadebt-th.jpg"
+  homepage: ""
+  caption: ""
+  url: ""
+#
+# Metainformation & Customization
+#
+breadcrumb: true
 ---
 
 ![bartopv2](https://user-images.githubusercontent.com/12049360/51187850-01e2f180-18dd-11e9-9f76-1d9df48cb3f6.gif)

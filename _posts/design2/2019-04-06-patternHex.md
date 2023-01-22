@@ -1,11 +1,9 @@
 ---
-
+date:
 layout: page
 #
 # Content
 #
-
-
 subheadline: "Tutoriel FR"
 title: "Honeycomb pattern"
 teaser: "Comment générer un motif hexagonale avec Fusion360"
