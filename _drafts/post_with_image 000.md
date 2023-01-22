@@ -15,8 +15,13 @@ tags:
 #
 # Styling
 #
+header: no
+#  image_fullwidth: ""
+#  image: ""
+#  caption: ""
+#  url: ""
 image:
-  header: ""
+  title: ""
   thumb: ""
   homepage: ""
   caption: ""

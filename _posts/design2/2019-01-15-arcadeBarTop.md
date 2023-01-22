@@ -22,12 +22,12 @@ categories:
 # Styling
 #
 header: no
-#  image_fullwidth: 
-#  image: 
-
+#  image_fullwidth: ""
+#  image: ""
+#  caption: ""
+#  url: ""
 image:
-  header:
-  title: header_unsplash_2-970x.jpg
+  title: 
   thumb: "/thumb/arcadebt-th.jpg"
   homepage: ""
   caption: ""

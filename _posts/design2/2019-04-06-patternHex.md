@@ -6,7 +6,7 @@ layout: page
 #
 subheadline: "Tutoriel FR"
 title: "Honeycomb pattern"
-teaser: "Comment générer un motif hexagonale avec Fusion360"
+teaser: "Comment créer un motif hexagonal à l'aide de Fusion360 en utilisant le Pattern Tool pour contrôler le nombre de répétitions et la distance entre les répétitions, et enfin en exportant le résultat en .dxf pour l'intégrer à un design."
 meta_description: "meta_description"
 categories:
   - design2
@@ -16,10 +16,15 @@ tags:
 #
 # Styling
 #
+header: no
+#  image_fullwidth: ""
+#  image: ""
+#  caption: ""
+#  url: ""
 image:
-  header: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
+  title: 
   thumb: "/thumb/honeycomb-th.jpg"
-  homepage: ""
+  homepage: ""https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png""
   caption: ""
   url: ""
 #
@@ -28,74 +33,86 @@ image:
 breadcrumb: true
 ---
 
-*note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/113), feel welcome to contribute.*
 
-J'aime bien utiliser des motifs dans mes projets.  
-Dernièrement, j'ai voulu faire la gravure d'un motif hexagonale au laser.  
-De base, c'est très simple. Je commence par un hexagone, que je duplique et déplace un peu. Je groupe, et duplique une nouvelle fois, je groupe, déplace, je groupe, etc...  
-Copier/coller des groupes, permet évidemment d'aller plus vite.  
+> J'aime bien utiliser des motifs dans mes projets. 
 
-J'utilise inkscape et ses outils de magnétisme afin d'accrocher à des références et garder un alignement constant dans mon copypasta.  
+Dernièrement, j'ai voulu faire la gravure d'un motif hexagonale au laser. De base, c'est très simple : je commence par un hexagone, que je duplique et déplace un peu. Je groupe, et duplique une nouvelle fois, je groupe, déplace, je groupe, etc. Copier/coller des groupes permet évidemment d'aller plus vite.
 
-Mais, bien sûr, une fois presque fini, je me rends compte que des petites erreurs se sont glissées et se sont reportées et se sont accumulées à chaque copie.  
-Gniiiiiiiiiiiii, mon motif est pas droit!  
+D’habitude j'utilise Inkscape et ses outils de magnétisme afin d'accrocher à des références et garder un alignement constant dans mon copypasta. 
 
-# Générer un motif hexagonale dans Fusion360
+Sauf que. Gniiiiii ! Mon motif n'est pas droit !
 
-![image](https://user-images.githubusercontent.com/12049360/55670413-1bfcf200-5884-11e9-84a0-1716f0b01eea.png)
+Bien sûr, c'est une fois presque fini que je me rends compte que des petites erreurs se sont glissées et se sont répétées et accumulées à chaque copie.
 
+# Comment générer un motif hexagonale dans Fusion360?
 
-## Comprendre le motif
-Pour dessiner un motif en nid d'abeilles, c'est assez simple. Il suffit de partir d'un cercle, puis y centrer un hexagone et suivre les étapes de construction d'une fleur de vie.
+![https://user-images.githubusercontent.com/12049360/55670413-1bfcf200-5884-11e9-84a0-1716f0b01eea.png](https://user-images.githubusercontent.com/12049360/55670413-1bfcf200-5884-11e9-84a0-1716f0b01eea.png)
 
-**La fleur de vie**  
-![image](https://user-images.githubusercontent.com/12049360/55671077-418df980-588c-11e9-83bb-9caeed096286.png)
+## 1. Comprendre le motif
 
-**Et le résultat avec les hexagones**  
-![image](https://user-images.githubusercontent.com/12049360/55669291-dafde100-5875-11e9-9bfb-857755110f6a.png)
+Pour créer un motif en forme de nid d'abeilles, c'est très simple. Il vous suffit de partir d'un cercle, de centrer un hexagone et de suivre les étapes de construction d'une fleur de vie.
 
-Mais on dépend encore de copypasta multiple, plus ou moins facilité selon le logiciel de dessin utilisé.  
-De plus, si pour X raisons, je veux modifier ou adapter les tailles de cellules ou l'écart entre elles. Je dois recommencer.  
+**La fleur de vie:**
 
-## Les fonctions Array (rhino), Tile (inkscape) ou Pattern (Fusion360)
-Dans ce cas, je cherche à créer mon motif à partir de Fusion360, mais la logique est identique quel que soit le logiciel.  
+![https://user-images.githubusercontent.com/12049360/55671077-418df980-588c-11e9-83bb-9caeed096286.png](https://user-images.githubusercontent.com/12049360/55671077-418df980-588c-11e9-83bb-9caeed096286.png)
 
-### Quelles sont les dimensions qui nous intéressent?
-Je veux pouvoir controler mon motif selon la taille de l'hexagone et de l'écart entre 2 cellules.  
-Soit **hexaX=10mm**, la largeur de cellule et **space=3mm**, l'écart.  
-Ce qui nous donne un diamètre de 26mm pour notre cercle.  
-![image](https://user-images.githubusercontent.com/12049360/55669295-e3561c00-5875-11e9-87ea-de5dbeaf0ffc.png)
+**Et le résultat avec les hexagones**
 
-Ensuite, le nombre de cellules en X et Y.  
-Soit **Xcount** et **Ycount**.  
+![https://user-images.githubusercontent.com/12049360/55669291-dafde100-5875-11e9-9bfb-857755110f6a.png](https://user-images.githubusercontent.com/12049360/55669291-dafde100-5875-11e9-9bfb-857755110f6a.png)
 
-### Le motif de base
-Un "rectangular pattern" dans Fusion360, ne permet qu'un maillage rectangulaire, c'est-à-dire une répétition de n1 dans un axe **X** et n2 dans l'axe perpendiculaire **Y**.  
-J'ai donc préparé mon motif de base avec 2 cellules dans leur diagonale.  
+Nous sommes encore dépendants de copier-coller multiples, plus ou moins faciles selon le logiciel de dessin utilisé. De plus, si pour des raisons X, je souhaite modifier ou adapter la taille des cellules ou l'espace entre elles, je dois recommencer.
 
-![image](https://user-images.githubusercontent.com/12049360/55670036-721b6680-587f-11e9-8558-c27402a68934.png)
+<aside>
+💡 Dans Rhino, le Array Tool permet de répéter des objets selon des points de référence. Inkscape utilise le Tile Tool et Fusion360 le Pattern Tool. Ces outils permettent d'adapter des formes à des références et de contrôler le nombre de répétitions et la distance entre les répétitions.
+</aside>
+<br>
+Aujourd'hui, j'essaie de créer mon motif à l'aide de Fusion360, mais la méthode est la même peu importe le logiciel utilisé.
 
-Ensuite, il faut déterminer les 2 valeurs de décalage du motif.  
-1. Sur l'axe X, c'est simplement le rayon du cercle. **R=13mm** (voir plus haut)  
-2. Sur Y, ça se corse et j'ai dû retourner en classe de trigonométrie pour formuler le décalage précis.  
-![image](https://user-images.githubusercontent.com/12049360/55669965-16041280-587e-11e9-8789-4072d41c9f1f.png)  
+## 2. Quelles sont les dimensions qui nous intéressent?
 
-Ce qui nous donne `sin60° * R` **= 11.26mm**, valeur que je double pour décaler de 2 cellules.  
+La largeur de cellule (hexaX) est de 10 mm et l'écart (space) est de 3 mm, ce qui donne un diamètre de 26 mm pour le cercle.
+
+![https://user-images.githubusercontent.com/12049360/55669295-e3561c00-5875-11e9-87ea-de5dbeaf0ffc.png](https://user-images.githubusercontent.com/12049360/55669295-e3561c00-5875-11e9-87ea-de5dbeaf0ffc.png)
+
+Ensuite, le nombre de cellules en X et Y.
+Soit **Xcount** et **Ycount**.
+
+## 3. Définir la maille de base
+
+Un motif rectangulaire dans Fusion360 ne permet qu'un maillage rectangulaire, c'est-à-dire une répétition de n1 dans un axe X et n2 dans l'axe perpendiculaire Y. Pour cette raison, j'ai préparé mon motif de base avec 2 cellules disposées en diagonale.
+
+![https://user-images.githubusercontent.com/12049360/55670036-721b6680-587f-11e9-8558-c27402a68934.png](https://user-images.githubusercontent.com/12049360/55670036-721b6680-587f-11e9-8558-c27402a68934.png)
+
+Ensuite, il faut déterminer les deux valeurs de décalage du motif.
+
+1. Sur l'axe X, c'est simplement le rayon du cercle. **R=13mm** (voir plus haut)
+2. Sur Y, ça se corse et j'ai dû retourner en classe de trigonométrie pour formuler le décalage précis.
+    
+    ![https://user-images.githubusercontent.com/12049360/55669965-16041280-587e-11e9-8789-4072d41c9f1f.png](https://user-images.githubusercontent.com/12049360/55669965-16041280-587e-11e9-8789-4072d41c9f1f.png)
+    
+
+Ce qui nous donne `sin60° * R` **= 11.26mm**, valeur que je double pour décaler de 2 cellules.
 
 ## R-pattern
-_note: il est plus facile d'exécuter la fonction après extrusion du motif de base._
 
-Ci-dessous, la fonction "R-pattern" 3x3 avec `R` sur l'axe-X et `(sin60 * R)*2` sur l'axe-Y  
-![image](https://user-images.githubusercontent.com/12049360/55670131-e1458a80-5880-11e9-9049-316bac03ba5d.png)
+*note: il est plus facile d'exécuter la fonction après extrusion du motif de base.*
 
-## Ready to export dxf
-Pour mon export du fichier 2D utilisable pour la découpe laser.
-1. Je créé un objet (plaque) duquel je soustrais mon motif.  
-2. Nouveau "sketch" et projection de l'objet. [(voir ceci)](https://youtu.be/PuI2iWmngtM?t=87)
-3. Export du "sketch" en .DXF
+Voici ci-dessous, la fonction "R-pattern" 3x3 avec
 
-J'importe ensuite ce .dxf dans Inkscape pour finaliser l'incorporation dans mon design.  
+`R` sur l'axe-X et `(sin60 * R)*2` sur l'axe-Y
 
-![image](https://user-images.githubusercontent.com/12049360/55671627-608f8a00-5892-11e9-962c-eae4e7e65d73.png)
+![https://user-images.githubusercontent.com/12049360/55670131-e1458a80-5880-11e9-9049-316bac03ba5d.png](https://user-images.githubusercontent.com/12049360/55670131-e1458a80-5880-11e9-9049-316bac03ba5d.png)
+
+## 4. Ready to export dxf
+
+Pour préparer le fichier 2D à utiliser pour la découpe laser :
+
+1. Je crée un objet (plaque) à partir duquel je soustrais mon motif.
+2. J'ajoute un nouveau "sketch" et je projette l'objet. [Voir ceci](https://youtu.be/PuI2iWmngtM?t=87)
+3. J'exporte le "sketch" en .DXF
+
+Ensuite, j'importe ce .dxf dans Inkscape pour finaliser l'intégration dans mon design.
+
+![https://user-images.githubusercontent.com/12049360/55671627-608f8a00-5892-11e9-962c-eae4e7e65d73.png](https://user-images.githubusercontent.com/12049360/55671627-608f8a00-5892-11e9-962c-eae4e7e65d73.png)
 
 [Voici le fichier Fusion360](https://a360.co/2UBzilG)
