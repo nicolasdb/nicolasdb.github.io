@@ -21,9 +21,9 @@ categories:
 #
 # Styling
 #
-header: 
-  image_fullwidth: 
-  image: 
+header: no
+#  image_fullwidth: 
+#  image: 
 
 image:
   header:
