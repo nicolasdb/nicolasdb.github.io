@@ -44,6 +44,7 @@ breadcrumb: true
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
 meta_description:
+meta_teaser:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 callforaction:

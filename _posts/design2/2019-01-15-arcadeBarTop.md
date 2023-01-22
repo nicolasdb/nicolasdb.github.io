@@ -15,7 +15,8 @@ header:
   image: header_unsplash_2-970x.jpg
 
 image:
-   thumb: "/thumb/arcadebt-th.jpg"
+  title: "midjourney.png"
+  thumb: "/thumb/arcadebt-th.jpg"
  
 # tags:
 #   - Openfab
@@ -92,3 +93,18 @@ This job could be valued at 2250€ plus backoffice and finishing products, brin
 So considering the amount of time and effort that went into customizing this Arcade Game, it may be a bit pricey for personal use. However, for a team-building workshop, it could be an amazing opportunity to build something unique together, and be proud of the end result. With the right instruction and guidance from an experienced team, this project could be a great way to foster team spirit and camaraderie. In the end, the price could be easily justified.
 
 *note: this post is linked to [this issue](https://github.com/openfab-lab/toolsDocs/issues/17), feel welcome to contribute.*
+
+
+
+
+
+### All category design2 T60
+{: .t60 }
+
+{% include list-posts category='design' %}
+<!-- {% include list-posts tag='header' %} -->
+
+### All Header-Styles T30
+{: .t30 }
+
+{% include list-posts tag='header' %}
