@@ -10,7 +10,7 @@ subheadline:  "A great idea for Team-Building Workshop"
 title: "Customizing an Arcade Game."
 teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
 
-header: no
+header: 
   image_fullwidth: header_unsplash_2-970x.jpg
   image: 
 
