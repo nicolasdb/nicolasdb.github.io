@@ -101,10 +101,10 @@ So considering the amount of time and effort that went into customizing this Arc
 ### All category design2 T60
 {: .t60 }
 
-{% include list-posts category='design' %}
+{% include list-posts entries='3' category='design' %}
 <!-- {% include list-posts tag='header' %} -->
 
 ### All Header-Styles T30
-{: .t30 }
+{: .t100 }
 
-{% include list-posts tag='header' %}
+{% include list-posts entries='3' tag='header' %}

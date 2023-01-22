@@ -1,24 +1,33 @@
 ---
-date: 2019/04/06
+
 layout: page
-breadcrumb: true
-categories:
-  - design2
+#
+# Content
+#
 
 
 subheadline: "Tutoriel FR"
 title: "Honeycomb pattern"
 teaser: "Comment générer un motif hexagonale avec Fusion360"
-
-header:
-  image_fullwidth: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
-  image: 
-image:
-  thumb: "/thumb/honeycomb-th.jpg"
-
+meta_description: "meta_description"
+categories:
+  - design2
 tags:
   - Fusion360
   - FR
+#
+# Styling
+#
+image:
+  header: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
+  thumb: "/thumb/honeycomb-th.jpg"
+  homepage: ""
+  caption: ""
+  url: ""
+#
+# Metainformation & Customization
+#
+breadcrumb: true
 ---
 
 *note: this post is linked to [this issue](https://github.com/nicolasdb/nicolasdb.github.io/issues/113), feel welcome to contribute.*
