@@ -4,7 +4,7 @@ show_meta: false
 title: "Style your life!"
 subheadline: "Layer of onions"
 sidebar: right
-breadcrumb: true
+breadcrumb: false
 header:
     image_fullwidth: "design2/boxed-water-is-better-rXJXsecq8YU-unsplash.jpg"
     title: design2

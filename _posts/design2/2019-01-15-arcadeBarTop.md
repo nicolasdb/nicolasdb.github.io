@@ -1,17 +1,21 @@
 ---
 date: 2019/01/15
 layout: page
-subheadline:  "A great idea for Team-Building Workshop"
-title: "Customizing an Arcade Game."
-teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
+breadcrumb: true
 categories:
   - design2
 
 
+subheadline:  "A great idea for Team-Building Workshop"
+title: "Customizing an Arcade Game."
+teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
+
+header:
+  image_fullwidth:
+  image: header_unsplash_2-970x.jpg
+
 image:
    thumb: "/thumb/arcadebt-th.jpg"
-header:
-  image: header_unsplash_2-970x.jpg
  
 # tags:
 #   - Openfab
