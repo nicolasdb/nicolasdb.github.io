@@ -5,7 +5,7 @@ layout: page
 # Content
 #
 subheadline:  "A great idea for Team-Building Workshop"
-title: "Customizing an Arcade Game."
+title: "Arcade Game custom."
 teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
 meta_description: "meta_description"
 categories:
@@ -29,7 +29,7 @@ header: no
 image:
   title: 
   thumb: "/thumb/arcadebt-th.jpg"
-  homepage: ""
+  homepage: "https://user-images.githubusercontent.com/12049360/51187850-01e2f180-18dd-11e9-9f76-1d9df48cb3f6.gif"
   caption: ""
   url: ""
 #

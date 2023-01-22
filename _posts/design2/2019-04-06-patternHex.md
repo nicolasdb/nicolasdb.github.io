@@ -22,7 +22,7 @@ header: no
 #  caption: ""
 #  url: ""
 image:
-  title: 
+  title: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
   thumb: "/thumb/honeycomb-th.jpg"
   homepage: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
   caption: ""
