@@ -11,9 +11,8 @@ title: "Honeycomb pattern"
 teaser: "Comment générer un motif hexagonale avec Fusion360"
 
 header:
-  image_fullwidth:
-  image: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
-
+  image_fullwidth: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
+  image: 
 image:
   thumb: "/thumb/honeycomb-th.jpg"
 
