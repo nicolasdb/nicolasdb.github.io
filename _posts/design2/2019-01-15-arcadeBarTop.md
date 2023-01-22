@@ -11,8 +11,8 @@ title: "Customizing an Arcade Game."
 teaser: "After a week of work, a hand-made arcade cabinet was customized with a full electronic checkup."
 
 header:
-  image_fullwidth:
-  image: header_unsplash_2-970x.jpg
+  image_fullwidth: header_unsplash_2-970x.jpg
+  image: 
 
 image:
   title: "midjourney.png"
