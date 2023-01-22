@@ -6,7 +6,7 @@ layout: page
 #
 subheadline: "Tutoriel FR"
 title: "Honeycomb pattern"
-teaser: "Comment créer un motif hexagonal à l'aide de Fusion360 en utilisant le Pattern Tool pour contrôler le nombre de répétitions et la distance entre les répétitions, et enfin en exportant le résultat en .dxf pour l'intégrer à un design."
+teaser: "Comment créer un motif hexagonal à l'aide de Fusion360 en utilisant le Pattern Tool pour contrôler le nombre de répétitions et la distance entre les répétitions."
 meta_description: "meta_description"
 categories:
   - design2
@@ -24,7 +24,7 @@ header: no
 image:
   title: 
   thumb: "/thumb/honeycomb-th.jpg"
-  homepage: ""https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png""
+  homepage: "https://user-images.githubusercontent.com/12049360/55710466-f63e2d00-59ea-11e9-9b18-9a1ff459d629.png"
   caption: ""
   url: ""
 #
