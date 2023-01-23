@@ -3,8 +3,11 @@ layout: page
 show_meta: false
 title: "Style your content!"
 subheadline: "Layouts of Feeling Responsive"
+sidebar: 
+breadcrumb: false
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: "header_unsplash_5.jpg"
+    title: Nicolas de Barquin
 permalink: "/design/"
 ---
 
