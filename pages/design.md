@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
+title: "From Making Things"
 subheadline: "Layouts of Feeling Responsive"
 sidebar: 
 breadcrumb: false

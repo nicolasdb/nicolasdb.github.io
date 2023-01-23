@@ -3,19 +3,19 @@
   side: left
 
 - title: the MAKER
-  url: "/blog2/"
+  url: "/design/"
   side: left
 
 - title: mentorship
   url: "/design2/"
   side: left
 
-- title: self-mastery
-  url: "/blog/"
-  side: right
+# - title: self-mastery
+#   url: "/blog/"
+#   side: right
 
 - title: "Raj Nambir"
-  url: "/info/"
+  url: "/blog/"
   side: right
 
 - title: "Contact"
