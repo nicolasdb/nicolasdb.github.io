@@ -6,7 +6,7 @@ subheadline: "to Making Sense"
 sidebar: right
 breadcrumb: false
 header:
-    image_fullwidth: "design2/boxed-water-is-better-rXJXsecq8YU-unsplash.jpg"
+    image_fullwidth: "work.webp"
     title: 
     caption: Photo by Boxed Water Is Better on Unsplash
     caption_url: https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText

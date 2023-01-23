@@ -5,7 +5,7 @@ meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 header:
-   image_fullwidth  : "midjourney.png"
+   image_fullwidth  : "contact.webp"
 permalink           : "/contact/"
 ---
 
