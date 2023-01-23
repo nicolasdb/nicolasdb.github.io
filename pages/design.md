@@ -3,11 +3,11 @@ layout: page
 show_meta: false
 title: "My journey of turning a passion into a career,"
 subheadline: "from Making Things"
-sidebar: 
+sidebar: left
 breadcrumb: false
 header:
     image_fullwidth: "header_unsplash_5.jpg"
-    title: Nicolas de Barquin
+    title: 
 permalink: "/design/"
 ---
 

@@ -7,9 +7,9 @@
 layout: frontpage
 
 header:
-  image_fullwidth: "marc-olivier-paquin-mXSekc3t_Z0-unsplash.jpg"
-  caption: Image by Marc-Olivier Paquin
-  caption_url: "https://unsplash.com/@marco_paquin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  image_fullwidth: "home.webp"
+  caption: Image by Todd Diemer
+  caption_url: "https://unsplash.com/photos/67t2GJcD5PI"
 
 
 
