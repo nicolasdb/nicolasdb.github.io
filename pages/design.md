@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "From Making Things"
-subheadline: "Layouts of Feeling Responsive"
+title: "My journey of turning a passion into a career,"
+subheadline: "from Making Things"
 sidebar: 
 breadcrumb: false
 header:

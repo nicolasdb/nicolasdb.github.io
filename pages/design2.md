@@ -1,13 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Style your life!"
-subheadline: "Layer of onions"
+title: "and a career into a path of self-discovery"
+subheadline: "to Making Sense"
 sidebar: right
 breadcrumb: false
 header:
     image_fullwidth: "design2/boxed-water-is-better-rXJXsecq8YU-unsplash.jpg"
-    title: to Making Sense
+    title: 
     caption: Photo by Boxed Water Is Better on Unsplash
     caption_url: https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 permalink: "/design2/"
