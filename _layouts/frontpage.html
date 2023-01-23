@@ -10,9 +10,22 @@ format: frontpage
 </div><!-- /#header-home -->
 
 
+
 {% comment %}
 *
-* First check, if widget is empty or not by checking if there is a title
+* If there is content, spit it out here.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+
+{% comment %}
+*
+* check if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
 <div class="row t60">
@@ -37,7 +50,7 @@ format: frontpage
 
 {% comment %}
 *
-* First check, if there are any posts at all
+* check if there are any posts at all
 *
 {% endcomment %}
 <!--
@@ -85,20 +98,11 @@ format: frontpage
 -->
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
 
 
 {% comment %}
 *
-* First check, if there is a call for action-button
+* check if there is a call for action-button
 *
 {% endcomment %}
 {% if page.callforaction.url contains 'http' %}
