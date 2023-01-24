@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "and a career into a path of self-discovery"
 subheadline: "to Making Sense"
-sidebar: right
+sidebar: 
 breadcrumb: false
 header:
     image_fullwidth: "work.webp"

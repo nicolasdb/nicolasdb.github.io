@@ -9,8 +9,10 @@ title: ""
 teaser: ""
 meta_description: ""
 categories:
+# make, 
   - 
 tags:
+# Level1, 
   - 
 #
 # Styling
@@ -30,6 +32,7 @@ image:
 # Metainformation & Customization
 #
 breadcrumb: true
+sidebar: 
 ---
 
 

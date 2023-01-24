@@ -1,18 +1,18 @@
-- title: Onboarding
+- title: "onboarding"
   url: "/"
   side: left
 
-- title: the MAKER
+- title: "the maker"
   url: "/design/"
   side: left
 
-- title: mentorship
+- title: "the pathfinder"
   url: "/design2/"
   side: left
 
-# - title: self-mastery
-#   url: "/blog/"
-#   side: right
+- title: "test"
+  url: "/test/"
+  side: right
 
 - title: "Raj Nambir"
   url: "/blog/"

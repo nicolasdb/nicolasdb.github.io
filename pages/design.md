@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "My journey of turning a passion into a career,"
 subheadline: "from Making Things"
-sidebar: left
+sidebar: 
 breadcrumb: false
 header:
     image_fullwidth: "make0.webp"
@@ -21,7 +21,7 @@ Thank you for visiting, and happy making!
 
 
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.make %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
