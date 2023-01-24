@@ -31,6 +31,8 @@ image:
 #
 breadcrumb: true
 sidebar: right
+permalink: "/test/"
+
 ---
 
 # Commencez votre parcours de couture
