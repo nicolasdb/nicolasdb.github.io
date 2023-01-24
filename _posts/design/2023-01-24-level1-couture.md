@@ -52,17 +52,12 @@ sidebar: right
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
     </div>
-
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
-        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
     </div>
-
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
     </div>
 </div>
  -->
@@ -116,7 +111,7 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
     </div>
 </div>
 
-
+<br>
 <aside>
 💡 Astuce: pratiquer la couture sur des chutes de tissu
 
@@ -150,9 +145,24 @@ Ce projet simple consiste à coudre un porte-monnaie en utilisant un tissu rési
 Je vous invite à rechercher d’autres tutoriels, à expérimenter et à utiliser votre créativité, car c'est en testant et en faisant des erreurs que l'on apprend le mieux. N'hésitez pas à prendre des photos de votre progression et à montrer votre réalisation à d'autres pour recueillir des commentaires. Cela vous aidera à vous améliorer et à perfectionner votre art.
 
 - Condition de victoire Niveau 1 :
-    - [ ]  A réussi à enfiler et régler la tension du fil sur la machine à coudre
-    - [ ]  A réussi à coudre un projet en utilisant des points de base tels que le point droit et le point zigzag
-    - [ ]  A réussi à ajouter des accessoires tels que des boutons ou des fermetures éclair
+    - [x]    A réussi à enfiler et régler la tension du fil sur la machine à coudre
+    - [x]    A réussi à coudre un projet en utilisant des points de base tels que le point droit et le point zigzag
+    - [x]    A réussi à ajouter des accessoires tels que des boutons ou des fermetures éclair
+
+---
+Et ça c'est moi:
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}images/levelup/stitchesMe1.webp" alt="">
+    </div>
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}images/levelup/stitchesMe2.webp" alt="">
+    </div>
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}images/levelup/stitchesMe3.webp" alt="">
+    </div>
+</div>
+
 
 ## Projet Niveau 2 :
 
