@@ -29,6 +29,11 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+widget4:
+  title: "6...Download Theme"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget-github-303x182.jpg
+  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -51,7 +56,6 @@ permalink: /index.html
 homepage: true
 ---
 
-# Nicolas de Barquin: Master Autodidact
 > "From Making Things to Making Sense:   
 > My journey of turning a passion into a career, and a career into a path of self-discovery"
 
