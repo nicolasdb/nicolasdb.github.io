@@ -5,8 +5,8 @@ layout: page
 # Content
 #
 subheadline: "Level up"
-title: "Découvrez les bases de la couture avec la machine à coudre Singer 8280P"
-teaser: "Apprenez les points de base, les techniques de couture de base, et les projets simples pour débuter votre parcours de couture"
+title: "Découvrez la couture avec la machine à coudre Singer 8280P"
+teaser: "Apprenez les points et les techniques de couture de base au travers de projets simples pour débuter votre parcours en couture"
 meta_description: 
 categories:
   - maker
@@ -108,7 +108,7 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}Stitches02.webp" alt="">
+        <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
     </div>
     <div class="medium-8 columns">
         <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">[andersneu.de](https://enfileuneaiguille.com/points-de-base-en-couture/)</a></p>
