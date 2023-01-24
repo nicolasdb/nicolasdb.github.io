@@ -7,7 +7,7 @@ layout: page
 subheadline: "Level up"
 title: "Découvrez les bases de la couture avec la machine à coudre Singer 8280P"
 teaser: "Apprenez les points de base, les techniques de couture de base, et les projets simples pour débuter votre parcours de couture"
-meta_description: ""
+meta_description: 
 categories:
   - maker
 tags:
