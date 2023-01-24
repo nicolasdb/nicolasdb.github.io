@@ -31,7 +31,7 @@ image:
 #
 breadcrumb: true
 sidebar: right
-permalink: "/test/"
+
 
 ---
 
