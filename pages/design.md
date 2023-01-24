@@ -6,7 +6,7 @@ subheadline: "from Making Things"
 sidebar: 
 breadcrumb: false
 header:
-    image_fullwidth: "images/make0.webp"
+    image_fullwidth: "images/maker.webp"
     title: 
 permalink: "/maker/"
 ---
@@ -21,7 +21,7 @@ Thank you for visiting, and happy making!
 
 
 <ul>
-    {% for post in site.categories.make %}
+    {% for post in site.categories.maker %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

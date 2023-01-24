@@ -7,7 +7,7 @@ layout: page
 subheadline: "Tutoriel FR"
 title: "Honeycomb pattern"
 teaser: "Comment créer un motif hexagonal à l'aide de Fusion360 en utilisant le Pattern Tool pour contrôler le nombre de répétitions et la distance entre les répétitions."
-meta_description: "meta_description"
+meta_description: 
 categories:
   - maker
 tags:
