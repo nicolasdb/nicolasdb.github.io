@@ -22,7 +22,7 @@ header: no
 #  caption: ""
 #  url: ""
 image:
-  title: ""
+#  title: ""
   thumb: "images/thumb/honeycomb-th.jpg"
   homepage: "images/thumb/honeycomb-th.jpg"
   caption: ""
