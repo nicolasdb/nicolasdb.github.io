@@ -36,36 +36,36 @@ sidebar: right
 ---
 
 
-
+<!--
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}images/levelup/singer.webp" alt="">
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
-
+    </div>
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
+    </div>
+</div>
 
 
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
         <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div>
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
         <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div>
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
         <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+    </div>
+</div>
+ -->
 
 ## Introduction à la machine Singer 8280P :
 
@@ -83,9 +83,9 @@ Elle est adaptée pour les couturières expérimentées ou les débutants qui ch
 
 Comment installer la machine, mettre en place le fil et l'aiguille, et régler les différents paramètres.
 
-![Explication Singer 8280P](https://youtu.be/MBC_vrQ88wQ)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+**Explication en video: Singer 8280P**
+[![Explication Singer 8280P](https://img.youtube.com/vi/MBC_vrQ88wQ/0.jpg)](https://www.youtube.com/watch?v=MBC_vrQ88wQ "Explication Singer 8280P")
 
 Quelques références:  
 - [Les aiguilles de MaC, references. - C'sur Mesure](http://www.csurmesure-c.com/2018/02/les-aiguilles-de-mac-references.html)
@@ -102,15 +102,20 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
 - **Point d'overlock :** Il s'agit d'un point de couture qui est généralement utilisé pour finir les bords des tissus et les empêcher de s'effilocher. Il est utilisé pour les coutures en stretch, pour les bords finis et pour les coutures qui ont besoin d'être plus élastiques.
 - **Point d'ourlet :** Il s'agit d'un point de couture qui est utilisé pour faire des ourlets. Il est utilisé pour les ourlets de vêtements, les ourlets de rideaux, les ourlets de coussins, etc.
 
-![https://enfileuneaiguille.com/points-de-base-en-couture/](https://enfileuneaiguille.com/points-de-base-en-couture/)
 
-![stitches1](images/levelup/Stitches01.webp)
 
-[https://enfileuneaiguille.com/points-de-base-en-couture/](https://enfileuneaiguille.com/points-de-base-en-couture/)
+![stitches1]({{ site.urlimg }}images/levelup/Stitches01.webp)
 
-![stitches2](images/levelup/Stitches02.webp)
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}Stitches02.webp" alt="">
+    </div>
+    <div class="medium-8 columns">
+        <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">[andersneu.de](https://enfileuneaiguille.com/points-de-base-en-couture/)</a></p>
+        <p>- Types of Popular Sewing Stitches: <a href="https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/">[andersneu.de](https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/)</a></p>
+    </div>
+</div>
 
-[Types of Popular Sewing Stitches - Mood Sewciety](https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/)
 
 <aside>
 💡 Astuce: pratiquer la couture sur des chutes de tissu
