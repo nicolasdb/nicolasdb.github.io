@@ -10,6 +10,7 @@ teaser: "After a week of work, a hand-made arcade cabinet was customized with a 
 meta_description: "What’s up? We’re doing another video game party at the lab. I wanted to know if it was possible to borrow the arcade game."
 categories:
   - design2
+  - maker
 # tags:
 #   - Openfab
 #   - lasersaur
