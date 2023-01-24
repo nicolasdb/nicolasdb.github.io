@@ -6,7 +6,7 @@ layout: page
 #
 subheadline: "Level up"
 title: "Découvrez la couture avec la machine à coudre Singer 8280P"
-teaser: "Apprenez les points et les techniques de couture de base au travers de projets simples pour débuter votre parcours en couture"
+teaser: "Apprenez les points et les techniques de base au travers de projets simples pour débuter votre parcours en couture"
 meta_description: 
 categories:
   - maker
@@ -22,7 +22,7 @@ header: no
 #  url: ""
 image:
 #  title: ""
-  thumb: "images/levelup/Stitches02.webp"
+  thumb: "images/levelup/singer.webp"
   homepage: ""
   caption: ""
   url: ""
@@ -75,7 +75,7 @@ La machine Singer 8280P est une machine à coudre électronique de milieu de gam
 Elle est adaptée pour les couturières expérimentées ou les débutants qui cherchent une machine à coudre polyvalente et facile à utiliser. 
 
 <aside>
-:lightbulb: Il est important de lire le manuel d'utilisation pour comprendre les fonctionnalités de cette machine spécifique avant de commencer à l'utiliser.
+💡 Il est important de lire le manuel d'utilisation pour comprendre les fonctionnalités de cette machine spécifique avant de commencer à l'utiliser.
 
 </aside>
 
@@ -85,7 +85,7 @@ Comment installer la machine, mettre en place le fil et l'aiguille, et régler l
 
 
 **Explication en video: Singer 8280P**
-[![Explication Singer 8280P](https://img.youtube.com/vi/MBC_vrQ88wQ/0.jpg)](https://www.youtube.com/watch?v=MBC_vrQ88wQ "Explication Singer 8280P")
+[![Explication Singer 8280P]({{ site.urlimg }}images/thumb/singerAtelier.webp)](https://www.youtube.com/watch?v=MBC_vrQ88wQ "Explication Singer 8280P")
 
 Quelques références:  
 - [Les aiguilles de MaC, references. - C'sur Mesure](http://www.csurmesure-c.com/2018/02/les-aiguilles-de-mac-references.html)
@@ -111,8 +111,8 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
         <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
     </div>
     <div class="medium-8 columns">
-        <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">enfileuneaiguille.com/points-de-base-en-couture/</a></p>
-        <p>- Types of Popular Sewing Stitches: <a href="https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/">moodfabrics.com/blog/types-of-popular-sewing-stitches/</a></p>
+        <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">enfileuneaiguille.com/points-de-base-en-couture</a></p>
+        <p>- Types of Popular Sewing Stitches: <a href="https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/">moodfabrics.com/blog/types-of-popular-sewing-stitches</a></p>
     </div>
 </div>
 
