@@ -6,7 +6,7 @@ subheadline: "from Making Things"
 sidebar: 
 breadcrumb: false
 header:
-    image_fullwidth: "make0.webp"
+    image_fullwidth: "images/make0.webp"
     title: 
 permalink: "/design/"
 ---

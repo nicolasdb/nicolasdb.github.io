@@ -6,7 +6,7 @@ subheadline: "to Making Sense"
 sidebar: 
 breadcrumb: false
 header:
-    image_fullwidth: "work.webp"
+    image_fullwidth: "images/work.webp"
     title: 
     caption: Photo by Boxed Water Is Better on Unsplash
     caption_url: https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
@@ -19,5 +19,5 @@ permalink: "/design2/"
 </ul>
 
 
-Photo by <a href="https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Boxed Water Is Better</a> on <a href="https://unsplash.com/wallpapers/nature/snow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
   

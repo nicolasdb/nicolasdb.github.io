@@ -38,7 +38,7 @@ improve_content: https://github.com/nicolasdb/nicolasdb.github.io/tree/update23
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://nicolasdb.github.io/images/'
+urlimg: 'https://nicolasdb.github.io/'
 
 
 # Logo size is 600x80 pixels

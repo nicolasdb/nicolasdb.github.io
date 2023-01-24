@@ -5,7 +5,7 @@ meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 header:
-   image_fullwidth  : "contact.webp"
+   image_fullwidth  : "images/contact.webp"
 permalink           : "/contact/"
 ---
 

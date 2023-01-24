@@ -42,7 +42,7 @@ Sous-titre : "Apprenez les points de base, les techniques de couture de base, et
 
 ## Introduction à la machine Singer 8280P :
 
-![singer 8280](/levelup/singer.webp)
+![singer 8280](images/levelup/singer.webp)
 
 La machine Singer 8280P est une machine à coudre électronique de milieu de gamme qui est équipée de fonctionnalités avancées telles que des boutons de réglage automatique, des points de couture prédéfinis, une vitesse de couture réglable et un enfileur automatique d'aiguille.   
 Elle est adaptée pour les couturières expérimentées ou les débutants qui cherchent une machine à coudre polyvalente et facile à utiliser. 

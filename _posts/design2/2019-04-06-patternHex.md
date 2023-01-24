@@ -23,8 +23,8 @@ header: no
 #  url: ""
 image:
   title: ""
-  thumb: "/thumb/honeycomb-th.jpg"
-  homepage: "pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
+  thumb: "images/thumb/honeycomb-th.jpg"
+  homepage: "images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
   caption: "Photo by Pranav Kumar Jain onUnsplash"
   url: "https://unsplash.com/@peejayvisual?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
 #  
