@@ -28,7 +28,7 @@ header: no
 #  url: ""
 image:
   title: 
-  thumb: "https://user-images.githubusercontent.com/12049360/51187850-01e2f180-18dd-11e9-9f76-1d9df48cb3f6.gif"
+  thumb: "images/thumb/knock.gif"
   homepage: ""
   caption: ""
   url: ""

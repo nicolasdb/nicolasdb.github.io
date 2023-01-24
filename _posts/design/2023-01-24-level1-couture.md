@@ -9,7 +9,7 @@ title: "Découvrez les bases de la couture avec la machine à coudre Singer 8280
 teaser: "Apprenez les points de base, les techniques de couture de base, et les projets simples pour débuter votre parcours de couture"
 meta_description: ""
 categories:
-  - make
+  - maker
 tags:
   - Level1
 #

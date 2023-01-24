@@ -9,7 +9,7 @@ title: "Honeycomb pattern"
 teaser: "Comment créer un motif hexagonal à l'aide de Fusion360 en utilisant le Pattern Tool pour contrôler le nombre de répétitions et la distance entre les répétitions."
 meta_description: "meta_description"
 categories:
-  - make
+  - maker
 tags:
   - Fusion360
   - FR
@@ -24,9 +24,9 @@ header: no
 image:
   title: ""
   thumb: "images/thumb/honeycomb-th.jpg"
-  homepage: "images/pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg"
-  caption: "Photo by Pranav Kumar Jain onUnsplash"
-  url: "https://unsplash.com/@peejayvisual?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  homepage: "images/thumb/honeycomb-th.jpg"
+  caption: ""
+  url: ""
 #  
 # Metainformation & Customization
 #
