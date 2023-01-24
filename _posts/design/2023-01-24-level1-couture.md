@@ -35,7 +35,7 @@ permalink: "/test/"
 
 ---
 
-## Introduction à la machine Singer 8280P :
+
 
 <div class="row t60">
     <div class="medium-6 columns b30">
@@ -67,15 +67,15 @@ permalink: "/test/"
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
+## Introduction à la machine Singer 8280P :
 
-
-![singer 8280](images/levelup/singer.webp)
+![singer 8280](images/levelup/singer.webp){:class="img-responsive"}
 
 La machine Singer 8280P est une machine à coudre électronique de milieu de gamme qui est équipée de fonctionnalités avancées telles que des boutons de réglage automatique, des points de couture prédéfinis, une vitesse de couture réglable et un enfileur automatique d'aiguille.   
 Elle est adaptée pour les couturières expérimentées ou les débutants qui cherchent une machine à coudre polyvalente et facile à utiliser. 
 
 <aside>
-💡 Il est important de lire le manuel d'utilisation pour comprendre les fonctionnalités de cette machine spécifique avant de commencer à l'utiliser.
+:lightbulb: Il est important de lire le manuel d'utilisation pour comprendre les fonctionnalités de cette machine spécifique avant de commencer à l'utiliser.
 
 </aside>
 
@@ -100,11 +100,13 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
 - **Point d'overlock :** Il s'agit d'un point de couture qui est généralement utilisé pour finir les bords des tissus et les empêcher de s'effilocher. Il est utilisé pour les coutures en stretch, pour les bords finis et pour les coutures qui ont besoin d'être plus élastiques.
 - **Point d'ourlet :** Il s'agit d'un point de couture qui est utilisé pour faire des ourlets. Il est utilisé pour les ourlets de vêtements, les ourlets de rideaux, les ourlets de coussins, etc.
 
-![[https://enfileuneaiguille.com/points-de-base-en-couture/](https://enfileuneaiguille.com/points-de-base-en-couture/)](images/levelup/Stitches01.webp)
+![https://enfileuneaiguille.com/points-de-base-en-couture/](https://enfileuneaiguille.com/points-de-base-en-couture/)
+
+![stitches1](images/levelup/Stitches01.webp)
 
 [https://enfileuneaiguille.com/points-de-base-en-couture/](https://enfileuneaiguille.com/points-de-base-en-couture/)
 
-![stitches](images/levelup/Stitches02.webp)
+![stitches2](images/levelup/Stitches02.webp)
 
 [Types of Popular Sewing Stitches - Mood Sewciety](https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/)
 
