@@ -8,7 +8,7 @@ breadcrumb: false
 header:
     image_fullwidth: "images/make0.webp"
     title: 
-permalink: "/design/"
+permalink: "/maker/"
 ---
 
 Welcome! I'm excited to show you the projects and tutorials I've made and developed over my 10 years as a maker and fablab manager. Here, you'll find guides on building and maintaining machines, CAD and CAM software, electronics, Arduino, and more.
