@@ -23,7 +23,7 @@ header: no
 image:
   title: ""
   thumb: "images/levelup/singer.webp"
-  homepage: "images/levelup/singer.webp"
+  homepage: ""
   caption: ""
   url: ""
 #
@@ -35,12 +35,39 @@ permalink: "/test/"
 
 ---
 
-# Commencez votre parcours de couture
-
-Titre : "Découvrez les bases de la couture avec la machine à coudre Singer 8280P"
-Sous-titre : "Apprenez les points de base, les techniques de couture de base, et les projets simples pour débuter votre parcours de couture"
-
 ## Introduction à la machine Singer 8280P :
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}images/levelup/singer.webp" alt="">
+        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
+        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
+        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+
 
 ![singer 8280](images/levelup/singer.webp)
 
@@ -61,7 +88,7 @@ Comment installer la machine, mettre en place le fil et l'aiguille, et régler l
 Quelques références:  
 - [Les aiguilles de MaC, references. - C'sur Mesure](http://www.csurmesure-c.com/2018/02/les-aiguilles-de-mac-references.html)
 
-- [Manuel-dinstructions-Singer-8280.pdf](images/levelup/Manuel-dinstructions-Singer-8280.pdf)
+- [Manuel-dinstructions-Singer-8280.pdf]({{ site.urlimg }}images/levelup/Manuel-dinstructions-Singer-8280.pdf)
 
 ## Les points de base :
 
