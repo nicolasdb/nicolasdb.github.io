@@ -27,7 +27,7 @@ header: no
 #  caption: ""
 #  url: ""
 image:
-  title: 
+#  title: ""
   thumb: "images/thumb/knock.gif"
   homepage: ""
   caption: ""

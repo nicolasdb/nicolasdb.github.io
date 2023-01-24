@@ -21,7 +21,7 @@ header: no
 #  caption: ""
 #  url: ""
 image:
-  title: ""
+#  title: ""
   thumb: "images/levelup/singer.webp"
   homepage: ""
   caption: ""
