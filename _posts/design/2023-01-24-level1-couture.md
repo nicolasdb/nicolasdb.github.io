@@ -22,7 +22,7 @@ header: no
 #  url: ""
 image:
 #  title: ""
-  thumb: "images/levelup/singer.webp"
+  thumb: "images/levelup/Stitches02.webp"
   homepage: ""
   caption: ""
   url: ""
@@ -111,8 +111,8 @@ Voici quelques exemples de points de base que l'on peut trouver sur une machine 
         <img src="{{ site.urlimg }}images/levelup/Stitches02.webp" alt="">
     </div>
     <div class="medium-8 columns">
-        <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">[andersneu.de](https://enfileuneaiguille.com/points-de-base-en-couture/)</a></p>
-        <p>- Types of Popular Sewing Stitches: <a href="https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/">[andersneu.de](https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/)</a></p>
+        <p>- Les points de base en couture : <a href="https://enfileuneaiguille.com/points-de-base-en-couture/">enfileuneaiguille.com/points-de-base-en-couture/</a></p>
+        <p>- Types of Popular Sewing Stitches: <a href="https://www.moodfabrics.com/blog/types-of-popular-sewing-stitches/">moodfabrics.com/blog/types-of-popular-sewing-stitches/</a></p>
     </div>
 </div>
 
