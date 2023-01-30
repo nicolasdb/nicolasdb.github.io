@@ -14,9 +14,11 @@ By sharing my experiences, I hope to inspire others to explore and learn somethi
 
 ---
 
-Work in progress,   
-I'm learning a bit of CSS so I can update myself the style of pages.   
+Work in progress,    
+I'm learning some CSS so I can update the style of my pages. I will store my setings here.    
 
-This website is hosted via super.so for the no-code setup, and notion.so who serve as database and backoffice.   
-I love so much this shit. <3  
-I'll discontinue for now github pages where I spent too much time on code versus content. 
+This website is hosted by [super.so](https://super.so/) for the no-code setup, and [notion.so](https://www.notion.so/) serves as the database and back office.   
+
+I really love this stuff. ❤️ I will discontinue GitHub Pages, where I spent too much time on code instead of content.
+
+> Original template is from [Eric Day](https://you.super.site/)
