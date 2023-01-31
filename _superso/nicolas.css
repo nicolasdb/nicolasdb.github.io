@@ -67,30 +67,30 @@ body {
       }
   }
   
+
+
+  
   /* Enable pointer-events to generate affliate links using super:so Link property in Notion */ 
   
   [id*="recommendations"] .notion-collection-card {
       pointer-events: none !important;
   }
   
-  /* Custom Footer in <body> - Disabled */
-  
-  .footer {
-    /* display:none; */
+  /* Table-based Footer - Disabled*/
+        .notion-collection-table__wrapper {
+        display:none;
   }
-  
+  /* Custom Footer in <body> - Enabled */
+        .footer {
+        /* display:none; */
+  }
   /* Newsletter in Footer - Enabled */
-  
-  .newsletter {
-    /*display:none;*/
+        .newsletter {
+        /*display:none;*/
   }
   
-  /* Table-based Footer - Enabled */
-  
-  .notion-collection-table__wrapper {
-       display:none;
-  }
-  
+
+
   /* Hide Notion Toggle - hack to hide content on pages. Drag into toggle. */
   /* If you want to use toggles, replace .notion-toggle with #block-[your block id] */
   
